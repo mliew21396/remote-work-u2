@@ -2,6 +2,8 @@
 
 In this unit, you will go into more depth into Ruby and really start problem solving. You will have to create your own tests and determine what it means to be successful with a challenge. 
 
+Since you've likely been suffering some Ruby withdrawal in unit 1, we recommend taking some time to review what you've learned as you need to. Go back to the [Socrates](https://socrates.devbootcamp.com) exercises you struggled with before and re-do them. Re-read pertinent passages in Chris Pine's [Learn to Program](insert link here) The unit 2 challenges do not give you resources to read before hand, so you'll want to refresh your knowledge of Ruby on your own. 
+
 
 ### [Week 4: Ruby Algorithms](week_4)
 ### [Week 5: Ruby Classes](week_5)
@@ -16,12 +18,7 @@ In this unit, you will go into more depth into Ruby and really start problem sol
 #### How to navigate this repository
 If you would like to open tabs in a new window, please either right click or hold command while you click. 
 
-## Resources
-+ [Writing Driver Test Code](https://gist.github.com/dbc-challenges/5aea3150ddec2aec1007)
-+ [Introduction to Refactoring](http://sourcemaking.com/refactoring/introduction-to-refactoring)  
-+ [Rubular: Play with Regex](http://rubular.com/)  
-+ [Tail Recursion vs. Tree Recursion](http://www.dreamincode.net/forums/topic/35002-tail-recursion-vs-tree-recursion/)  
-+ [Ruby for Newbies](http://net.tutsplus.com/sessions/ruby-for-newbies)  
-+ [Ruby Variable Scope](http://www.techotopia.com/index.php/Ruby_Variable_Scope) 
-+ [GangesLearning (Videos)](https://www.youtube.com/user/GangesLearning)
-+ [The Well-Grounded Rubyist (Book)](http://www.manning.com/black2/)  
+## [Resources](https://github.com/Devbootcamp/phase_0_handbook/blob/master/resources.md)
+We highly recommend the following books for this unit. We aren't requiring you to purchase them, they are just great books to have in your library for really getting to know the ins and outs of Ruby and object-oriented design.
+- [The Well-Grounded Rubyist](http://www.manning.com/black2/)
+- [Practical Object Oriented Design in Ruby](http://www.poodr.com/)

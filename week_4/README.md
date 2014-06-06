@@ -1,12 +1,12 @@
 # Ruby Algorithms
 
-So you've done some preparation on Ruby, and have probably been wondering "Why did we have to do all those exercises before Phase 0 if we weren't even going to start with Ruby?" Well, now is your time to get back to it while using the blog and skills you learned in unit 1. 
+So you've done some preparation on Ruby, and have probably been wondering "Why did we have to do all those exercises before Phase 0 if we weren't even going to start with Ruby?" Well, now is your time to get back to it while using the blog and skills you learned in unit 1. We aren't going to provide refresher resources, so it's up to you to review the concepts in Ruby you need to work through these challenges -- just a heads up. Please go back to [Socrates](https://socrates.devbootcamp.com/exercises) or check out some of the ruby [resources](https://github.com/Devbootcamp/phase_0_handbook/blob/master/resources.md). 
 
-This week you will be working on writing command-line programs focusing on algorithms and basic testing. Some challenges will also have tests already developed using RSpec (a tool for testing ruby code). You will learn how to run these tests on your computer and read them to figure out what the errors are. NOTE: You are not expected to write RSpec in Phase 0, just read it. RSpec is designed to be readable. 
+This week you will be working on writing command-line programs focusing on algorithms and basic testing. Some challenges will also have tests already developed using RSpec (a tool for testing ruby code). You will learn how to run these tests on your computer and read them to figure out what the errors are. NOTE: You are not expected to write or fully understand RSpec in Phase 0, just be able to read it. RSpec is designed to be readable. 
 
 Install and read a bit about [RSpec](http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297) before you begin. If you have trouble, ask for help on the google+ community.
 
-**Please make sure to follow each step we ask you (in order): write driver test code, pseudocode, initial solution, refactoring, reflection, and review. 
+**Please make sure to follow each step we ask you (in order): write driver test code, pseudocode, initial solution, refactoring, reflection, and review.** 
 
 This week you get a bit more choice on which challenges to do. If you want to go above and beyond, do all of them!
 

@@ -1,6 +1,6 @@
 [Week 5 Home](../)
 
-# U2.W5: A Nested Array to Model a Boggle Board
+# U2.W5: A Nested Array to Model a Boggle Board **SOLO CHALLENGE**
 
 
 ## Learning Competencies

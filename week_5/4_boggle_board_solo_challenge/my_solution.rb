@@ -1,4 +1,4 @@
-# U2.W5: A Nested Array to Model a Boggle Board
+# U2.W5: A Nested Array to Model a Boggle Board SOLO CHALLENGE
 
 # I worked on this challenge [by myself, with: ].
 

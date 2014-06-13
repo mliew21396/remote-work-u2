@@ -8,7 +8,7 @@ These challenges are not ready yet. They will be ready at least by the Monday of
 ## Challenges
 1. [Die Class 1: Numeric](1_die)
 2. [Die Class 2: Arbitrary Symbols](2_die)
-3. [Build a Simple Guessing Game](3_guessing_game_solo_challenge)
+3. [Build a Simple Guessing Game](3_guessing_game)
 4. [A Nested Array to Model a Boggle Board SOLO CHALLENGE](4_boggle_board_solo_challenge)
 5. [Virus Predictor](5_virus_predictor)
 6. [Validate Credit Card](6_validate_credit_card)

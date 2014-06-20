@@ -24,7 +24,7 @@ Don't forget your expectations for the unit (listed below)!
 
 ## Fetch the curriculum changes!
 
-It's time to fetch the new curriculum from Devbootcamp/phase_0_unit_2. Use [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) and modify them to use phase_0_unit_2 (instead of phase_0_unit_1). Use the "command line" instructions!
+It's time to fetch the new curriculum from Devbootcamp/phase-0-unit-2. Use [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) and modify them to use phase-0-unit-2 (instead of phase-0-unit-1). Use the "command line" instructions!
 
 ## Completing the challenges
 

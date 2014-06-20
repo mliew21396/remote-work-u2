@@ -6,8 +6,8 @@ Since you've likely been suffering some Ruby withdrawal in unit 1, we recommend 
 
 
 ### [Week 4: Ruby Algorithms](week-4)
-### [Week 5: Ruby Classes](week-5)
-### [Week 6: Object-Oriented Design](week-6)
+### [Week 5: Ruby Classes]<!-- (week-5) --> Will be released the Sunday before week 5 starts
+### [Week 6: Object-Oriented Design]<!-- (week-6) --> Will be released the Sunday before week 6 starts
 
 ## Expectations for the Unit
 

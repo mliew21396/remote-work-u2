@@ -22,7 +22,7 @@ This week you will be working on creating ruby classes and translating RSpec int
 
 ## Fetch DBC's Changes
 ####It's time to fetch changes from DevBootcamp's phase_0_unit_2 master repo.
-Follow [these instructions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching-changes.md)!
+Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md)!
 Modify them for unit 2.
 
 ## Working through the challenges
@@ -33,5 +33,5 @@ Once you have the entire local repository on your computer, you don't need to re
 
 **You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 2 Week 5 Submission" form.** It is not enough to have your work on github.
 
-## [Resources](https://github.com/Devbootcamp/phase_0_handbook/blob/master/resources.md)
+## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
  

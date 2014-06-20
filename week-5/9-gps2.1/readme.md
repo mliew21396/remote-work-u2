@@ -37,7 +37,7 @@ Push your solution to Github! Remember to include your pair's name!
 ## Optimize Your Learning (Optional)
 (In case you didn't get enough of the delicious horrible-code) 
 
-Expand the program for the customer based on their requests. Use the methodology you've been practicing! (Write [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/driver-code.md), [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/pseudocode.md), [Write your initial solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/initial-solution.md), [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/refactoring.md), [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/reflection-guidelines.md))
+Expand the program for the customer based on their requests. Use the methodology you've been practicing! (Write [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md), [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md), [Write your initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md), [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md), [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md))
 
 
 Hi! I am a small bakery owner who has a ruby program that calculates the 

@@ -22,8 +22,8 @@ Comment each line to describe what it's doing
 ## Release 2: Answer the Questions!
 Answer the questions in that respective section.
 
-## Release 3: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 3: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 ## Release 4: Push your solution to Github
 
-## Release 5: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/review.md)
+## Release 5: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)

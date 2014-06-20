@@ -1,7 +1,7 @@
 [Week 5 Home](../)
 
 # U2.W5: A Nested Array to Model a Boggle Board **SOLO CHALLENGE**
-Please refer to the [solo challenge](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md) guidelines in the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook)
+Please refer to the [solo challenge](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md) guidelines in the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook).
 
 
 ## Learning Competencies
@@ -69,17 +69,17 @@ puts boggle_board[2][3] == "x" #=> should be false
 ```
 
 
-## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md)
+## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/pseudocode.md)
 
-## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
+## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/initial_solution.md)
 
-## Release 2: [Refactored Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
+## Release 2: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/refactoring.md)
 
-## Release 3: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
+## Release 3: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/reflection_guidelines.md)
 
 ## Release 4: Push your solution to Github
 
-## Release 5: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)
+## Release 5: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/review.md)
 
 
 ## External Resources

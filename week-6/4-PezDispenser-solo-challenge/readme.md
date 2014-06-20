@@ -1,7 +1,7 @@
 [Week 6 Home](../)
 
 # U2.W6: Create a PezDispenser Class from User Stories 
-**[SOLO CHALLENGE](https://github.com/Devbootcamp/phase_0_handbook/blob/master/solo-challenges.md) OPTION 1**
+**[SOLO CHALLENGE](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md) OPTION 1**
 
 
 ## Learning Competencies
@@ -19,20 +19,20 @@ In this challenge, you will translate user stories into an Ruby object (using a 
   - As a pez user, I'd like to be able to add a pez to the dispenser so I can save a flavor for later.
   - As a pez user, I'd like to be able to see all the flavors inside the dispenser so I know the order of the flavors coming up.
 
-## Release 1: Review the [Driver Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/driver-code.md)
+## Release 1: Review the [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
 These do not have expectations that would return `true` or `false` if called.  Add assert statements (remember to define the `assert` method!) to make sure it's working properly.
 
-## Release 2: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/pseudocode.md)
+## Release 2: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 We definitely know we have a PezDispenser class, but what are it's innards? What are PezDispenser's attribute(s) and method(s)? Take a moment to list out all the methods, and show the input and output. It's good to be clear when there isn't an input or output!
 
-## Release 3: Write your [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/initial-solution.md) 
+## Release 3: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md) 
 Make sure your test code still works and satisfies the expected output. 
 
-## Release 4: [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/refactoring.md)
+## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 ## Release 6: Push your solution to Github
 
-## Release 7: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/review.md)
+## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
 Write feedback for at least two other solutions!

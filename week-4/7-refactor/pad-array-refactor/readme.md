@@ -23,7 +23,7 @@ Copy your initial solution into the my_solution](my_solution.rb) file. Then, in 
 Comment out all other solutions in your file and run the spec file. Your code should pass all of the tests. 
 **Commit your changes.**
 
-## Release 3: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 3: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 Reflect on your learning in the [my_solution](my_solution.rb) file. 
 ***NOTE: Reflections are mandatory!*** 
 

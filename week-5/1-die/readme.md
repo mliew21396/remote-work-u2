@@ -28,16 +28,16 @@ Use the [Ruby Docs](http://www.ruby-doc.org/) to see how to return a random numb
 ## Release 0: Run the Tests
  
 ## Release 1: Translate the tests
-Translate at least 3 of the tests into [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/driver-code.md) and include it in the driver test code section. If the tests are failing to catch a problem, try writing your own driver test code for it. 
+Translate at least 3 of the tests into [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) and include it in the driver test code section. If the tests are failing to catch a problem, try writing your own driver test code for it. 
 
-## Release 2: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/pseudocode.md)
+## Release 2: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
-## Release 3: [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/initial-solution.md)
+## Release 3: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
-## Release 4: [Refactored Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/refactoring.md)
+## Release 4: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 ## Release 6: Push your solution to Github
 
-## Release 7: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/review.md)
+## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)

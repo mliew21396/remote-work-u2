@@ -48,16 +48,16 @@ As a user, I want to
 - Output my finished template onto the screen
 
  
-## Release 1: Write [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/driver-code.md) 
+## Release 1: Write [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) 
   - First, write your generic template (store in a variable)
   - Then identify the three topics and write out your ideal paragraph using your generic template. Store these in variables. 
   
-## Release 2: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/pseudocode.md)
-## Release 3: [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/initial-solution.md)
-## Release 4: [Refactored Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/refactoring.md)
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 2: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+## Release 3: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 4: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 ## Release 6: Push your solution to Github
-## Release 7: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/review.md)
+## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
 
 ##Optimize your Learning! (Optional)
 - Use the appropriate pronoun for a person (male or female), place, or thing (HINT: this may be a good place to try creating an object...)

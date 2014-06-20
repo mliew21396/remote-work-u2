@@ -1,6 +1,6 @@
 # Ruby Algorithms
 
-So you've done some preparation on Ruby, and have probably been wondering "Why did we have to do all those exercises before Phase 0 if we weren't even going to start with Ruby?" Well, now is your time to get back to it while using the blog and skills you learned in unit 1. We aren't going to provide refresher resources, so it's up to you to review the concepts in Ruby you need to work through these challenges -- just a heads up. Please go back to [Socrates](https://socrates.devbootcamp.com/exercises) or check out some of the ruby [resources](https://github.com/Devbootcamp/phase_0_handbook/blob/master/resources.md). 
+So you've done some preparation on Ruby, and have probably been wondering "Why did we have to do all those exercises before Phase 0 if we weren't even going to start with Ruby?" Well, now is your time to get back to it while using the blog and skills you learned in unit 1. We aren't going to provide refresher resources, so it's up to you to review the concepts in Ruby you need to work through these challenges -- just a heads up. Please go back to [Socrates](https://socrates.devbootcamp.com/exercises) or check out some of the ruby [resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md). 
 
 This week you will be working on writing command-line programs focusing on algorithms and basic testing. Some challenges will also have tests already developed using RSpec (a tool for testing ruby code). You will learn how to run these tests on your computer and read them to figure out what the errors are. NOTE: You are not expected to write or fully understand RSpec in Phase 0, just be able to read it. RSpec is designed to be readable. 
 
@@ -34,7 +34,7 @@ This week you get a bit more choice on which challenges to do. If you want to go
 
 When you make updates to the files on your local repo, you should commit and push your work through the command line. Include a commit message like "added pseudocode and initial solution for add it up."
 
-**NOTE: Sometimes we will make changes to the original repository to clarify instructions. You will need to fetch these changes from the master branch when we announce changes on the google+ community.** Use [these](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching-changes.md) instructions. Substitute phase_0_unit_2 for each instance of phase_0_unit_1 in the instructions.
+**NOTE: Sometimes we will make changes to the original repository to clarify instructions. You will need to fetch these changes from the master branch when we announce changes on the google+ community.** Use [these](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) instructions. Substitute phase_0_unit_2 for each instance of phase_0_unit_1 in the instructions.
 
 You will want to run and modify all files from your local repository on your computer. Use the terminal to navigate to the 'my_solution.rb' files or the spec files. 
 
@@ -43,5 +43,5 @@ You will want to run and modify all files from your local repository on your com
 **You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 2 Week 4 Submission" form.** It is not enough to push your changes to your fork on github.
 
 
-## [Resources](https://github.com/Devbootcamp/phase_0_handbook/blob/master/resources.md)
+## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
 

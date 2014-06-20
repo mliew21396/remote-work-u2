@@ -22,7 +22,7 @@ Don't forget your expectations for the unit (listed below)!
 
 ## Fetch the curriculum changes!
 
-It's time to fetch the new curriculum from Devbootcamp/phase_0_unit_2. Use [these instructions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching-changes.md) and modify them to use phase_0_unit_2 (instead of phase_0_unit_1). Use the "command line" instructions!
+It's time to fetch the new curriculum from Devbootcamp/phase_0_unit_2. Use [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) and modify them to use phase_0_unit_2 (instead of phase_0_unit_1). Use the "command line" instructions!
 
 ## Completing the challenges
 
@@ -39,6 +39,6 @@ You need to submit your work on the Unit 2, Week 6 submission form on [apply.dev
 ## Link Issues in the Repository
 You now know enough to fix broken links in your repo! If you run into a 404 error navigating through the directory online, go to the file where the error is, see what the link is. Is it to an internal or external file? If internal, do you see a file named something similarly in the repo? If so, you'll want to figure out why the link is broken and fix it. If it's to an external resource,  Definitely let us know if a link is broken so we can fix it, but take some time to research it as well. 
 
-## [Resources](https://github.com/Devbootcamp/phase_0_handbook/blob/master/resources.md) 
+## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md) 
 
 

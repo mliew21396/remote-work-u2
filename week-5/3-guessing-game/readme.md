@@ -66,9 +66,9 @@ Translate at least 3 of the tests into [Driver Test Code](https://github.com/Dev
 
 ## Release 4: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/refactoring.md)
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/reflection_guidelines.md)
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 ## Release 6: Push your solution to Github
 
-## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/review.md)
+## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
 

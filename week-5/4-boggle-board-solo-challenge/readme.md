@@ -75,11 +75,11 @@ puts boggle_board[2][3] == "x" #=> should be false
 
 ## Release 2: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/refactoring.md)
 
-## Release 3: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/reflection_guidelines.md)
+## Release 3: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 ## Release 4: Push your solution to Github
 
-## Release 5: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/review.md)
+## Release 5: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
 
 
 ## External Resources

@@ -78,10 +78,10 @@ I want to create a sorting method that alphabetizes an array. I also want to cre
 the data in my hash by age (starting with the youngest first). This should not modify the existing data structure.
 
 ```ruby
-my_array_sorting_method(i_want_pets, "pets") #=>
+my_array_sorting_method(i_want_pets) #=>
 ["3", "4", "I", "but", "have", "only", "pets", "want"]
 
-my_hash_sorting_method(my_family_pets_ages, age) #=>
+my_hash_sorting_method(my_family_pets_ages) #=>
 [["Annabelle", 2], ["Ditto", 5], ["Hoobie", 5], ["Bogart", 6], ["Poly", 6], ["Evi", 8], ["George", 14]] 
 # This may be false depending on how your method deals with ordering the animals with the same ages.
 ```

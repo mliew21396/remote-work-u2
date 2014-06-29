@@ -1,8 +1,6 @@
 # Week 5: Ruby Classes
 
-Please do not start on week 5 yet, we will be reviewing the challenges and making changes. It will be published at least by the Sunday before week 5 starts. 
-
-<!-- This week you will be working on creating ruby classes and translating RSpec into driver test code. Please make sure to follow each step we ask you to do (write driver test code, pseudocode, initial solution, refactoring, reflection, and review). This week gets into more advanced concepts, so make sure you pair as often as you need to ensure you are able to learn efficiently and have fun doing it! You can pair on any challenge (except for solo challenges) and you have an awesome community of programmers to pair with. You can always ask people to pair on the community and work with people from other locations! You'll also want to take some time to research classes upfront before diving in if you are unfamiliar. There are a ton of great resources out there that will help with this. 
+This week you will be working on creating ruby classes and translating RSpec into driver test code. Please make sure to follow each step we ask you to do (write driver test code, pseudocode, initial solution, refactoring, reflection, and review). This week gets into more advanced concepts, so make sure you pair as often as you need to ensure you are able to learn efficiently and have fun doing it! You can pair on any challenge (except for solo challenges) and you have an awesome community of programmers to pair with. You can always ask people to pair on the community and work with people from other locations! You'll also want to take some time to research classes upfront before diving in if you are unfamiliar. There are a ton of great resources out there that will help with this. 
 
 
 ## Challenges
@@ -37,4 +35,3 @@ Once you have the entire local repository on your computer, you don't need to re
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
  
- -->

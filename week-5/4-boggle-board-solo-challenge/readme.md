@@ -79,7 +79,7 @@ puts boggle_board[2][3] == "x" #=> should be false
 
 ## Release 4: Push your solution to Github
 
-## Release 5: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
+<!--## Release 5: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) -->
 
 
 ## External Resources

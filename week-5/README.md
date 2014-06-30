@@ -6,8 +6,8 @@ This week you will be working on creating ruby classes and translating RSpec int
 ## Challenges
 1. [Die Class 1: Numeric](1-die)
 2. [Die Class 2: Arbitrary Symbols](2-die)
-3. [Build a Simple Guessing Game SOLO CHALLENGE](3-guessing-game)
-4. [A Nested Array to Model a Boggle Board](4-boggle-board-solo-challenge)
+3. [Build a Simple Guessing Game](3-guessing-game)
+4. [A Nested Array to Model a Boggle Board SOLO CHALLENGE](4-boggle-board-solo-challenge)
 5. [Virus Predictor](5-virus-predictor)
 6. [Validate Credit Card](6-validate-credit-card)
 7. [Technical Blog](7-technical-blog.md)

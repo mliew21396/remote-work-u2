@@ -40,6 +40,7 @@ In boggle, you can spell out words by collecting letters that are immediately ne
 ### This challenge has 2 Parts. For each section, follow the steps in the releases. 
 
 #### Part 1: Write a method that takes a row number and returns all the elements in the row.  
+Our 'create_word' method works, but we don't want our methods to require the board we are working with to be an argument. How could you implement a 'get_row' method that only requires an integer as an argument:
 
 ```ruby
 def get_row(row)
@@ -51,6 +52,7 @@ get_row(1) #=>  ["i", "o", "d", "t"]
 
 
 #### Part 2: Now write a method that takes a column number and returns all the elements in the column.
+The Enumerable module is great, but let's leave those methods for when we refactor. What can you use instead?
 
 ```ruby
 def get_col(col)
@@ -76,6 +78,7 @@ puts boggle_board[2][3] == "x" #=> should be false
 ## Release 2: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/refactoring.md)
 
 ## Release 3: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+Along with your reflection describe what the splat operator in the 'create_word' method is doing.
 
 ## Release 4: Push your solution to Github
 

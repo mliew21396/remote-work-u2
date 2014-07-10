@@ -40,7 +40,7 @@ In boggle, you can spell out words by collecting letters that are immediately ne
 ### This challenge has 2 Parts. For each section, follow the steps in the releases. 
 
 #### Part 1: Write a method that takes a row number and returns all the elements in the row.  
-Our 'create_word' method works, but we don't want our methods to require the board we are working with to be an argument. How could you implement a 'get_row' method that only requires an integer as an argument:
+Our 'create_word' method works, but we don't want our methods to require the board we are working with to be an argument. How could you implement a class so that your methods only require an integer as an argument, like so:
 
 ```ruby
 def get_row(row)

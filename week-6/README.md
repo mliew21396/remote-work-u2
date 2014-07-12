@@ -1,6 +1,7 @@
 # Week 6: Object-Oriented Design in Ruby
 
 Please do not start on week 6 yet, we will be reviewing the challenges and making changes. It will be published at least by the Sunday before week 6 starts.
+
 <!-- 
 Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. There are two great resources we want to encourage you to add to your library. [The Well-Grounded Rubyist](http://www.manning.com/black3/) is an excellent reference that will help you better understand the many intricicies of the ruby language. You should feel comfortable recognizing most, if not all, ruby syntax (although you are not expected to be able to use it all). We also recommend [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There aren't legally free copies online, so if you don't want to shell out the bucks to buy it (although we highly recommend it) use the mighty power of google to introduce yourself to the fundamentals of object-oriented design.
 
@@ -18,7 +19,7 @@ Don't forget your expectations for the unit (listed below)!
 8. [BONUS Creating a Car Class from User Stories](8-BONUS-CarClass)
 
 ## Remember your Expectations for the Unit!
-- Pair at least twice this week with a member of your accountability group.  *You need to pair **6** times this unit*
+- Pair at least twice this week.  *You need to pair **6** times this unit*
 - Give feedback for each person you paired with. *You need to submit at least 7 pieces of feedback in this unit* (6 for peer-pairing, and 1 GPS)
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit. Don't forget or you won't get your feedback!
 

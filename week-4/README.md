@@ -22,7 +22,7 @@ This week you get a bit more choice on which challenges to do. If you want to go
 9. [Cultural Blog](9-cultural-blog.md)
 
 ## Remember your Expectations for the Unit!
-- Pair at least twice this week with a member of your accountability group.  *You need to pair **6** times this unit*
+- Pair at least twice this week.  *You need to pair **6** times this unit*
 - Give feedback for each person you paired with. *You need to submit at least 7 pieces of feedback in this unit* (6 for peer-pairing, and 1 GPS)
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit.
 

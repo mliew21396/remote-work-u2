@@ -1,8 +1,8 @@
 # Week 6: Object-Oriented Design in Ruby
 
-<!-- Please do not start on week 6 yet, we will be reviewing the challenges and making changes. It will be published at least by the Sunday before week 6 starts. -->
-
- Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. There are two great resources we want to encourage you to add to your library. [The Well-Grounded Rubyist](http://www.manning.com/black3/) is an excellent reference that will help you better understand the many intricicies of the ruby language. You should feel comfortable recognizing most, if not all, ruby syntax (although you are not expected to be able to use it all). We also recommend [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There aren't legally free copies online, so if you don't want to shell out the bucks to buy it (although we highly recommend it) use the mighty power of google to introduce yourself to the fundamentals of object-oriented design.
+Please do not start on week 6 yet, we will be reviewing the challenges and making changes. It will be published at least by the Sunday before week 6 starts.
+<!-- 
+Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. There are two great resources we want to encourage you to add to your library. [The Well-Grounded Rubyist](http://www.manning.com/black3/) is an excellent reference that will help you better understand the many intricicies of the ruby language. You should feel comfortable recognizing most, if not all, ruby syntax (although you are not expected to be able to use it all). We also recommend [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There aren't legally free copies online, so if you don't want to shell out the bucks to buy it (although we highly recommend it) use the mighty power of google to introduce yourself to the fundamentals of object-oriented design.
 
 Don't forget your expectations for the unit (listed below)! 
 
@@ -42,3 +42,4 @@ You need to submit your work on the Unit 2, Week 6 submission form on [apply.dev
 You now know enough to fix broken links in your repo! If you run into a 404 error navigating through the directory online, go to the file where the error is, see what the link is. Is it to an internal or external file? If internal, do you see a file named something similarly in the repo? If so, you'll want to figure out why the link is broken and fix it. If it's to an external resource,  Definitely let us know if a link is broken so we can fix it, but take some time to research it as well. 
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md) 
+ -->

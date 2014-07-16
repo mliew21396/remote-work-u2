@@ -10,7 +10,7 @@ Install and read a bit about [RSpec](http://code.tutsplus.com/tutorials/ruby-for
 
 This week you get a bit more choice on which challenges to do. If you want to go above and beyond, do all of them!
 
-We also highly recommend selecting a Ruby book from the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md) to reference as you go through these challenges. You'll want to have a good understanding of the Ruby language. We often recommend the Well-Grounded Rubyist, but the other books are great as well. If you are using the Well-Grounded Rubyist, you'll want to look at Chapters 1, 2, 6, 7, 8, 9, 10. *You don't need to read all of every chapter, just review the parts you know by skimming, and take a deeper look at the concepts you don't understand as well.*
+We also highly recommend selecting a Ruby book from the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md) to reference as you go through these challenges. You'll want to have a good understanding of the Ruby language. We often recommend the *Well-Grounded Rubyist*, but the other books are great as well. If you are using the *Well-Grounded Rubyist*, you'll want to look at Chapters 1, 2, 6, 7, 8, 9, 10. *You don't need to read all of every chapter, just review the parts you know by skimming, and take a deeper look at the concepts you don't understand as well.*
 
 ## Challenges
 1. [Mathy Challenges](1-mathy-ruby-intro) **Select 2 of the challenges**

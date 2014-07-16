@@ -3,7 +3,9 @@
 Please do not start on week 6 yet, we will be reviewing the challenges and making changes. It will be published at least by the Sunday before week 6 starts.
 
 <!-- 
-Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. There are two great resources we want to encourage you to add to your library. [The Well-Grounded Rubyist](http://www.manning.com/black3/) is an excellent reference that will help you better understand the many intricicies of the ruby language. You should feel comfortable recognizing most, if not all, ruby syntax (although you are not expected to be able to use it all). We also recommend [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There aren't legally free copies online, so if you don't want to shell out the bucks to buy it (although we highly recommend it) use the mighty power of google to introduce yourself to the fundamentals of object-oriented design.
+Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design.  We recommend [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There aren't legally free copies online, so if you don't want to shell out the bucks to buy it (although we highly recommend it) use the mighty power of google to introduce yourself to the fundamentals of object-oriented design.
+
+Continue reading your Ruby book of choice. If you're using the Well-Grounded Rubyist, you'll want to look through any chapters you haven't read through yet, re-read material you found confusing, and practice some of the things you're seeing. 
 
 Don't forget your expectations for the unit (listed below)! 
 

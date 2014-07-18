@@ -27,11 +27,11 @@ Don't forget your expectations for the unit (listed below)!
 
 ## Fetch the curriculum changes!
 
-It's time to fetch the new curriculum from Devbootcamp/phase-0-unit-2. Use [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) and modify them to use phase-0-unit-2 (instead of phase-0-unit-1). Use the "command line" instructions!
+It's time to fetch the new curriculum from Devbootcamp/phase-0-unit-2. Use [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) and modify them to use phase-0-unit-2.
 
 ## Completing the challenges
 
-Open your local version of the directory in Sublime. Make your changes and commit/push as you complete challenges. Try using the command line as much as possible to navigate between directories and run files. 
+Open your local version of the directory in Sublime. Make your changes and commit and push as you complete challenges. Try using the command line as much as possible to navigate between directories and run files. 
 
 Make sure to include specific commit messages and push your changes each time you complete a challenge.
 

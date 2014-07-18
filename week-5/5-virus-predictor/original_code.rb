@@ -25,6 +25,7 @@ class VirusPredictor
   private  #what is this?  what happens if it were cut and pasted above the virus_effects method
 
   def predicted_deaths(population_density, population, state)
+    # predicted deaths is solely based on population density
     if @population_density >= 200
       number_of_deaths = (@population * 0.4).floor
     elsif @population_density >= 150
@@ -42,6 +43,8 @@ class VirusPredictor
   end
 
   def speed_of_spread(population_density, state) #in months
+    # We are still perfecting our formula here. The speed is also affected
+    # by additional factors we haven't added into this functionality. 
     speed = 0.0
 
     if @population_density >= 200

@@ -8,7 +8,7 @@ We also highly recommend selecting a Ruby book from the [Phase 0 Handbook](https
 
 
 ### [Week 4: Ruby Algorithms](week-4)
-### [Week 5: Ruby Classes](week-5) *will be released at least the Sunday prior to week 5*
+### [Week 5: Ruby Classes](week-5)
 ### [Week 6: Object-Oriented Design](week-6) *will be released at least the Sunday prior to week 6*
 
 ## Expectations for the Unit

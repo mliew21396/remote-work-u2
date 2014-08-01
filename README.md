@@ -2,7 +2,7 @@
 
 In this unit, you will go into more depth into Ruby and really start problem solving. You will have to create your own tests and determine what it means to be successful with a challenge.
 
-Since you've likely been suffering some Ruby withdrawal in unit 1, we recommend taking some time to review what you've learned as you need to. Go back to the [Socrates](https://socrates.devbootcamp.com) exercises you struggled with before and re-do them. Re-read pertinent passages in Chris Pine's [Learn to Program](http://pragprog.com/book/ltp2/learn-to-program) The Unit 2 challenges do not give you resources to read before hand, so you'll want to refresh your knowledge of Ruby on your own.
+Since you've likely been suffering some Ruby withdrawal in unit 1, we recommend taking some time to review what you've learned as you need to. Go back to the [Socrates](https://socrates.devbootcamp.com) exercises you struggled with before and re-do them. Re-read pertinent passages in Chris Pine's [Learn to Program](http://pragprog.com/book/ltp2/learn-to-program). The Unit 2 challenges do not give you resources to read before hand, so you'll want to refresh your knowledge of Ruby on your own.
 
 We also highly recommend selecting a Ruby book from the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md) to reference as you go through these challenges. You'll want to have a good understanding of the Ruby language. We often recommend the *Well-Grounded Rubyist*, but the other books are great as well.
 

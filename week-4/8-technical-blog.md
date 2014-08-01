@@ -22,17 +22,18 @@ Copy your blog tempate into a new HTML file in the blog-posts directory named `w
 Select one of the ruby methods below, do some research on it, and think of a scenario that could teach how to use this method. 
 
 #### Topics
-- `Enumerable#map`
-- `Enumerable#group_by`
-- `Enumerable#cycle`
+- `Enumerable#map` #DBCEM
+- `Enumerable#group_by` #DBCEG
+- `Enumerable#cycle` #DBCEC
 
 ### Option 2: Research Questions
 Research one of the following questions/topics.
 
-- Arrays vs. Hashes. What are they? What are they good for? How do you know which one to use? (Teach others a strategy for deciding)
-- Looping - Discuss the various ways to loop in Ruby. How can you decide which is best to use? (Teach others a strategy for deciding)
-- Ruby vs. JavaScript - Discuss the benefits/drawbacks of each as you've experienced them. Explain to others how to decide which is better to use for what. 
-  Also include examples of how to do the same thing in each. 
+- Arrays vs. Hashes. What are they? What are they good for? How do you know which one to use? (Teach others a strategy for deciding) #DBCAvH
+- Looping - Discuss the various ways to loop in Ruby. How can you decide which is best to use? (Teach others a strategy for deciding) #DBCLooping
+- Ruby vs. JavaScript - Discuss the benefits/drawbacks of each as you've experienced them. Explain to others how to decide which is better to use for what. #DBCRvJS
+
+Also include examples of how to do the same thing in each. 
 
 
 ## Release 2: Blog
@@ -49,5 +50,13 @@ Make sure the index of your site is maintained as well! People should be able to
 
 ## Release 4: Promote
 
-Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.
+Now it's time to show off your work and share your knowledge with your cohortmates using Twitter! 
+
+Tweet your blog post using the hashtags associated with each topic. 
+
+## Release 5: Read
+
+Use Twitter to find other people's blog posts. 
+
+Read at least one post for each topic (except for the one you wrote about). Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet! 
 

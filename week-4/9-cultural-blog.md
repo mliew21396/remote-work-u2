@@ -26,4 +26,11 @@ Link to your blog on the index of your site and push your changes.
 Make sure the index of your site is maintained as well! People should be able to navigate to all of your posts from your site's main page. 
 
 ## Release 5: Promote
-Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic.  
+
+Now it's time to show off your work and share your knowledge with your cohortmates using Twitter! 
+
+Tweet your blog post using #DBCProbs
+
+## Release 6: Read
+
+Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet! 

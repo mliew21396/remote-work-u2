@@ -11,10 +11,9 @@
 
 
 ## Release 0: New file
-In your [USERNAME].github.io repository, create a new directory called "blog-posts". Move all previous blog posts into that directory. Make sure to update the links to your old blog posts on the index of your site so people can easily navigate to your awesome blog posts!
-
 Copy your blog tempate into a new HTML file in the blog-posts directory named `week4_technical.html`. 
 
+Make sure to update the links to your old blog posts on the index of your site so people can easily navigate to your awesome blog posts!
 
 ## Release 1: Research a Topic
 
@@ -39,7 +38,7 @@ Also include examples of how to do the same thing in each.
 ## Release 2: Blog
 Write a blog post that teaches others what you learned about the way these things work and how to use them. Be sure to include code samples in your blog to show others what you are talking about. 
 
-If you want to go more in-depth with any of these research memory use and link it to your strategy for deciding which to use. 
+If you want to go more in-depth with any of these topics, research memory use and link it to your strategy for deciding which to use. 
 
 Write this blog for an audience of newb programmers.
 

@@ -11,7 +11,7 @@ You will start using Twitter during this unit to promote your blog posts rather 
 
 
 ### [Week 4: Ruby Algorithms](week-4)
-### [Week 5: Ruby Classes](week-5)  *Will be released the Friday prior to week 5*
+### [Week 5: Ruby Classes](week-5)
 ### [Week 6: Object-Oriented Design](week-6) *Will be released the Friday prior to week 6*
 
 ## Expectations for the Unit

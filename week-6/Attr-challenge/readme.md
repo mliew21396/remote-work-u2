@@ -1,8 +1,8 @@
 *attr_ attributes*
 
 **Learning Competencies**
-  - Understand what attr_reader, attr_writer, and attr_accessor are
-  - Understand what getter and setter methods are
+  - Explain what attr_reader, attr_writer, and attr_accessor are
+  - Express what getter and setter methods are
   - Use the attr_ methods to simplify your code
   - Use the attr_ methods to communicate data between classes
 

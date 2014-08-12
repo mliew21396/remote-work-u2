@@ -33,7 +33,6 @@ NOTE: You do not need to understand each part of lines 68 and 69. These lines us
   - The original code used a hard-coded hash to do the encryption. Can you create a simple algorithm instead? The original shift was by 4 characters. What would happen if it was changed to 10? 
 
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) 
-**Commit your changes.*
 
 ## Release 5: Push your changes 
 (Push your solution) to Github, then email your code to your accountability group.

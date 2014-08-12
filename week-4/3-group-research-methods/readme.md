@@ -25,13 +25,11 @@ Refer to your accountability group spreadsheet to find your role.
 Each person has a challenge to solve. This does not need to be done in any order. **BUT the driver test code 
 needs each method in order to work.** If you don't have your group-members' solutions, copy, paste, and modify your tests, comment out the originals. Then check it all still works when you get the other solutions. 
 
-Using the [Ruby Docs](http://ruby-doc.org/) find one method you can use
-on both an array and a hash, and use it on the two structures to complete the goal. 
-
-You may use other methods as well, and if you find a method that doesn't work on both, but generally works better for the challenge, feel free to refactor your code, but keep the original solution (commented out).
+Using the [Ruby Docs](http://ruby-doc.org/) find methods you can use
+on arrays and a hashes, and use them to complete each goal. 
 
 Once you complete your challenge, Identify and describe the ruby method you implemented. Teach your 
-accountability group how to use them. 
+accountability group how to use the methods. 
 
 Each person will be working with the following `Array` and `Hash`: 
 ```ruby

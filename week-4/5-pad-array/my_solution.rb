@@ -15,7 +15,17 @@
 
 # 2. Initial Solution
 
+class Array
 
+  def pad
+    #code goes here
+  end
+
+  def pad!
+    #code goes here
+  end
+
+end
 
 
 # 3. Refactored Solution

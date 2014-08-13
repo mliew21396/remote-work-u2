@@ -18,9 +18,6 @@ boggle_board = [["b", "r", "a", "e"],
 # Refactored Solution
 
 
-# DRIVER TESTS GO BELOW THIS LINE
-
-
 # Reflection 
 
 #-------------------------------------------------------------------------------
@@ -36,7 +33,10 @@ boggle_board = [["b", "r", "a", "e"],
 
 
 # DRIVER TESTS GO BELOW THIS LINE
-
+puts boggle_board[0][1] == "r"   # returns boggle_board[row_number][column_number]
+puts boggle_board[2][1] == "c" #=> should be true
+puts boggle_board[3][3] == "e" #=> should be true
+puts boggle_board[2][3] == "x" #=> should be false
 
 # Reflection 
 

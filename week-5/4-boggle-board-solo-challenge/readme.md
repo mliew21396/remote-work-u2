@@ -73,12 +73,13 @@ puts boggle_board[2][3] == "x" #=> should be false
 
 
 ## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/pseudocode.md)
-Write pseudocode for your `get_row` and `get_column` methods 
+Write pseudocode for your `get_row` and `get_column` methods. 
 
-## Release 1: Write [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) to call and test your methods
+## Release 1: [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) 
+Call and test your methods.
 
 ## Release 2: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/initial_solution.md)
-Write the initial solution for each method
+Write the initial solution for each method.
 
 ## Release 3: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/refactoring.md)
 Refactor your initial solutions! 

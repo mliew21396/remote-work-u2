@@ -24,25 +24,25 @@ So knowing this, why not just make everything attr_accessor? Generally we want t
 
 ## Release 0: Read and Research
 
-Open the Release0.rb and read the code and especially the comments. Is there anything that you see that you do not understand? Look up or ask questions about anything unfamiliar.
+Open the [release_0.rb](release_0.rb) and read the code and especially the comments. Is there anything that you see that you do not understand? Look up or ask questions about anything unfamiliar.
 
 Run the code. Do you notice what is changing?
 
 ## Release 1: Identify the changes
 
-Open Release1.rb after you finished the instructions for release0.rb. Read the comments and code. Do you notice where the code changed from the last release?
+Open [release_1.rb](release_1.rb) after you finished the instructions for release0.rb. Read the comments and code. Do you notice where the code changed from the last release?
 
 ## Release 2: More changes
 
-Open release2.rb and look at the code. Read the comments and notice where the code changed. All outputs should be the same between all releases even though we are changing the format of our code.
+Open [release_2.rb](release_2.rb) and look at the code. Read the comments and notice where the code changed. All outputs should be the same between all releases even though we are changing the format of our code.
 
 ## Release 3: Finally using attr
 
-Open release3.rb like the others. We now added the attr_accessor declaration. Notice how we reduced superflous code.
+Open [release_3.rb](release_3.rb) like the others. We now added the attr_accessor declaration. Notice how we reduced superflous code.
 
 ## Release 4: Refactor to use attr
 
-Go to my_solution.rb. You will now finish refactoring the code to make the best use of the attr_ attributes.
+Go to [my_solution.rb](my_solution.rb). You will now finish refactoring the code to make the best use of the attr_ attributes.
 
 Make a new class called Kim that initializes an instance of Profile in its initialize method. Now you can have access to the methods you created in class Profile. Make methods called happy_birthday, change_job, and name_change that access the instance variable in Profile and change them.
 

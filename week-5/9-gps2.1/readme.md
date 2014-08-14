@@ -30,7 +30,7 @@ When you get to code that is difficult to read, seems redundant, or stupidly exe
 When the session is over, reflect on your learning. 
 
 ## Release 5: Submit Feedback for your Pair
-Submit Feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback/new)
+Submit Feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback/new).
 
 ## Release 6: Submit your challenge!
 Push your solution to Github in the [my_solution.rb](my_solution.rb) file! Remember to include your pair's name!
@@ -39,7 +39,7 @@ Push your solution to Github in the [my_solution.rb](my_solution.rb) file! Remem
 ## Release 7: (Optional)
 (In case you didn't get enough of the delicious horrible-code) 
 
-Expand the program for the customer based on their requests. Use the methodology you've been practicing! (Write [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md), [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md), [Write your initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md), [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md), [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md))
+Expand the program for the customer based on their requests. Use the methodology you've been practicing! (Write [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md), [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md), [Write your initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md), [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md), [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)).
 
 
 Hi! I am a small bakery owner who has a ruby program that calculates the 
@@ -47,7 +47,7 @@ number of items I need to bake for a customer with a favorite food.
 I love the program as it is, but I want to add a couple of features:
 
 1. The owner wants to have options to include a mix of all items, rather than favorite foods.
-2. The owner wants to add the following items to the menu: pudding (feeds two people), bunt cake (feeds 4 people), and mega-cupcakes (feeds 3 people)
+2. The owner wants to add the following items to the menu: pudding (feeds two people), bunt cake (feeds 4 people), and mega-cupcakes (feeds 3 people).
 
 
 *NOTE: Write your own tests based on your expansion. The original tests should still pass.*

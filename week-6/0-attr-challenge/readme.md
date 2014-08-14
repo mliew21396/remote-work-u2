@@ -40,7 +40,7 @@ Open [release_2.rb](release_2.rb) and look at the code. Read the comments and no
 
 Open [release_3.rb](release_3.rb) like the others. We now added the attr_accessor declaration. Notice how we reduced superflous code.
 
-## Release 4: Refactor to use attr
+## Release 4: Use attr yourself!
 
 Go to [my_solution.rb](my_solution.rb). You will now finish refactoring the code to make the best use of the attr_ attributes.
 

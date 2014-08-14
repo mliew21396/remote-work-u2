@@ -1,6 +1,6 @@
-*attr_ attributes*
+# U.2W6: attr_ attributes
 
-**Learning Competencies**
+## Learning Competencies
   - Explain what attr_reader, attr_writer, and attr_accessor are
   - Express what getter and setter methods are
   - Use the attr_ methods to simplify your code

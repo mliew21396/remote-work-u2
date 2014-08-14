@@ -12,6 +12,8 @@
 ## Summary
 Your future career will require you to deal with a lot of "legacy code," i.e. code that works as intended, but is difficult to modify. Sometimes you will be given the option to start over or modify the original code. Other times you will be forced to work with legacy code due to time or budget constraints. In this challenge, you have the option to completely trash the code and start over or work with the code that's here, but make sure that it works the same way. The driver test code should still print "true" without being modified.
 
+You'll be copying the code from the [bakery_challenge.rb](bakery_challenge.rb) file. When you finish, you'll post your solution to the [my_solution.rb](my_solution.rb) file.
+
 ## Release 0: Run the code
 Whenever you get a set of code, you want to run it to make sure it works. Run the code in your terminal before making any changes.
 
@@ -31,10 +33,10 @@ When the session is over, reflect on your learning.
 Submit Feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback/new)
 
 ## Release 6: Submit your challenge!
-Push your solution to Github! Remember to include your pair's name!
+Push your solution to Github in the [my_solution.rb](my_solution.rb) file! Remember to include your pair's name!
  
 
-## Optimize Your Learning (Optional)
+## Release 7: (Optional)
 (In case you didn't get enough of the delicious horrible-code) 
 
 Expand the program for the customer based on their requests. Use the methodology you've been practicing! (Write [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md), [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md), [Write your initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md), [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md), [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md))

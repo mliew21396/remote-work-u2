@@ -20,11 +20,13 @@ class Profile
     puts
   end
 
-  # def what_is_age #this code is no longer needed.
+  # This code is no longer needed.
+  # def what_is_age
   #   @age
   # end
 
-  # def change_my_age=(new_age) # this code is no longer needed
+  # This code is no longer needed
+  # def change_my_age=(new_age)
   #   @age = new_age
   # end
 

@@ -63,7 +63,7 @@ sleep 0.8
 p instance_of_profile.what_is_occupation
 
 puts "--- changing profile information ----"
-10.times do # becuase we fancy
+10.times do # because we fancy
   print "."
   sleep 0.1
 end
@@ -75,4 +75,4 @@ instance_of_profile.change_my_occupation = "Rare Coins Trader"
 puts
 puts "---- printing all profile info -----"
 sleep 0.8
-instance_of_profile.print_info  #lets see the final product now. We changed all of the values using setters, so everything is different than before.
+instance_of_profile.print_info  #Let's see the final product now. We changed all of the values using setters, so everything is different than before.

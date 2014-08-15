@@ -3,7 +3,6 @@
 class Profile
 
   attr_reader :age
-
   attr_writer :age
 
   def initialize
@@ -22,8 +21,8 @@ class Profile
     puts
   end
 
-
-  # def change_my_age=(new_age) # this code is no longer needed
+  # This code is no longer needed
+  # def change_my_age=(new_age)
   #   @age = new_age
   # end
 
@@ -66,7 +65,7 @@ puts "--- changing profile information ----"
   sleep 0.1
 end
 
-instance_of_profile.age = 28 # this method has changed! See the difference?
+instance_of_profile.age = 28 # This method has changed! See the difference?
 instance_of_profile.change_my_name = "Taylor"
 instance_of_profile.change_my_occupation = "Rare Coins Trader"
 

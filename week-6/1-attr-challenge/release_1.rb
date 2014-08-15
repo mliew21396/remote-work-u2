@@ -20,7 +20,8 @@ class Profile
     puts
   end
 
-  # def what_is_age #this code is no longer needed.
+  #this code is no longer needed.
+  # def what_is_age
   #   @age
   # end
 

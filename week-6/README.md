@@ -11,14 +11,15 @@ Don't forget your expectations for the unit (listed below)!
 
 ## Challenges
 
-1. [Testing with Assert Statements](1-assert-statements)
-2. [Drawer Debugger](2-drawer-debugger)
-3. [Creating a BoggleBoard Class](3-BoggleBoard)
-4. [Creating a PezDispenser Class - SOLO CHALLENGE](4-PezDispenser-solo-challenge) **or** [Create a Playlist from Driver Code - SOLO CHALLENGE](4-playlist-solo-challenge)
-5. [Refactoring for Code Readability](5-refactoring)
-6. [Technical Blog](6-technical-blog.md)
-7. [Cultural Blog](7-cultural-blog.md)
-8. [BONUS Creating a Car Class from User Stories](8-BONUS-CarClass)
+1. [attr_ attributes](1-attr-challenge)
+2. [Testing with Assert Statements](2-assert-statements)
+3. [Drawer Debugger](3-drawer-debugger)
+4. [Creating a BoggleBoard Class](4-BoggleBoard)
+5. [Creating a PezDispenser Class - SOLO CHALLENGE](5-PezDispenser-solo-challenge) **or** [Create a Playlist from Driver Code - SOLO CHALLENGE](5-playlist-solo-challenge)
+6. [Refactoring for Code Readability](6-refactoring)
+7. [Technical Blog](7-technical-blog.md)
+8. [Cultural Blog](8-cultural-blog.md)
+9. [BONUS Creating a Car Class from User Stories](9-BONUS-CarClass)
 
 ## Remember your Expectations for the Unit!
 - Pair at least twice this week.  *You need to pair **6** times this unit*
@@ -27,7 +28,7 @@ Don't forget your expectations for the unit (listed below)!
 
 ## Fetch the curriculum changes!
 
-It's time to fetch the new curriculum from Devbootcamp/phase-0-unit-2. Use [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) and modify them to use phase-0-unit-2.
+It's time to fetch the new curriculum from Devbootcamp/phase-0-unit-2. **Make sure to check your directory before fetching changes!** Use [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md). Change all instances of phase-0-unit-1 to phase-0-unit-2.
 
 ## Completing the challenges
 

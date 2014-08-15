@@ -1,4 +1,6 @@
-# CHALLENGE:
+#U2.W6: Attr Methods
+
+# I worked on this challenge [by myself, with:]
 
 # Step 1: refactor this code to move method assignments to attr_ attributes. Like we did with age. Lets pare down the superflous code.
 
@@ -47,4 +49,4 @@ class Profile
 end
 
 
-#Reflection goes here
+# Release 5: Reflect

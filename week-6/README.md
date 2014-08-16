@@ -42,7 +42,9 @@ Make sure to include specific commit messages and push your changes each time yo
 You need to submit your work on the Unit 2, Week 6 submission form on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. Expect to submit the links from your repo for each challenge above.
 
 
-## Link Issues in the Repository
+## Broken links in the repository
 You now know enough to fix broken links in your repo! If you run into a 404 error navigating through the directory online, go to the file where the error is, see what the link is. Is it to an internal or external file? If internal, do you see a file named something similarly in the repo? If so, you'll want to figure out why the link is broken and fix it. If it's to an external resource,  Definitely let us know if a link is broken so we can fix it, but take some time to research it as well.
+
+You can also practice making pull requests to our repo to fix the links. Do some research on how to do that if you'd like to contribute.
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)

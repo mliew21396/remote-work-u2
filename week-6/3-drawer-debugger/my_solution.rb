@@ -91,7 +91,6 @@ raise Exception.new("Your drawer is not actually empty") unless silverware_drawe
 silverware_drawer.view_contents
 
 # What will you need here in order to remove a spoon? You may modify the driver code for this error.
-silverware_drawer.add_item(spoon = Silverware.new("spoon"))
 raise Exception.new("You don't have a spoon to remove") unless silverware_drawer.contents.include?(spoon)
 silverware_drawer.remove_item(spoon) #What is happening when you run this the first time?
 spoon.eat

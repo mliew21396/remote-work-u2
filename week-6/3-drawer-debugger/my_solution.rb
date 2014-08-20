@@ -62,7 +62,7 @@ end
 
 
 
-# For all errors except the fork error, you may not modify the driver code. 
+# DO NOT MODIFY THE DRIVER CODE UNLESS DIRECTED TO DO SO 
 knife1 = Silverware.new("knife")
 
 silverware_drawer = Drawer.new
@@ -90,9 +90,10 @@ silverware_drawer.dump
 raise Exception.new("Your drawer is not actually empty") unless silverware_drawer.contents.empty?
 silverware_drawer.view_contents
 
-# What will you need here in order to remove a fork?
+# What will you need here in order to remove a fork? You may modify the driver code for this error.
 raise Exception.new("You don't have a fork to remove") unless silverware_drawer.contents.include?(fork)
-silverware_drawer.remove_item(fork) #What is happening when you run this the first time?
+fork = silverware_drawer.remove_item(fork) #What is happening when you run this the first time?
+raise Exception.new("You didn't remove a fork from the drawer") if silverware_drawer.contents.include?(fork)
 fork.eat
 #BONUS SECTION
 # puts fork.clean

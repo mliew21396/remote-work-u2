@@ -34,7 +34,7 @@ Comment each method (above the method) and define what it is responsible for doi
 Create a report for all 50 states, not just the 4 listed below.  Is there a DRY way of doing this? Does this belong in the class or outside of it?
 
 ## Release 5: Refactor `virus_effects`
-ONLY look at `virus_effects` (not the two methods called within it). HINT: what is the scope of instance variables? What is being passed in? Does it make sense to pass that information in?
+ONLY look at `virus_effects` method and the two methods called inside it. (Do not look at `predicted deaths` or `speed_of_spread` themselves). Specifically look at the arguments being passed in. What is the scope of instance variables? Does it make sense to pass them in?
 
 ## Release 6: Private
 What is the purpose of "private". What happens if you move it elsewhere in the class?

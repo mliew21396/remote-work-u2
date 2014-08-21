@@ -41,3 +41,6 @@ What is the purpose of "private". What happens if you move it elsewhere in the c
 
 ## Release 7: Refactor!
 Refactor the private methods predicted_deaths and speed_of_spread.  How can you make them more DRY?
+
+## Release 8: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+

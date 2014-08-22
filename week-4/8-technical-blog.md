@@ -9,53 +9,41 @@
 - Compare different programming concepts
 - Explain a methodology for deciding which data structure/ loop/ or language to use in a particular scenario
 
+## Summary
+In this blog, you will do a bit of research on either an Enumerable method or a data structure and teach the method/data structure to your reader. Time-box yourself to an hour -- max 1.5 hours on your blog post. These aren't expected to be professional or perfect, they are meant to show where you are at this point in your learning.
 
 ## Release 0: New file
-Copy your blog tempate into a new HTML file in the blog-posts directory named `week4_technical.html`. 
+Copy your blog tempate into a new HTML file in the blog-posts directory named `week4_technical.html`.
 
 Make sure to update the links to your old blog posts on the index of your site so people can easily navigate to your awesome blog posts!
 
 ## Release 1: Research a Topic
 
 ### Option 1: Teach about Enumerable Methods
-Select one of the ruby methods below, do some research on it, and think of a scenario that could teach how to use this method. 
+Select one of the ruby Enumerable methods or data structures below. After doing some research, think of an example to teach others what you learned about this method or data structure.
 
 #### Topics
-- `Enumerable#map` 
-- `Enumerable#group_by` 
-- `Enumerable#cycle` 
-
-### Option 2: Research Questions
-Research one of the following questions/topics.
-
-- Arrays vs. Hashes. What are they? What are they good for? How do you know which one to use? (Teach others a strategy for deciding) 
-- Looping - Discuss the various ways to loop in Ruby. How can you decide which is best to use? (Teach others a strategy for deciding) 
-- Ruby vs. JavaScript - Discuss the benefits/drawbacks of each as you've experienced them. Explain to others how to decide which is better to use for what. 
-
-Also include examples of how to do the same thing in each. 
-
+- `Enumerable#map`
+- `Enumerable#group_by`
+- `Enumerable#cycle`
+- `Array`
+- `Hash`
 
 ## Release 2: Blog
-Write a blog post that teaches others what you learned about the way these things work and how to use them. Be sure to include code samples in your blog to show others what you are talking about. 
-
-If you want to go more in-depth with any of these topics, research memory use and link it to your strategy for deciding which to use. 
+Write a blog post that teaches others what you learned about the way these things work and how to use them. Be sure to include code samples in your blog to show others what you are talking about.
 
 Write this blog for an audience of newb programmers.
 
 ## Release 3: Publish
-Link to your blog on the index of your site and push your changes. 
-
-Make sure the index of your site is maintained as well! People should be able to navigate to all of your posts from your site's main page. 
+Link to your blog on the blog-posts/index.html page of your site and push your changes. Make sure all of your posts so far are linked on the index in order.
 
 ## Release 4: Promote
+Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
-Now it's time to show off your work and share your knowledge with your cohortmates using Twitter! 
-
-Tweet your blog post using the hashtag #DBCRuby 
+Tweet your blog post using the hashtag **#DBCRuby**
 
 ## Release 5: Read
+Use Twitter to find other people's blog posts.
 
-Use Twitter to find other people's blog posts. 
-
-Read at least one post for each topic (except for the one you wrote about). Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet! 
+Read at least one other post, or read one for each topic. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!
 

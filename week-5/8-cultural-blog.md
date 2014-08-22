@@ -8,7 +8,7 @@
 - Discuss the feeling of vulnerablity when pairing and reading feedback
 
 ## Release 0: Copy your Blog Template
-In your blog-posts directory on your [USERNAME].github.io repository, copy your blog tempate into a new HTML file named `week5_cultural.html`. 
+In your blog-posts directory on your [USERNAME].github.io repository, copy your blog tempate into a new HTML file named `week5_cultural.html`.
 
 ## Release 1: Read your feedback
 By now you should have submitted and received feedback from your pairing partners. Read them. If you go into the feedback dashboard in [Socrates](https://socrates.devbootcamp.com/feedback), you can read the feedback you've received.
@@ -16,30 +16,29 @@ By now you should have submitted and received feedback from your pairing partner
 ## Release 2: Write your Blog!
 
 ### Discuss (at least) the following in your blog post:
-#### Pairing: 
+#### Pairing:
 - What was it like to pair with others to solve challenges?
 - Was something particularly fun or rewarding?
 - Was something frustrating and difficult for you?
 
 #### Feedback
-- How did you feel when you read your feedback? 
+- How did you feel when you read your feedback?
 - Was the feedback you received helpful to your learning?
-- Based on the feedback you've received, what are you going to 
+- Based on the feedback you've received, what are you going to
 do to improve next time you pair?
-- How was it to write feedback? 
+- How was it to write feedback?
 - What was most difficult for you when writing feedback for your pair?
 
 Overall, what do you think of using pairing and feedback to guide your learning?
 
 
 ## Release 3: Publish
-Link to your blog on the index of your site and push your changes. 
+Link to your blog on the blog-posts/index.html of your site and push your changes.
 
-Make sure the index of your site is maintained as well! People should be able to navigate to all of your posts from your site's main page. 
 
 ## Release 4: Promote
 
-Now it's time to show off your work and share your knowledge with your cohortmates using Twitter! 
+Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
 Tweet your blog post using #DBCPairing
 

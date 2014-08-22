@@ -8,7 +8,7 @@
 
 ## Release 0: Create the Template
 
-Create a new HTML file in your blog-posts [USERNAME].github.io website. Name it `week6_cultural_blog.html`. Copy the Code from your `blog_template`. 
+Create a new HTML file in your blog-posts [USERNAME].github.io website. Name it `week6_cultural_blog.html`. Copy the Code from your `blog_template`.
 
 ## Release 1: Research
 
@@ -25,17 +25,16 @@ Claude M. Steele has spent his life researching minority underachievement and de
 
 In your post, describe your experiences with stereotype threat and how it affected you. Then identify what you plan to do when you feel stereotype threat or suspect someone else is feeling it. How will you create meaningful feedback or ask for feedback? How will you work to change the environment you're in to make it more welcoming? How will you address it in public?
 
-Go into as much depth feels comfortable for you. 
+Go into as much depth feels comfortable for you.
 
 
 ## Release 3: Publish
-Link to your blog on the index of your site and push your changes. 
+Link to your blog on the blog-posts/index.html of your site and push your changes.
 
-Make sure the index of your site is maintained as well! People should be able to navigate to all of your posts from your site's main page. 
 
 ## Release 4: Promote
 
-Now it's time to show off your work and share your knowledge with your cohortmates using Twitter! 
+Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
 Tweet your blog post using #DBCStereotypeThreat
 

@@ -9,7 +9,7 @@
 - Use strings, integers, arrays, and/or hashes
 
 ## Summary
-Write a method `separate_comma` which takes an integer as its input and returns a comma-separated integer as a string.  Like this:
+Write a method `separate_comma` which takes an integer as its input and returns a comma-separated integer as a string. Like this:
 
 ```ruby
 separate_comma(1000)    # => "1,000"
@@ -27,4 +27,5 @@ You have some rspec for this. It's saved in your `my_solutions` directory. If yo
 ## Release 2: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 ## Release 3: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-## Release 5: Push your solution to Github
+## Release 5: Commit and push
+Commit your changes and push your solution to Github

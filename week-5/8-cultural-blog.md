@@ -8,7 +8,7 @@
 - Discuss the feeling of vulnerablity when pairing and reading feedback
 
 ## Summary
-By now you should have submitted and received feedback from your pairing partners, so you'll be evaluating the feedback you've received.
+By now you should have submitted and received feedback from your pairing partners, so you'll be evaluating pairing, the feedback you've received, and how it felt to receive the feedback.
 
 Remember to time-box to about an hour for each blog post.
 

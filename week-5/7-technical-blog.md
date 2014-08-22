@@ -6,27 +6,27 @@
 - Explain when, why, and how to use classes
 - Explain how data structures and classes can model a real-world object
 
+## Summary
+You've had a LOT of practice with ruby classes this week, so now is the time to teach others about them! Pick something (like a real-world object) you would like to model.
+
+Remember to time-box to about an hour for each blog post!
 
 ## Release 0: New File
 Copy your blog tempate into a new HTML file named `week5_technical.html`.
 
 ## Release 1: Topic
-You've had a LOT of practice with ruby classes this week, so now is the time to teach others about it! Pick something you would like to model and teach others when to use instance variables, instance methods, etc.
+Create an example class and teach others when to use instance variables, instance methods, etc. for that object.
 
 ##Release 2: Blog
-Write a blog post about the topic you selected.
-Be sure to be thorough. This is part of your portfolio that will help set you apart to employers when you graduate, so have fun and show your enthusiasm!
+Write a blog post about the class you designed. This is part of your portfolio that will help set you apart to employers when you graduate, so have fun and show your enthusiasm!
 
 ## Release 3: Publish
 Link to your blog on the blog-posts/index.html of your site and push your changes.
 
-
 ## Release 4: Promote
-
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
-Tweet your blog post using #DBCTeaching
+Tweet your blog post using #DBCClass
 
 ## Release 5: Read
-
 Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!

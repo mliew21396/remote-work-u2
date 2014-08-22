@@ -7,11 +7,16 @@
 - Describe kind, actionable, and specific feedback
 - Discuss the feeling of vulnerablity when pairing and reading feedback
 
+## Summary
+By now you should have submitted and received feedback from your pairing partners, so you'll be evaluating the feedback you've received.
+
+Remember to time-box to about an hour for each blog post.
+
 ## Release 0: Copy your Blog Template
 In your blog-posts directory on your [USERNAME].github.io repository, copy your blog tempate into a new HTML file named `week5_cultural.html`.
 
 ## Release 1: Read your feedback
-By now you should have submitted and received feedback from your pairing partners. Read them. If you go into the feedback dashboard in [Socrates](https://socrates.devbootcamp.com/feedback), you can read the feedback you've received.
+Make sure to read the feedback you've received. You'll see it on the feedback dashboard in [Socrates](https://socrates.devbootcamp.com/feedback).
 
 ## Release 2: Write your Blog!
 
@@ -31,17 +36,13 @@ do to improve next time you pair?
 
 Overall, what do you think of using pairing and feedback to guide your learning?
 
-
 ## Release 3: Publish
 Link to your blog on the blog-posts/index.html of your site and push your changes.
 
-
 ## Release 4: Promote
-
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
 Tweet your blog post using #DBCPairing
 
 ## Release 5: Read
-
 Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!

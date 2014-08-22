@@ -1,18 +1,14 @@
 # Ruby Algorithms
 
-So you've done some preparation on Ruby, and have probably been wondering "Why did we have to do all those exercises before Phase 0 if we weren't even going to start with Ruby?" Well, now is your time to get back to it while using the blog and skills you learned in unit 1. We aren't going to provide refresher resources, so it's up to you to review the concepts in Ruby you need to work through these challenges -- just a heads up. Please go back to [Socrates](https://socrates.devbootcamp.com/exercises) or check out some of the ruby [resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md).
+So you've done some preparation on Ruby, and have probably been wondering "Why did we have to do all those exercises before Phase 0 if we weren't even going to start with Ruby?" Well, now is your time to get back to it while while maintaining your blog and using the git skills you learned in unit 1.
 
-This week you will be working on writing command-line programs focusing on algorithms and basic testing. Some challenges will also have tests already developed using RSpec (a tool for testing ruby code). You will learn how to run these tests on your computer and read them to figure out what the errors are. NOTE: You are not expected to write or fully understand RSpec in Phase 0, just be able to read it. RSpec is designed to be readable.
+Unit 2 is organized differently from Unit 1. We don't provide reading resources specifically for challenges or units, so it's up to you to review or research concepts in Ruby you need to work through these challenges. We highly recommend selecting a Ruby book from the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md) to reference as you go through these challenges. You'll want to have a good understanding of the Ruby language. We often recommend the *Well-Grounded Rubyist*, which is not free, but we have arranged a 45% off discount with [Manning Publications](http://www.manning.com/black3/) Use code `rubycl14`. **Please respect future students and Dev Bootcamp by not sharing this code or the ebook with others. This code is for Dev Bootcamp students only.**
 
-Install and read a bit about [RSpec](http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297) before you begin. If you have trouble, ask for help on the google+ community.
+This week you will be working on writing command-line programs focusing on algorithms and basic testing. Some challenges will also have tests already developed using RSpec (a tool for testing ruby code). You will learn how to run these tests on your computer and read them to decide whether you've successfully solved the challenge. NOTE: You are not expected to fully understand or write any RSpec in Phase 0, just be able to read it. RSpec is designed to be readable.You should have installed RSpec in Unit 1, so there is no need to re-install.
 
 **Please make sure to follow each step we ask you (in order): write driver test code, pseudocode, initial solution, refactoring, reflection, and review.**
 
 This week you get a bit more choice on which challenges to do. If you want to go above and beyond, do all of them!
-
-We also highly recommend selecting a Ruby book from the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md) to reference as you go through these challenges. You'll want to have a good understanding of the Ruby language.
-
-We often recommend the *Well-Grounded Rubyist*, which is not free, but we have arranged a 45% off discount with [Manning Publications](http://www.manning.com/black3/) Use code `rubycl14`. **Please respect future students and Dev Bootcamp by not sharing this code or the ebook with others. This code is for Dev Bootcamp students only.**
 
 If you are using the *Well-Grounded Rubyist*, you'll want to look at Chapters 1, 2, 6, 7, 8, 9, 10. You don't need to read every chapter thoroughly, skim where you need to. Take more time with concepts you don't know.
 

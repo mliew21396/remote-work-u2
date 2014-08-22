@@ -6,6 +6,10 @@
 - Explain the symptoms and consequences of stereotype threat
 - Create strategies for combating stereotype threat
 
+## Summary
+This week you will look into a new topic called stereotype threat. DBC is an amazing place, but it's also easy
+to suffer from impostor syndrome or stereotype threat depending on your background. It's a good idea to learn a bit about these concepts to prepare yourself for the possibility. Remember to time-box to about an hour for each blog post!
+
 ## Release 0: Create the Template
 
 Create a new HTML file in your blog-posts [USERNAME].github.io website. Name it `week6_cultural_blog.html`. Copy the Code from your `blog_template`.
@@ -15,7 +19,7 @@ Create a new HTML file in your blog-posts [USERNAME].github.io website. Name it 
 Claude M. Steele has spent his life researching minority underachievement and developed a theory called "Stereotype Threat." Conduct your own research about stereotype threat. Identify times when you felt it. How did it affect your achievement? What questions did you ask yourself? Did you feel it physically? If you don't think you've ever felt it, can you imagine some groups that might? What could you do to help others in that situation?
 
 #### Example Resources:
-- [Whistling Vivaldi (book)](http://www.amazon.com/Whistling-Vivaldi-Stereotypes-Affect-Issues/dp/0393339726) - If you have quite a bit of time
+- [Whistling Vivaldi (book)](http://www.amazon.com/Whistling-Vivaldi-Stereotypes-Affect-Issues/dp/0393339726) - If you have quite a bit of time and want to go well beyond an hour.
 - [Identity and Stereotype Threat (video)](https://www.youtube.com/watch?v=q1fzIuuXlkk) - Start at 7:30
 - [What is Stereotype Threat?](http://www.reducingstereotypethreat.org/definition.html)
 - [The Stereotype Threat to Workplace Diversity](http://www.diversityinc.com/diversity-events/the-stereotype-threat-dr-claude-steele-mesmerizes-audience-video/)
@@ -33,11 +37,9 @@ Link to your blog on the blog-posts/index.html of your site and push your change
 
 
 ## Release 4: Promote
-
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
 Tweet your blog post using #DBCStereotypeThreat
 
 ## Release 5: Read
-
 Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!

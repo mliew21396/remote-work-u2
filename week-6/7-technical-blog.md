@@ -3,10 +3,10 @@
 # U2.W6: Technical Blog Entry
 
 ## Learning Competencies
-- Compare Functional and Object-Oriented Programming
-- Explain the differences to an audience
-- Demonstrate the differences using examples
+- Research Object-Oriented programming concepts
 
+## Summary
+You've learned a bit about object-oriented programming this week, but there is still a ton to learn. In this challenge, select one topic below and do a bit of research on them. Then write a blog post about what you've learned. Remember to time-box to about an hour for each blog post!
 
 ## Release 0: New Template
 Copy your blog tempate into a new HTML file named `week6_technical.html`.
@@ -32,22 +32,17 @@ Describe and explain the purposes of classes and modules. How are they similar? 
 #### Option 6: Inheritance vs Composition
 What is ruby inheritance? What is composition? Which have you used this week? Create your own examples to explain how to use each.
 
-
 ## Release 2: Blog it
 Write a blog post that teaches your audience about the topic. Think of examples to use to teach and SHOW your audience what you are describing.
-
 
 ## Release 3: Publish
 Link to your blog on the blog-posts/index.html of your site and push your changes.
 
-
 ## Release 4: Promote
-
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
 Tweet your blog post using the hashtag **#DBCConcepts**.
 
 ## Release 5: Read
-
-Read at least one post for each topic (except for the one you wrote about). Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!
+Read at least one other person's post on a topic you're interested in. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!
 

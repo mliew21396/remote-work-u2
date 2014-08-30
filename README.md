@@ -3,7 +3,7 @@
 In this unit, you will go into more depth into Ruby and really start problem solving. You will have to create some of your own basic tests.
 
 ### [Week 4: Ruby Algorithms](week-4)
-### [Week 5: Ruby Classes](week-5) *Will be released the Friday prior to the start of the week.*
+### [Week 5: Ruby Classes](week-5)
 ### [Week 6: Object-Oriented Design](week-6) *Will be released the Friday prior to the start of the week.*
 
 ## Expectations for the Unit

@@ -4,7 +4,7 @@ In this unit, you will go into more depth into Ruby and really start problem sol
 
 ### [Week 4: Ruby Algorithms](week-4)
 ### [Week 5: Ruby Classes](week-5)
-### [Week 6: Object-Oriented Design](week-6) *Will be released the Friday prior to the start of the week.*
+### [Week 6: Object-Oriented Design](week-6)
 
 ## Expectations for the Unit
 

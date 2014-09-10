@@ -97,7 +97,7 @@ spoon.eat
 
 
 #BONUS SECTION
-# puts spoon.clean
+# puts spoon.clean #=> this should be false
 
 # DRIVER TESTS GO BELOW THIS LINE
 

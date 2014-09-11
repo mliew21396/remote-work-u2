@@ -1,7 +1,5 @@
-# U2.W6: PezDispenser Class from User Stories
+# U2.W6: PezDispenser Class from User Stories SOLO CHALLENGE
 
-
-# I worked on this challenge [by myself, with: ].
 
 # 1. Review the following user stories:
 # - As a pez user, I'd like to be able to "create" a new pez dispenser with a group of flavors that 

@@ -26,7 +26,7 @@ Continue to read about classes, objects, self, etc. in the Ruby book you selecte
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit.
 
 ## Fetch DBC's Changes
-####It's time to fetch changes from DevBootcamp's phase_0_unit_2 master repo.
+####It's time to fetch changes from DevBootcamp's phase-0-unit-2 master repo.
 Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md)!
 Modify them for unit 2.
 

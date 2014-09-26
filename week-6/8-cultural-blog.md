@@ -31,15 +31,13 @@ In your post, describe your experiences with stereotype threat and how it affect
 
 Go into as much depth feels comfortable for you.
 
-
 ## Release 3: Publish
 Link to your blog on the blog-posts/index.html of your site and push your changes.
-
 
 ## Release 4: Promote
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
-Tweet your blog post using #DBCStereotypeThreat
+Tweet your blog post using **#DBCStereotypeThreat.**
 
 ## Release 5: Read
 Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!

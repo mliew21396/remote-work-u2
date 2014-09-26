@@ -45,4 +45,3 @@ We use the submission form to gather feedback on our curriculum, so please answe
 Sometimes we will make changes to the original repository to clarify instructions. You will need to fetch these changes from the master branch when we announce changes on the google+ community. Use [these](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) instructions. **Substitute phase-0-unit-2 for each instance of phase-0-unit-1 in the instructions.**
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
-

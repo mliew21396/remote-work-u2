@@ -49,7 +49,7 @@ end
 
 instance_of_profile = Profile.new
 
-# I have to use p here becuase what_is_age only returns the value of @number, it does not print anything to the console. The p modifier prints to the console whatever value is returned. Nifty!
+# I have to use p here because what_is_age only returns the value of @number, it does not print anything to the console. The p modifier prints to the console whatever value is returned. Nifty!
 puts "--- printing age -----"
 sleep 0.8 # sleep so the program takes a pause instead of just running through
 p instance_of_profile.what_is_age # here we expect age to be 27

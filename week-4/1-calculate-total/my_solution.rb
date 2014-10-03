@@ -38,3 +38,4 @@
 
 
 # 7. reflection
+# remember to limit yourself to 10-15 min. on your reflection!

@@ -1,7 +1,5 @@
 # Ruby Algorithms
 
-So you've done some preparation on Ruby, and have probably been wondering "Why did we have to do all those exercises before Phase 0 if we weren't even going to start with Ruby?" Well, now is your time to get back to it while while maintaining your blog and using the git skills you learned in unit 1.
-
 Unit 2 is organized differently from Unit 1. We don't provide reading resources specifically for challenges or units, so it's up to you to review or research concepts in Ruby you need to work through these challenges. We highly recommend selecting a Ruby book from the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md) to reference as you go through these challenges. You'll want to have a good understanding of the Ruby language. We often recommend the *Well-Grounded Rubyist*, which is not free, but we have arranged a 45% off discount with [Manning Publications](http://www.manning.com/black3/) Use code `rubycl14`. **Please respect future students and Dev Bootcamp by not sharing this code or the ebook with others. This code is for Dev Bootcamp students only.**
 
 This week you will be working on writing command-line programs focusing on algorithms and basic testing. Some challenges will also have tests already developed using RSpec (a tool for testing ruby code). You will learn how to run these tests on your computer and read them to decide whether you've successfully solved the challenge. NOTE: You are not expected to fully understand or write any RSpec in Phase 0, just be able to read it. RSpec is designed to be readable.You should have installed RSpec in Unit 1, so there is no need to re-install.
@@ -13,13 +11,13 @@ This week you get a bit more choice on which challenges to do. If you want to go
 If you are using the *Well-Grounded Rubyist*, you'll want to look at Chapters 1, 2, 6, 7, 8, 9, 10. You don't need to read every chapter thoroughly, skim where you need to. Take more time with concepts you don't know.
 
 ## Challenges
-1. [Mathy Challenges](1-mathy-ruby-intro) **Select 2 of the challenges**
-2. [Creative Challenges](2-creative) **Select 1 of the challenges**
-3. [Group Research Methods](3-group-research-methods)
-4. [Separate Numbers with Commas SOLO CHALLENGE](4-nums-commas-solo-challenge)
-5. [Pad an Array](5-pad-array)
-6. [Cipher Challenge](6-cipher-challenge) *Mandatory Pairing Challenge*
-7. [Refactor](7-refactor) **Select 1 of the challenges**
+1. [Calculate an Array Total](1-calculate-total)
+2. [Create Accountability Groups](2-create-acct-groups)
+3. [Calculate the Mode](3-calculate-mode) *Mandatory Pairing Challenge*
+4. [Group Research Methods](4-group-research-methods)
+5. [Separate Numbers with Commas SOLO CHALLENGE](5-nums-commas-solo-challenge)
+6. [Pad an Array](6-pad-array) *Mandatory Pairing Challenge*
+7. [Die Class](7-die-class)
 8. [Technical Blog](8-technical-blog.md)
 9. [Cultural Blog](9-cultural-blog.md)
 

@@ -1,7 +1,7 @@
 # Week 6: Object-Oriented Design in Ruby
 
-<!-- Please do not start on week 6 yet, we will be reviewing the challenges and making changes. It will be published at least by the Sunday before week 6 starts. -->
-
+Please do not start on week 6 yet, we will be reviewing the challenges and making changes. It will be published at least by the Sunday before week 6 starts.
+<!--
 Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design.  We recommend [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There aren't legally free copies online, so if you don't want to shell out the bucks to buy it (although we highly recommend it) use the mighty power of google to introduce yourself to the fundamentals of object-oriented design.
 
 Continue reading your Ruby book of choice. If you're using the *Well-Grounded Rubyist*, you'll want to look through any chapters you haven't read through yet, re-read material you found confusing, and practice some of the things you're seeing.
@@ -48,4 +48,4 @@ We'd like to ask you a favor. If you run into a 404 error navigating through the
 
 It would also be a great time for you to fix the repos on your own and make a pull request to the Devbootcamp master repository. Do some research on how to do that if you'd like to contribute.
 
-## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
+## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md) -->

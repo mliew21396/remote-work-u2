@@ -5,7 +5,7 @@
 # include it in this file. Also make sure everything that isn't code
 # is commented.
 
-# I worked on this challenge with: .
+# I worked on this challenge with: NAME.
 
 # 0. Pseudocode
 

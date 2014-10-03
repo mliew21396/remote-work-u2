@@ -3,8 +3,8 @@
 # U2.W4: Accountability Group Creator!
 
 ## Learning Competencies
-- Break down problems into implementable pseudocode
-- Differentiate between and produce destructive and non-destructive methods
+- Break a large problem down into smaller steps
+- Implement a method based on pseudocode
 - Automate repetitive tasks using loops
 - Use strings, integers, arrays, and/or hashes
 

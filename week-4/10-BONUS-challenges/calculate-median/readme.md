@@ -4,10 +4,10 @@
 
 
 ## Learning Competencies
-- Use tests to guide development
-- Break down problems into implementable pseudocode
-- Use strings, integers, arrays, and/or hashes
-- Use if/else statements, string methods, while/until loops, Enumerable#each methods
+- Break a large problem down into smaller steps
+- Implement a method based on pseudocode
+- Iterate through data structures and manipulate the content
+- Research and use Ruby methods
 
 
 ## Summary:
@@ -31,24 +31,20 @@ In this case, your method should return the word between the other words alphabe
 median(["apple","cherry","banana"])      # => "banana"
 ```
 
-## Release 0:. Run the tests
-In your terminal, make sure you are in the [harder_calculate_median](./) directory. Type `rspec` followed by the spec file name. ex. `rspec median_spec.rb`
-Each test should fail. Read the output in your terminal to see what is making the tests fail.
+## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
-## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
-*commit your changes*
+## Release 1: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
-## Release 2: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
-*commit your changes*
+## Release 2: Run the tests
+Once your code passes the tests, move on to refactoring
 
-## Release 3: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
-*commit your changes*
+## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
+Make sure your code still passes the tests!
 
-## Release 4:  [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-Include your reflection in the appropriate section in your `my_solution` file. ***NOTE: Reflections are mandatory!*** Commit your changes!
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 5: Commit and Push your changes to Github
-When you feel confident with your solution, push your changes through the command line to your repo on GitHub.
-If you have done this successfully, you should be able to see your new code on your repo on [github.com](https://github.com).
+## Release 5: Commit and Push!
+If you want feedback, continue using **#DBCU2W4** to request it!
 
-## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
+## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
+**Optional but HIGHLY encouraged!**

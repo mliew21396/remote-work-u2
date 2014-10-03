@@ -3,11 +3,10 @@
 # U2.W4: Add it up!
 
 ## Learning Competencies
-- Use tests to guide development
-- Break down problems into implementable pseudocode
+- Break a large problem down into smaller steps
+- Implement a method based on pseudocode
 - Iterate through data structures and manipulate the content
-- Find and use built-in Ruby methods to solve challenges
-- Use if/else statements, string methods, while/until loops, Enumerable#each methods
+- Research and use Ruby methods
 
 ## Summary
 In this challenge you will write two methods that add elements of an array. In the first, you will be adding numbers and calculating a total. In the second method, you will add strings and make them into a sentence.

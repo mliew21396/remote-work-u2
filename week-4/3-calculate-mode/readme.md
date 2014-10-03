@@ -4,7 +4,8 @@
 **Pairing Challenge**
 
 ## Learning Competencies
-- Break down problems into implementable pseudocode
+- Break a large problem down into smaller steps
+- Implement a method based on pseudocode
 - Iterate through data structures and manipulate the content
 - Determine which data structure (arrays or hashes) to use based on challenge requirements
 - Use strings, integers, arrays, and/or hashes
@@ -33,7 +34,7 @@ HINT: You'll want to look at [`Hash`](http://ruby-doc.org/core-2.0.0/Hash.html)e
 ## Release 1: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
 ## Release 2: Run the tests
-Once your code passes the tests, move on to refactoring
+Once your code passes the tests, move on to refactoring.
 
 ## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
 Make sure your code still passes the tests!

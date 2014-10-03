@@ -3,7 +3,7 @@
 #U2.W4: Group Challenge: Research Methods
 
 ## Learning Objectives
-- Find and use built-in Ruby methods to solve challenges
+- Research and use Ruby methods
 - Iterate through data structures and manipulate the content
 - Explain how to use an existing ruby method
 

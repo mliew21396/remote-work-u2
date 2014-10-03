@@ -5,9 +5,10 @@
 Please refer to the [solo challenge](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md) guidelines in the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook).
 
 ## Learning Competencies
-- Break down problems into implementable pseudocode
+- Break a large problem down into smaller steps
+- Implement a method based on pseudocode
 - Iterate through data structures and manipulate the content
-- Use if/else statements, string methods, while/until loops, Enumerable#each methods
+- Research and use Ruby methods
 - Use strings, integers, arrays, and/or hashes
 
 ## Summary
@@ -28,9 +29,14 @@ You have some rspec for this. It's saved in your `my_solutions` directory. If yo
 
 ## Release 1: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
+Make sure it passes the spec tests before refactoring.
+
 ## Release 2: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) Your solution
 
+Be sure it still passes the tests!
+
 ## Release 3: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+
 
 ## Release 4: Commit and push
 Commit your changes and push your solution to Github

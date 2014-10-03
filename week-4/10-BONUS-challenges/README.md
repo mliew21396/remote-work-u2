@@ -4,5 +4,5 @@ Bonus challenges are optional and are here for you to continue with your learnin
 
 Here are this week's bonus challenges:
 
--[Calculate a Letter Grade](calculate-letter-grade)
--[Calculate the Median](calculate-median)
+- [Calculate a Letter Grade](calculate-letter-grade)
+- [Calculate the Median](calculate-median)

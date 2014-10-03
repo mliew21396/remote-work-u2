@@ -30,7 +30,7 @@ describe 'sentence_maker' do
   end
 
   it "requires a single argument" do
-     expect(method(:total).arity).to eq 1
+     expect(method(:sentence_maker).arity).to eq 1
   end
 
   it "returns the grammatically correct sentence of the first sentence" do

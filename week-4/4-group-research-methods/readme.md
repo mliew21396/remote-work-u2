@@ -8,22 +8,27 @@
 - Explain how to use an existing ruby method
 
 ## Summary
-I'm sure many of you have looked through the [Ruby Docs](http://ruby-doc.org/) and had some
+By now you have had some practice looking through the [Ruby Docs](http://ruby-doc.org/). I'm sure you've had some
 difficulty trying to figure out what methods do and how they work. You have probably also
 seen some people using methods you didn't know existed when you looked through other solutions.
-In this challenge, you will practice reading through the docs to find existing enumerable methods and
+In this challenge, each member of your group will have a specific challenge and you will each practice reading through the docs to find existing enumerable methods and
 use them on `Array`s and `Hash`es.
 
 Research and test these methods out thoroughly. You may want to play around with them in IRB to
 figure out exactly how they work before you can implement them properly.
 
-You will also want to read up on destructive and non-destructive methods. Destructive methods change the original data. Non-Destructive methods return new data based on what you're doing, but the original data remains the same. For each of these, you will be asked to use destructive or non-destructive methods, so please read the instructions carefully.
+You will also want to know a little bit about destructive and non-destructive methods. Destructive methods change the original data permanently. Non-Destructive methods return new data (like a new array or hash) based on what you're doing, but the original data remains the same. For each of these, you will be asked to use destructive or non-destructive methods, so please read the instructions carefully.
+
+**Please note, the [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) included will ONLY work when you have each person's solution and if you use a similar way of solving the problem.** Read the link on Driver Test Code so you understand what it's doing and then feel free to modify it in this challenge to make it work for your group.
 
 ## Release 0:
 Refer to your accountability group spreadsheet to find your role.
 
-Each person has a challenge to solve. This does not need to be done in any order. **BUT the driver test code
-needs each method in order to work.** If you don't have your group-members' solutions, copy, paste, and modify your tests, comment out the originals. Then check it all still works when you get the other solutions.
+Each person has a challenge to solve. This does not need to be done in any order.
+
+**Remember: the driver test code needs each method in order to work.**
+
+If you don't have your group-members' solutions, copy, paste, and modify your tests, comment out the originals. Then check it all still works when you get the other solutions.
 
 Using the [Ruby Docs](http://ruby-doc.org/) find methods you can use
 on arrays and a hashes, and use them to complete each goal.
@@ -55,8 +60,6 @@ my_hash_finding_method(my_family_pets_ages, 3) #=> should return ["Hoobie", "Dit
 ```
 
 #### Person 2: Modify Existing Data
-Two years have passed since I made these, so they need to be updated. I want the original data to change since I never plan on going back.
-
 I recently got a new pet, but I still want another!
 Create a `my_array_modification_method` that takes an array and number to be added to all
 internal numbers. (Because you can never have too many pets!) For example:
@@ -66,7 +69,7 @@ my_array_modification_method(i_want_pets, 1)
 #=> ["I", "want", 4, "pets", "but", "only", "have", 3]
 ```
 
-Then create a method that updates the ages in the hash. For Example:
+Two years have passed since I made `my_family_pets_ages`, so the ages need to be updated. I want the original data to change since I can't travel back in time. For Example:
 
 ```ruby
 my_hash_modification_method(my_family_pets_ages, 2)
@@ -78,10 +81,10 @@ I want to create a sorting method that alphabetizes an array. I also want to cre
 
 ```ruby
 my_array_sorting_method(i_want_pets) #=>
-["3", "4", "I", "but", "have", "only", "pets", "want"] 
+["3", "4", "I", "but", "have", "only", "pets", "want"]
 
-# The numbers were converted to strings because of the method I used when I made this. 
-# You don't have to do this in the exact same way, just make sure to write your own 
+# The numbers were converted to strings because of the method I used when I made this.
+# You don't have to do this in the exact same way, just make sure to write your own
 # test if you are going to do it differently and give that to your group.
 
 my_hash_sorting_method(my_family_pets_ages) #=>
@@ -105,11 +108,23 @@ my_deletion_method(my_family_pets_ages, "George")
 #=> {"Evi" => 8, "Hoobie" => 5, "Bogart" => 6, "Poly" => 6, "Annabelle" => 2, "Ditto" => 5}
 ```
 
-## Release 1: Push your solutions and grab others!
-Push your solutions to your repo on GitHub, then find your accountability groups' solutions. Review them.
-Which existing methods did they use? Try to use them based on the instructions your group-mate included.
 
-## Release 2: Reflect
+## Release 1: Teach Others
+Once you complete your challenge, Identify and describe the ruby method you implemented. Teach your
+accountability group how to use the methods.
+
+## Release 2: Commit and Push
+Push your solution to GitHub!
+
+You may want to email your accountability group your solution (and driver test code if you modified it).
+
+## Release 3: Reflect
 Use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) and also discuss the following in the reflection section of the [my_solution](my_solution.rb) file:
+
 What did you learn about researching and explaining your research to others?
 
+## Release 4: Update your solution
+ When you get all of the solutions, paste them into your file as well. Review the solutions they created. Which existing methods did they use? Try to use them based on the instructions your group-mate included.
+
+## Release 5: Commit and Push
+Push your final solution to GitHub.

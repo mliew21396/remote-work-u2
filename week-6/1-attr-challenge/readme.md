@@ -44,7 +44,7 @@ Open [release_3.rb](release_3.rb) like the others. We now added the attr_accesso
 
 Go to [my_solution.rb](my_solution.rb). Finish refactoring the code to make the best use of the attr_attributes methods.
 
-Now, make a new class called Kim that initializes an instance of Profile in its initialize method. Doing this allows you to access to the methods you created in class Profile. Make methods called happy_birthday, change_job, and name_change that access the instance variable in Profile and change them.
+Now, make a new class called Kim that initializes an instance of Profile in its initialize method. Doing this allows you to access to the methods you created in class Profile. Make methods called happy_birthday, change_job, and name_change that access the instance variable in Profile and change them. If you are confused about this instruction, it would probably be useful for you to read ch. 3 to 3.3.2 in *The Well-Grounded Rubyist (either edition).* 
 
 The ability to use classes in concert is a powerful tool and one you will be using often!
 

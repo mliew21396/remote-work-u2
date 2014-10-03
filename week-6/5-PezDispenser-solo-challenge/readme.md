@@ -33,6 +33,3 @@ Make sure your test code still works and satisfies the expected output.
 ## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 ## Release 6: Push your solution to Github
-
-## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
-Write feedback for at least two other solutions!

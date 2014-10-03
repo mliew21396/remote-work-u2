@@ -1,8 +1,7 @@
 # Week 6: Object-Oriented Design in Ruby
 
-Please do not start on week 6 yet, we will be reviewing the challenges and making changes. It will be published at least by the Sunday before week 6 starts.
+<!-- Please do not start on week 6 yet, we will be reviewing the challenges and making changes. It will be published at least by the Sunday before week 6 starts. -->
 
-<!--
 Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design.  We recommend [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There aren't legally free copies online, so if you don't want to shell out the bucks to buy it (although we highly recommend it) use the mighty power of google to introduce yourself to the fundamentals of object-oriented design.
 
 Continue reading your Ruby book of choice. If you're using the *Well-Grounded Rubyist*, you'll want to look through any chapters you haven't read through yet, re-read material you found confusing, and practice some of the things you're seeing.
@@ -28,11 +27,11 @@ Don't forget your expectations for the unit (listed below)!
 
 ## Fetch the curriculum changes!
 
-It's time to fetch the new curriculum from Devbootcamp/phase-0-unit-2. **Make sure to check your directory before fetching changes!** Use [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md). Change all instances of phase-0-unit-1 to phase-0-unit-2.
+It's time to fetch the new curriculum from Devbootcamp/phase-0-unit-2. **Make sure to check your directory before fetching changes!** Use [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md). **Change all instances of phase-0-unit-1 to phase-0-unit-2.**
 
 ## Completing the challenges
 
-Open your local version of the directory in Sublime. Make your changes and commit and push as you complete challenges. Try using the command line as much as possible to navigate between directories and run files.
+Open your local version of the directory in Sublime. Make your changes, commit, and push as you complete challenges. Try using the command line as much as possible to navigate between directories and run files.
 
 Make sure to include specific commit messages and push your changes each time you complete a challenge.
 
@@ -43,8 +42,10 @@ You need to submit your work on the Unit 2, Week 6 submission form on [apply.dev
 
 
 ## Broken links in the repository
-You now know enough to fix broken links in your repo! If you run into a 404 error navigating through the directory online, go to the file where the error is, see what the link is. Is it to an internal or external file? If internal, do you see a file named something similarly in the repo? If so, you'll want to figure out why the link is broken and fix it. If it's to an external resource,  Definitely let us know if a link is broken so we can fix it, but take some time to research it as well.
+As you might imagine, links change all the time. We don't always know what's changed. We should be responsible for broken internal links, but external links are much more difficult to keep track of.
 
-You can also practice making pull requests to our repo to fix the links. Do some research on how to do that if you'd like to contribute.
+We'd like to ask you a favor. If you run into a 404 error navigating through the directory online, please go to the file where the error is and view the link. Is it to an internal or external file? If it's an internal file, you should see something with a similar name in the week repository and can click on that. If it's external, please search for it on google. Either way, please let us know the link is broken. We will fix it immediately!
 
-## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md) -->
+It would also be a great time for you to fix the repos on your own and make a pull request to the Devbootcamp master repository. Do some research on how to do that if you'd like to contribute.
+
+## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)

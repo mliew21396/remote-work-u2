@@ -3,17 +3,16 @@
 # U2.W4: Accountability Group Creator!
 
 ## Learning Competencies
-- Break down problems into implementable pseudocode 
+- Break down problems into implementable pseudocode
 - Differentiate between and produce destructive and non-destructive methods
 - Automate repetitive tasks using loops
 - Use strings, integers, arrays, and/or hashes
 
 ## Summary
-By now you should be feeling comfortable with the procedure we would like you to embrace and follow when working through challenges. You may feel like it's overkill now, but you will greatly appreciate already having set good habits when you arrive at DBC and begin bigger projects!
 
-In this challenge, you are going to make a method that takes an array of names (You'll want to get the list from your Cohort page in Socrates) and outputs a list of accountability groups for three different units. You should try to get everyone into an accountability group of 4, but it's your decision how to deal with cohorts not easily divisible by four. 
+In this challenge, you are going to make a method that takes an array of names (You'll want to get the list from your Cohort page in Socrates) and outputs a list of accountability groups for three different units. You should try to get everyone into an accountability group of 4, but it's your decision how to deal with cohorts not easily divisible by four.
 
-You will also not have any tests for this challenge, so it's your job to create them. Read the document on Writing [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) code with Ruby. You should write tests with expectations that return `true` if the code is working and `false` if it is not.
+In the previous challenges, the test code was present to help guide your code. In these challenges you will practice creating your own simple test code. Read the document on Writing [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) code with Ruby. You should write tests with expectations that return `true` if the code is working and `false` if it is not.
 
 You will want to consider:
 - Are there built-in methods to do this in Ruby?

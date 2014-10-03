@@ -18,7 +18,7 @@ If you are using the *Well-Grounded Rubyist*, you'll want to look at Chapters 1,
 3. [Group Research Methods](3-group-research-methods)
 4. [Separate Numbers with Commas SOLO CHALLENGE](4-nums-commas-solo-challenge)
 5. [Pad an Array](5-pad-array)
-6. [Cipher Challenge](6-cipher-challenge) *Pair with a person in your accountability group*
+6. [Cipher Challenge](6-cipher-challenge) *Mandatory Pairing Challenge*
 7. [Refactor](7-refactor) **Select 1 of the challenges**
 8. [Technical Blog](8-technical-blog.md)
 9. [Cultural Blog](9-cultural-blog.md)
@@ -45,4 +45,3 @@ We use the submission form to gather feedback on our curriculum, so please answe
 Sometimes we will make changes to the original repository to clarify instructions. You will need to fetch these changes from the master branch when we announce changes on the google+ community. Use [these](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) instructions. **Substitute phase-0-unit-2 for each instance of phase-0-unit-1 in the instructions.**
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
-

@@ -1,6 +1,4 @@
-# U2.W5: A Nested Array to Model a Boggle Board
-
-# I worked on this challenge [by myself, with: ].
+# U2.W5: A Nested Array to Model a Boggle Board SOLO CHALLENGE
 
 boggle_board = [["b", "r", "a", "e"],
                 ["i", "o", "d", "t"],
@@ -8,35 +6,36 @@ boggle_board = [["b", "r", "a", "e"],
                 ["t", "a", "k", "e"]]
 
 
-# Part 1: Write a method that takes a row number and returns all the elements in the row
 
-# Pseudocode
-
-# Initial Solution
+# Release 0: Pseudocode
 
 
-# Refactored Solution
+
+# Release 2: Initial Solution
+
+class BoggleBoard
+  def initialize#(what do you need to initialize it with?)
+    #Your code here
+  end
+
+  def get_row(row)
+    #Your code here
+  end
+
+  def get_col(col)
+    #Your code here
+  end
+end
+
+# Release 3: Refactored Solution
 
 
-# Reflection 
-
-#-------------------------------------------------------------------------------
-
-# Part 2: Now write a method that takes a column number and returns all the elements in the column.
-
-# Pseudocode
-
-# Initial Solution
 
 
-# Refactored Solution
+# Release 1: DRIVER TESTS GO BELOW THIS LINE
 
 
-#-------------------------------------------------------------------------------
-# DRIVER TESTS GO BELOW THIS LINE
 
-
-# Reflection 
-
+# Release 4: Reflection
 
 

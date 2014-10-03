@@ -1,17 +1,15 @@
 # Ruby Algorithms
 
-Unit 2 is organized differently from Unit 1. We don't provide reading resources specifically for challenges or units, so it's up to you to review or research concepts in Ruby you need to work through these challenges. We highly recommend selecting a Ruby book from the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md) to reference as you go through these challenges. You'll want to have a good understanding of the Ruby language. We often recommend the *Well-Grounded Rubyist*, which is not free, but we have arranged a 45% off discount with [Manning Publications](http://www.manning.com/black3/) Use code `rubycl14`. **Please respect future students and Dev Bootcamp by not sharing this code or the ebook with others. This code is for Dev Bootcamp students only.**
+This week you will be working on writing command-line programs focusing on algorithms and basic testing. Some challenges will also have tests already developed using RSpec (a tool for testing ruby code). You will learn how to run these tests on your computer and read them to decide whether you've successfully solved the challenge. NOTE: You are not expected to fully understand or write any RSpec in Phase 0, just be able to read it; RSpec is designed to be readable.
 
-This week you will be working on writing command-line programs focusing on algorithms and basic testing. Some challenges will also have tests already developed using RSpec (a tool for testing ruby code). You will learn how to run these tests on your computer and read them to decide whether you've successfully solved the challenge. NOTE: You are not expected to fully understand or write any RSpec in Phase 0, just be able to read it. RSpec is designed to be readable.You should have installed RSpec in Unit 1, so there is no need to re-install.
-
-**Please make sure to follow each step we ask you (in order): write driver test code, pseudocode, initial solution, refactoring, reflection, and review.**
+**Please make sure to follow each step we ask you (in order): write pseudocode, initial solution, refactoring, reflection.**
 
 This week you get a bit more choice on which challenges to do. If you want to go above and beyond, do all of them!
 
-If you are using the *Well-Grounded Rubyist*, you'll want to look at Chapters 1, 2, 6, 7, 8, 9, 10. You don't need to read every chapter thoroughly, skim where you need to. Take more time with concepts you don't know.
+If you are using the *Well-Grounded Rubyist*, you'll want to take a look at [Week 3's bonus challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/10-BONUS-challenges/Well-Grounded-Rubyist.md) for info on what chapters to read. You don't need to read every chapter thoroughly, skim where you need to. Take more time with concepts you don't feel comfortable with.
 
 ## Challenges
-1. [Calculate an Array Total](1-calculate-total)
+1. [Add it Up](1-add-it-up)
 2. [Create Accountability Groups](2-create-acct-groups)
 3. [Calculate the Mode](3-calculate-mode) *Mandatory Pairing Challenge*
 4. [Group Research Methods](4-group-research-methods)
@@ -20,6 +18,7 @@ If you are using the *Well-Grounded Rubyist*, you'll want to look at Chapters 1,
 7. [Die Class](7-die-class)
 8. [Technical Blog](8-technical-blog.md)
 9. [Cultural Blog](9-cultural-blog.md)
+10. [BONUS Challenges](10-BONUS-challenges) *These are optional*
 
 ## Remember your Expectations for the Unit!
 - Pair at least twice this week.  (You need to pair 6 times this unit.)

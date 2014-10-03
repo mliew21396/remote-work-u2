@@ -1,19 +1,20 @@
-# U2.W4: Calculate the mode!
+# U2.W4: Calculate the mode
+ # Pairing Challenge
 
-# Complete each step below according to the challenge directions and 
+# Complete each step below according to the challenge directions and
 # include it in this file. Also make sure everything that isn't code
-# is commented in the file.  
+# is commented.
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge with: .
 
-# 1. Pseudocode
+# 0. Pseudocode
 
 # What is the input?
 # What is the output? (i.e. What should the code return?)
 # What are the steps needed to solve the problem?
 
 
-# 2. Initial Solution
+# 1. Initial Solution
 
 
 
@@ -22,4 +23,5 @@
 
 
 
-# 4. Reflection 
+
+# 4. Reflection

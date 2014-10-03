@@ -10,19 +10,19 @@
 ## Summary
 The Tech industry is likely new to many of you, so it's a good idea to know about the various issues facing the industry. In this blog post, you'll be researching a problem in the tech industry and writing a post about what you learned.
 
-Please time-box your blog assignment to an hour (max 1.5 hours).
+Please time-box your blog assignment to an hour (max 1.5 hours). Aim for 1 hour.
 
 ## Release 0: New file
-First, create a new HTML file for your this post in your blog-posts directory in your [USERNAME].github.io repository and name it `week4_cultural_blog.html`. Copy the Code from your `blog_template`.
+In your [USERNAME].github.io/blog directory, copy your blog tempate into a new HTML file named `c4-tech-issues.html`.
 
 ## Release 1: Research
 Research about some of the problems facing the tech world. Select one.
 
 ## Release 2: Blog
-Explain the problem and background in your blog, and then hypothesize potential solutions in your blog post.
+Explain the problem and background in your blog, and then hypothesize potential solutions.
 
-## Release 3: Revist HTML/CSS
-Now that you have had some time to work on ruby, go back and practice your HTML. Improve your site. Make it look a bit more professional.
+## Release 3: Revist HTML/CSS (Optional)
+You probably still have a list of changes you want to make to your site. Try to keep your HTML/CSS knowledge fresh by following your maintenance schedule. Incorporate some of your planned changes if you have time.
 
 ## Release 4: Publish
 Link to your blog on the blog-posts/index.html of your site and push your changes.
@@ -30,7 +30,7 @@ Link to your blog on the blog-posts/index.html of your site and push your change
 ## Release 5: Promote
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
-Tweet your blog post using **#DBCTechProbs**
+Tweet your blog post using **#DBCTechProbs**.
 
 ## Release 6: Read
 Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!

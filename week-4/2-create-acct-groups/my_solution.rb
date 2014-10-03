@@ -3,34 +3,25 @@
 
 # I worked on this challenge [by myself, with: ].
 
-# 2. Pseudocode
+# 0. Pseudocode
 
 # Input:
 # Output:
 # Steps:
 
 
-# 3. Initial Solution
+# 1. Initial Solution
 
 
 
 
-# 4. Refactored Solution
-
-
-
-
-
-
-
-
-# 1. DRIVER TESTS GO BELOW THIS LINE
+# 2. Refactored Solution
 
 
 
 
 
 
-# 5. Reflection 
+# 3. Reflection
 
 

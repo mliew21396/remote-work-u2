@@ -20,19 +20,6 @@ If you are using the *Well-Grounded Rubyist*, you'll want to take a look at [Wee
 9. [Cultural Blog](9-cultural-blog.md)
 10. [BONUS Challenges](10-BONUS-challenges) *These are optional*
 
-## Submitting your work
-- You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
-- The week's work is due each Sunday be 11:59pm.
-
-**If you do not finish by the deadline:**
-- Complete the Unit 1 extension request. (You only get one extension for Unit 1)
-- When the work is complete, turn it in using the [week's submission form](http://apply.devbootcamp.com).
-
-## Remember your Expectations for the Unit!
-- Pair at least twice this week.  (You need to pair 6 times this unit.)
-- Give feedback for each person you paired with. You need to submit at least 7 pieces of feedback in this unit. (6 for peer-pairing, and 1 GPS.)
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. (You need to rate 20 pieces of feedback per unit.)
-
 ## Working through the Challenges
 - Fork this (phase-0-unit-2) repository by clicking "Fork" at the top right of the page.
 - Enable "issues" in the settings for the repo, like you did for phase-0-unit-1. This will allow people
@@ -40,6 +27,19 @@ If you are using the *Well-Grounded Rubyist*, you'll want to take a look at [Wee
 - Clone the `phase-0-unit-2` repository from the command line to your computer.
 
 You will want to run and modify all files from your local repository on your computer. Use the terminal to navigate to the 'my_solution.rb' files or the spec files.
+
+## Submitting your work
+- You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
+- The week's work is due each Sunday be 11:59pm.
+
+**If you do not finish by the deadline:**
+- Complete the Unit 2 extension request. (You only get one extension for Unit 2)
+- When the work is complete, turn it in using the [week's submission form](http://apply.devbootcamp.com).
+
+## Remember your Expectations for the Unit!
+- Pair at least twice this week.  (You need to pair 6 times this unit.)
+- Give feedback for each person you paired with. You need to submit at least 7 pieces of feedback in this unit. (6 for peer-pairing, and 1 GPS.)
+- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. (You need to rate 20 pieces of feedback per unit.)
 
 ## Fetching Changes
 Sometimes we will make changes to the original repository to clarify instructions. You will need to fetch these changes from the master branch when we announce changes on the google+ community. Use [these](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) instructions. **Substitute phase-0-unit-2 for each instance of phase-0-unit-1 in the instructions.**

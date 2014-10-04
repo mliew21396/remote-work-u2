@@ -64,7 +64,7 @@ end
 
 
 ################## DRIVER TEST CODE ###################################
-# HINT: Use `puts` statements to see if you are altering the original structure with these methods.
+# HINT: Use `p` statements to see if you are altering the original structure with these methods.
 # Each of these should return `true` if they are implemented properly AND you have the code for each of the methods.
 
 # Person 1

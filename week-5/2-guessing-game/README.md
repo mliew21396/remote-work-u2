@@ -2,16 +2,15 @@
 
 # U2.W5: Build a Simple Guessing Game
 
-
 ## Learning Competencies
-- Break down problems into implementable pseudocode 
+- Break down problems into implementable pseudocode
 - Implement a basic Ruby class and identify when to use instance variables
 - Use if/else statements, string methods, while/until loops, Enumerable#each methods
 - Explain how instance variables and methods represent the characteristics and actions of an object
 
 ## Summary
 
-In this challenge you want to create a simple guessing game. Think in terms of when you were 7 and asked your friends to identify the number you were thinking. 
+In this challenge you want to create a simple guessing game. Think in terms of when you were 7 and asked your friends to identify the number you were thinking.
 
 Your `GuessingGame` class should be initialized with an integer called `answer`.
 
@@ -55,20 +54,25 @@ end
 puts "#{last_guess} was correct!"
 ```
 
-## Release 0: Run the Tests
- 
-## Release 1: Translate the tests
-Translate at least 3 of the tests into [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/driver_code.md) and include it in the driver test code section. If the tests are failing to catch a problem, try writing your own driver test code for it. 
+## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
-## Release 2: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/pseudocode.md)
+## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
-## Release 3: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/initial_solution.md)
+Make sure your code passes the tests before moving on.
 
-## Release 4: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/refactoring.md)
+## Release 2: Translate the tests
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+Translate at least 3 of the tests into [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) and include it in the driver test code section. If the tests are failing to catch a problem, try writing your own driver test code for it.
 
-## Release 6: Push your solution to Github
+## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
 
-## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
+Make sure your code still passes the tests!
+
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+
+## Release 5: Push your solution to Github
+
+## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
+**Optional but HIGHLY encouraged!**
+
 

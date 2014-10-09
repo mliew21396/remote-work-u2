@@ -7,7 +7,6 @@
   - Describe getter and setter methods
   - Use the attr_ methods to simplify your code and pass data between classes
 
-
 ## Summary
 
 You may have run across attr_reader/writer/accessor methods in Ruby code before under class declaration. Instead of considering these to be "magic" methods, we aim to show you what's being done "under the hood" when you invoke these methods.
@@ -44,7 +43,7 @@ Open [release_3.rb](release_3.rb) like the others. We now added the attr_accesso
 
 Go to [my_solution.rb](my_solution.rb). Finish refactoring the code to make the best use of the attr_attributes methods.
 
-Now, make a new class called Kim that initializes an instance of Profile in its initialize method. Doing this allows you to access to the methods you created in class Profile. Make methods called happy_birthday, change_job, and name_change that access the instance variable in Profile and change them. If you are confused about this instruction, it would probably be useful for you to read ch. 3 to 3.3.2 in *The Well-Grounded Rubyist (either edition).* 
+Now, make a new class called Kim that initializes an instance of Profile in its initialize method. Doing this allows you to access to the methods you created in class Profile. Make methods called happy_birthday, change_job, and name_change that access the instance variable in Profile and change them. If you are confused about this instruction, it would probably be useful for you to read ch. 3 to 3.3.2 in *The Well-Grounded Rubyist (either edition).*
 
 The ability to use classes in concert is a powerful tool and one you will be using often!
 

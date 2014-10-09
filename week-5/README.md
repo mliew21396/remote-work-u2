@@ -8,10 +8,10 @@ The curriculum is designed to help you with the process of thinking through comp
 
 This week gets into more advanced concepts, so make sure you pair as often as you need to ensure you are able to learn efficiently and have fun doing it! You can pair on any challenge (except for solo challenges) and you have an awesome community of programmers to pair with.
 
-If you are using the *Well-Grounded Rubyist*, to solidify your learning, you'll want to focus on reading:
+If you are using the *Well-Grounded Rubyist* to solidify your learning, you'll want to focus on reading:
 - Chapters 3 and 5
 - Chapter 4 (We don't cover any of these topics in Phase 0, but they are useful to be aware of)
-
+We can't recommend this book enough, so please get it if you can. Read through the Week 3 [BONUS challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/10-BONUS-challenges/Well-Grounded-Rubyist.md) for a discount code.
 
 ## Challenges
 1. [Die Class 2: Arbitrary Symbols](1-die)

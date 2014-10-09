@@ -17,14 +17,14 @@ In this challenge, you'll work with a pair to refactor some existing code to mak
 ## Release 0: Run the code
 See what the expected output is.
 
-## Release 1: Write tests
-Use [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md). What will always be the same using this cipher? What changes?
-
-## Release 2: Read the code
+## Release 1:  Read the code
 Identify what each line of code is doing. It's located in the [my_solution.rb](my_solution.rb) file.
 
 Write comments next to or above each line with an explanation.
 Really focus on breaking each step down. You want to understand every line (except for 68 and 69). You do not need to understand each part of these lines because they use regular expressions that look for one or more of any digit. We aren't asking you to learn regular expressions in Phase 0, so you don't need to refactor them.
+
+## Release 2: Write Tests
+Use [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md). What will always be the same using this cipher? What changes? Write driver test code based on what you discover.
 
 ## Release 3: [Refactor (by rewriting) the initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
   - Clean up the variable names.
@@ -36,4 +36,5 @@ Really focus on breaking each step down. You want to understand every line (exce
 (Push your solution) to Github, then request for feedback on twitter using **#DBCU2W5**
 
 ## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
-Review the other solutions in your accountability group. Were the solutions different? What did the others do well or better than you? What did you do well? Comment on each solution. Arrange a half hour discussion to discuss your different approaches.
+**Review other solutions on this challenge. This is not optional.**
+

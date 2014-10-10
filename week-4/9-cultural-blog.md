@@ -25,10 +25,10 @@ Explain the problem and background in your blog, and then hypothesize potential 
 You probably still have a list of changes you want to make to your site. Try to keep your HTML/CSS knowledge fresh by following your maintenance schedule. Incorporate some of your planned changes if you have time.
 
 ## Release 4: Publish
-Link to your blog on the blog-posts/index.html of your site and push your changes.
+Link to your blog on the blog/index.html of your site and push your changes.
 
 ## Release 5: Promote
-Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
+Now it's time to show off your work and share your knowledge with your cohort-mates using Twitter!
 
 Tweet your blog post using **#DBCTechProbs**.
 

@@ -1,4 +1,4 @@
-# RELEASE ONE: comment above code and uncomment  lines 51-82 (protip, command + / comments and uncomments selected code)
+# Release 1: comment above code and uncomment  lines 51-82 (protip, command + / comments and uncomments selected code)
 
 class Profile
 

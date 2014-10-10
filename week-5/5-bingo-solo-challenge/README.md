@@ -1,6 +1,6 @@
 [Week 5 Home](../)
 
-# U2.W5: A Nested Array to Model a Boggle Board **SOLO CHALLENGE**
+# U2.W5: A Nested Array to Model a Bingo Board **SOLO CHALLENGE**
 
 Please refer to the [solo challenge](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md) guidelines in the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook).
 
@@ -12,71 +12,63 @@ Please refer to the [solo challenge](https://github.com/Devbootcamp/phase-0-hand
 
 ## Summary
 
-We've already worked with hashes and arrays as data structures.  They are handy ways of collecting and organizing data, and ideal for modeling a group of objects.
+By now, you have had some practice using arrays [] and hashes {} these structures are great at holding collections of data. In this exercise, we will be look at a nested array. That is to say an array that contains arrays in it.
 
-In this challenge, we're going to model a grid or a board that has coordinates for each of its cells.  A logical way of modeling a board is to use a nested array, where a row and column are its coordinates.
+<img src="http://cf.chucklesnetwork.com/items/7/5/7/0/0/original/i-heard-u-like-arrays-so-we-put-an-array-in-your-array.jpg" width="250px" height="250px" />
 
-Let's explore a boggle board as an example.
+This sounds complicated, but you will find that it is almost the same as accessing a 1 dimensional array. In this challenge we will be looking at a bingo board and placing our pieces (x's) based on the numbers called.
 
-```ruby
-boggle_board = [["b", "r", "a", "e"],
-                ["i", "o", "d", "t"],
-                ["e", "c", "l", "r"],
-                ["t", "a", "k", "e"]]
-```
+The first number in the sub-arrays correspond to the letter B, the second I, the third N, the fourth G, the fifth O. So if the call is N, 34. I would look in the third column for the number 34.
 
-If we wanted to access the "r" character in the first row, we'd use the syntax below because "r" is in row 0 and under column 1. (Remember that arrays start counting from 0).
+Your goals in this challenge are to:
+- Keep all of the logic and variables inside of the class bingo_board. Method calls can be outside.
+- Create a method to generate a letter ( b, i, n, g, o) and a number (1-100)
+- Check the column for the number.
+- If the number is in the column, replace with an 'x'
+- Display a column to the console
+- Display the board to the console (prettily)
 
-In boggle, you can spell out words by collecting letters that are immediately next to one another (up, down, across, or diagonally).  One of the words possible in the above boggle board is "code." Below is a simple method that takes a group of coordinates and returns a string of the corresponding `boggle board` elements.
-
-```ruby
-  def create_word(board, *coords)
-    coords.map { |coord| board[coord.first][coord.last]}.join("")
-  end
-
-  puts create_word(boggle_board, [2,1], [1,1], [1,2], [0,3])  #=> returns "code"
-  puts create_word(boggle_board, [0,1], [0,2], [1,2])  #=> creates what california slang word?
-```
-
-With this code, the following expectations should return `true`
+Sample bingo board:
 
 ```ruby
-puts boggle_board[0][1] == "r"   # returns boggle_board[row_number][column_number]
-puts boggle_board[2][1] == "c" #=> should be true
-puts boggle_board[3][3] == "e" #=> should be true
-puts boggle_board[2][3] == "x" #=> should be false
+bingo_board = [[47, 44, 71, 8, 88],
+               [22, 69, 75, 65, 73],
+               [83, 85, 97, 89, 57],
+               [25, 31, 96, 68, 51],
+               [75, 70, 54, 80, 83]]
 ```
 
 ## Releases:
 
-## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/pseudocode.md)
-
-Using the information above, your job will be to create a class object so you don't have to require the board you are using every time you want to access elements within it.
-
-Your goals in this challenge are to:
-1. Create a class object that creates an instance of a boggle_board (There are many different boggle boards - so design the program to be a bit flexible. You don't just want one boggle board!)
-2. Create a method that returns all elements for a particular row so that get_row(1) #=>  ["i", "o", "d", "t"]
-3. Create a method that returns all elements for a particular column so that get_col(1)  #=>  ["r", "o", "c", "a"]
+## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
 Break these challenges down into implementable parts.
 
-## Release 1: [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
-Now that you have some pseudocode built in, write some method calls and use expectations so they return true or false. That will really help you when you get to refactoring since you will know immediately if you break it.
+## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+Translate your pseudocode into code. We started you off with an initialize method, you will need others to complete the challenge.
 
-Try creating and testing a couple different versions of boggle boards to get the hang of working with nested arrays.
+## Release 2: [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
 
-## Release 2: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/initial_solution.md)
-Translate your pseudocode into code. Fill in the skeleton in the my_solution.rb file.
+Our board is being randomly generated each time you run the class, so you need to think creatively with how to test your outputs. Hard coding the board then writing tests to get your initial solution is acceptable. But refactor with the dynamic generator.
 
-## Release 3: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/refactoring.md)
+
+## Release 3: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 Refactor your initial solution. Use the driver tests to get feedback about when you break something.
 
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-Along with your reflection describe what the splat operator in the 'create_word' method is doing.
 
 ## Release 5: Push your solution
 Commit your changes and push your solution to github!
 
+##BONUS Release 6: True Bingo Board
+
+Our bingo board, generated with this code
+`    @bingo_board = Array.new(5) {Array(5.times.map{rand(1..100)})}
+`
+creates a 5x5 array with random numbers from 1-100, but that is not how true bingo boards work. Traditionally the pattern is like this: "B" (numbers 1–15), "I" (numbers 16–30), "N" (numbers 31–45), "G" (numbers 46–60), and "O" (numbers 61–75) with a free space in the middle.
+
+Instead of having the code create a random board, have it create a board that would be legal to play Bingo with.
+
 ## External Resources
-* [Boggle on Wikipedia](http://en.wikipedia.org/wiki/Boggle)
-* [Play Boggle online](http://www.wordplays.com/boggle)
+
+- [Ruby Array Docs](http://www.ruby-doc.org/core-2.1.3/Array.html)

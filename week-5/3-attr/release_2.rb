@@ -1,4 +1,4 @@
-# RELEASE TWO:
+# Release 2:
 
 class Profile
 

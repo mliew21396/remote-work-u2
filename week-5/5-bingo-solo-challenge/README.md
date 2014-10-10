@@ -23,7 +23,7 @@ The first number in the sub-arrays correspond to the letter B, the second I, the
 Your goals in this challenge are to:
 - Keep all of the logic and variables inside of the class bingo_board. Method calls can be outside.
 - Create a method to generate a letter ( b, i, n, g, o) and a number (1-100)
-- Check the called column for the number called.
+- Check the column for the number.
 - If the number is in the column, replace with an 'x'
 - Display a column to the console
 - Display the board to the console (prettily)

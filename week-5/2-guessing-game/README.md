@@ -74,5 +74,3 @@ Make sure your code still passes the tests!
 
 ## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
 **Optional but HIGHLY encouraged!**
-
-

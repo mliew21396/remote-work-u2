@@ -45,4 +45,3 @@ Tweet your blog post using the hashtag **#DBCConcepts**.
 
 ## Release 5: Read
 Read at least one other person's post on a topic you're interested in. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!
-

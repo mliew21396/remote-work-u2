@@ -1,34 +1,22 @@
-# U2.W5: A Nested Array to Model a Boggle Board SOLO CHALLENGE
-
-boggle_board = [["b", "r", "a", "e"],
-                ["i", "o", "d", "t"],
-                ["e", "c", "l", "r"],
-                ["t", "a", "k", "e"]]
-
+# U2.W5: A Nested Array to Model a Bingo Board SOLO CHALLENGE
 
 
 # Release 0: Pseudocode
 
 
-
 # Release 2: Initial Solution
 
-class BoggleBoard
-  def initialize#(what do you need to initialize it with?)
-    #Your code here
+class BingoBoard
+
+  def initialize
+    # populates an 5x5 array with numbers 1-100
+    @bingo_board = Array.new(5) {Array(5.times.map{rand(1..100)})}
   end
 
-  def get_row(row)
-    #Your code here
-  end
 
-  def get_col(col)
-    #Your code here
-  end
 end
 
 # Release 3: Refactored Solution
-
 
 
 

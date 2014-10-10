@@ -12,7 +12,7 @@ Please refer to the [solo challenge](https://github.com/Devbootcamp/phase-0-hand
 
 ## Summary
 
-By now, you have had some practice using arrays [] and hashes {} these structures are great at holding collections of data. In this exercise, we will be look at a nested array. That is to say an array that contains arrays in it.
+By now, you have had some practice using arrays [ ] and hashes { } these structures are great at holding collections of data. In this exercise, we will be look at a nested array. That is to say an array that contains arrays in it.
 
 <img src="http://cf.chucklesnetwork.com/items/7/5/7/0/0/original/i-heard-u-like-arrays-so-we-put-an-array-in-your-array.jpg" width="250px" height="250px" />
 

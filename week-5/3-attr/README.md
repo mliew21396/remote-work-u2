@@ -47,7 +47,7 @@ Go to [release_4.rb](release_4.rb). Finish refactoring the code to make the best
 
 Attr methods are a great way to have classes communicate their instance variables. Lets practice this with a small example.
 
-Create a class called NameData and a class called Greetings. NameData will have your name as an instance variable, and Greetings will have a method that will print a string to the console with a salutation customized to you.
+Create a class called `NameData` and a class called `Greetings`. `NameData` will have your name as an instance variable, and `Greetings` will have a method that will print a string to the console with a salutation customized to you.
 
 ## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 

@@ -1,11 +1,12 @@
-# RELEASE FOUR:
+# Release 4:
 
-# refactor this code to move method assignments to attr_ attributes. Like we did with age. Lets pare down the superfluous code.
+# refactor this code to move method assignments to attr_ attributes. Like we did with age. Let's pare down the superfluous code.
 
 # Your Code Here:
 
 class Profile
-# first lets finish refactoring this code (note that there is a way to add all of the variables like :age on one line, how would we do that?):
+# first let's finish refactoring this code
+# note that there is a way to add all of the variables like :age on one line, how would we do that?
   attr_accessor :age
 
   def initialize

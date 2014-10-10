@@ -14,11 +14,19 @@ Please refer to the [solo challenge](https://github.com/Devbootcamp/phase-0-hand
 
 By now, you have had some practice using arrays [] and hashes {} these structures are great at holding collections of data. In this exercise, we will be look at a nested array. That is to say an array that contains arrays in it.
 
-![yo dawg](http://cf.chucklesnetwork.com/items/7/5/7/0/0/original/i-heard-u-like-arrays-so-we-put-an-array-in-your-array.jpg)
+<img src="http://cf.chucklesnetwork.com/items/7/5/7/0/0/original/i-heard-u-like-arrays-so-we-put-an-array-in-your-array.jpg" width="250px" height="250px" />
 
 This sounds complicated, but you will find that it is almost the same as accessing a 1 dimensional array. In this challenge we will be looking at a bingo board and placing our pieces (x's) based on the numbers called.
 
 The first number in the sub-arrays correspond to the letter B, the second I, the third N, the fourth G, the fifth O. So if the call is N, 34. I would look in the third column for the number 34.
+
+Your goals in this challenge are to:
+- Keep all of the logic and variables inside of the class bingo_board. Method calls can be outside.
+- Create a method to generate a letter ( b, i, n, g, o) and a number (1-100)
+- Check the called column for the number called.
+- If the number is in the column, replace with an 'x'
+- Display a column to the console
+- Display the board to the console (prettily)
 
 Sample bingo board:
 
@@ -34,23 +42,15 @@ bingo_board = [[47, 44, 71, 8, 88],
 
 ## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/pseudocode.md)
 
-Your goals in this challenge are to:
-- Keep all of the logic and variables inside of the class bingo_board. Method calls can be outside.
-- Create a method to generate a letter ( b, i, n, g, o) and a number (1-100)
-- Check the called column for the number called.
-- If the number is in the column, replace with an 'x'
-- Display a column to the console
-- Display the board to the console (prettily)
-
 Break these challenges down into implementable parts.
 
+## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/initial_solution.md)
+Translate your pseudocode into code. We started you off with an initialize method, you will need others to complete the challenge.
 
-## Release 1: [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
+## Release 2: [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
 
 Our board is being randomly generated each time you run the class, so you need to think creatively with how to test your outputs. Hard coding the board then writing tests to get your initial solution is acceptable. But refactor with the dynamic generator.
 
-## Release 2: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/initial_solution.md)
-Translate your pseudocode into code. We started you off with an initialize method, you will need others to complete the challenge.
 
 ## Release 3: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/refactoring.md)
 Refactor your initial solution. Use the driver tests to get feedback about when you break something.
@@ -59,6 +59,15 @@ Refactor your initial solution. Use the driver tests to get feedback about when 
 
 ## Release 5: Push your solution
 Commit your changes and push your solution to github!
+
+##BONUS Release 6: True Bingo Board
+
+Our bingo board, generated with this code
+`    @bingo_board = Array.new(5) {Array(5.times.map{rand(1..100)})}
+`
+creates a 5x5 array with random numbers from 1-100, but that is not how true bingo boards work. Traditionally the pattern is like this: "B" (numbers 1–15), "I" (numbers 16–30), "N" (numbers 31–45), "G" (numbers 46–60), and "O" (numbers 61–75) with a free space in the middle.
+
+Instead of having the code create a random board, have it create a board that would be legal to play Bingo with.
 
 ## External Resources
 

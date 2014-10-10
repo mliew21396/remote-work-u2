@@ -5,7 +5,7 @@
 ## Learning Competencies
 - Identify and explain what code is doing
 - Automate repetitive tasks using loops
-- Decompose a problem into smaller, easier to solve components
+- Break a large problem down into smaller steps
 - Identify and rewrite repetitive code
 - Refactor a method into a class structure
 

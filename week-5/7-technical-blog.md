@@ -12,7 +12,7 @@ You've had a LOT of practice with ruby classes this week, so now is the time to 
 Remember to time-box to about an hour for each blog post!
 
 ## Release 0: New File
-Copy your blog tempate into a new HTML file named `week5_technical.html`.
+Copy your blog template into a new HTML file named `week5_technical.html`.
 
 ## Release 1: Topic
 Create an example class and teach others when to use instance variables, instance methods, etc. for that object.

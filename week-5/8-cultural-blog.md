@@ -5,7 +5,7 @@
 ## Learning Competencies
 - Identify one emotion that arose during a pairing session
 - Describe kind, actionable, and specific feedback
-- Discuss the feeling of vulnerablity when pairing and reading feedback
+- Discuss the feeling of vulnerability when pairing and reading feedback
 
 ## Summary
 By now you should have submitted and received feedback from your pairing partners, so you'll be evaluating pairing, the feedback you've received, and how it felt to receive the feedback.
@@ -13,7 +13,7 @@ By now you should have submitted and received feedback from your pairing partner
 Remember to time-box to about an hour for each blog post.
 
 ## Release 0: Copy your Blog Template
-In your blog-posts directory on your [USERNAME].github.io repository, copy your blog tempate into a new HTML file named `week5_cultural.html`.
+In your blog-posts directory on your [USERNAME].github.io repository, copy your blog template into a new HTML file named `week5_cultural.html`.
 
 ## Release 1: Read your feedback
 Make sure to read the feedback you've received. You'll see it on the feedback dashboard in [Socrates](https://socrates.devbootcamp.com/feedback).

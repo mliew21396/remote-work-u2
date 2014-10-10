@@ -2,11 +2,9 @@
 
 # U2.W5: Class Warfare, Validate a Credit Card Number
 
-
 ## Learning Competencies
-- Iterate through data structures
-- Manipulate data within data structures
-- Decompose a problem into smaller, easier to solve components
+- Iterate and manipulate data in data structures
+- Break a large problem down into smaller steps
 - Find and use built-in Ruby methods to solve challenges
 
 

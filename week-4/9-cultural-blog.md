@@ -13,7 +13,7 @@ The Tech industry is likely new to many of you, so it's a good idea to know abou
 Please time-box your blog assignment to an hour (max 1.5 hours). Aim for 1 hour.
 
 ## Release 0: New file
-In your [USERNAME].github.io/blog directory, copy your blog tempate into a new HTML file named `c4-tech-issues.html`.
+In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `c4-tech-issues.html`.
 
 ## Release 1: Research
 Research about some of the problems facing the tech world. Select one.

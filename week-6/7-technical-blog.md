@@ -9,7 +9,7 @@
 You've learned a bit about object-oriented programming this week, but there is still a ton to learn. In this challenge, select one topic below and do a bit of research on them. Then write a blog post about what you've learned. Remember to time-box to about an hour for each blog post!
 
 ## Release 0: New Template
-Copy your blog tempate into a new HTML file named `week6_technical.html`.
+Copy your blog template into a new HTML file named `week6_technical.html`.
 
 ## Release 1: Research
 Select and research one of the topics below:

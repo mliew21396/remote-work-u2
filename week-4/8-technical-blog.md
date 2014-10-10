@@ -10,7 +10,7 @@
 In this blog, you will do a bit of research on either an Enumerable method and teach the method to your reader. Time-box yourself to an hour -- max 1.5 hours on your blog post. These aren't expected to be professional or perfect, they are meant to show where you are at this point in your learning.
 
 ## Release 0: New file
-Copy your blog tempate into a new HTML file in the blog-posts directory named `t4-enumerable-methods.html`.
+Copy your blog template into a new HTML file in the blog-posts directory named `t4-enumerable-methods.html`.
 
 Make sure to update the links to your old blog posts on the index of your site so people can easily navigate to your awesome blog posts!
 

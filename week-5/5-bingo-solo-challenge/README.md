@@ -40,11 +40,11 @@ bingo_board = [[47, 44, 71, 8, 88],
 
 ## Releases:
 
-## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/pseudocode.md)
+## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
 Break these challenges down into implementable parts.
 
-## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/initial_solution.md)
+## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 Translate your pseudocode into code. We started you off with an initialize method, you will need others to complete the challenge.
 
 ## Release 2: [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
@@ -52,7 +52,7 @@ Translate your pseudocode into code. We started you off with an initialize metho
 Our board is being randomly generated each time you run the class, so you need to think creatively with how to test your outputs. Hard coding the board then writing tests to get your initial solution is acceptable. But refactor with the dynamic generator.
 
 
-## Release 3: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding_references/refactoring.md)
+## Release 3: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 Refactor your initial solution. Use the driver tests to get feedback about when you break something.
 
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)

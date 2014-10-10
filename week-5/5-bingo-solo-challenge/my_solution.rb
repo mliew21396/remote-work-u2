@@ -1,38 +1,43 @@
-# U2.W5: A Nested Array to Model a Boggle Board SOLO CHALLENGE
-
-boggle_board = [["b", "r", "a", "e"],
-                ["i", "o", "d", "t"],
-                ["e", "c", "l", "r"],
-                ["t", "a", "k", "e"]]
-
+# U2.W5: A Nested Array to Model a Bingo Board SOLO CHALLENGE
 
 
 # Release 0: Pseudocode
+# Outline:
 
+# Create a method to generate a letter ( b, i, n, g, o) and a number (1-100)
+  #fill in the outline here
 
+# Check the called column for the number called.
+  #fill in the outline here
 
-# Release 2: Initial Solution
+# If the number is in the column, replace with an 'x'
+  #fill in the outline here
 
-class BoggleBoard
-  def initialize#(what do you need to initialize it with?)
-    #Your code here
+# Display a column to the console
+  #fill in the outline here
+
+# Display the board to the console (prettily)
+  #fill in the outline here
+
+# Release 1: Initial Solution
+
+class BingoBoard
+
+  def initialize
+    # populates an 5x5 array with numbers 1-100
+    # to make this accessible across your methods within this class, I made
+    # this an instance variable. @ = instance variable
+    @bingo_board = Array.new(5) {Array(5.times.map{rand(1..100)})}
   end
 
-  def get_row(row)
-    #Your code here
-  end
 
-  def get_col(col)
-    #Your code here
-  end
 end
 
 # Release 3: Refactored Solution
 
 
 
-
-# Release 1: DRIVER TESTS GO BELOW THIS LINE
+# Release 2: DRIVER TESTS GO BELOW THIS LINE
 
 
 

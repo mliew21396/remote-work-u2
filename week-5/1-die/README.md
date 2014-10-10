@@ -5,7 +5,6 @@
 ## Learning Competencies
 - Break a large problem down into smaller steps
 - Build and call instances of classes with its methods
-- Use if/else statements, string methods, while/until loops, Enumerable#each methods
 - Find and use built-in Ruby methods to solve challenges
 
 ## Summary

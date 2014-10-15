@@ -7,7 +7,7 @@
 - Identify and explain what code is doing
 - Create, access, and traverse nested data structures
 - Automate repetitive tasks using loops
-- Define a method's responsiblity
+- Define a method's responsibility
 - Identify and rewrite repetitive code
 - Explain `private` and discuss when it would be used
 
@@ -15,10 +15,10 @@
 
 The C.D.C. (Centers for Disease Control) is concerned about a recent form of deadly influenza. They've implemented the following program to predict the effect of the virus by state. Eventually they want to predict the spread of the virus, which is why that data is included.
 
-The initial program is not very D.R.Y., but the program designer went on vacation and your boss needs the model to work efficiently so they can present their findings to Congress. You've been brought in to make the code more efficient and expandable for later features such as incorporating demographic data. 
+The initial program is not very D.R.Y., but the program designer went on vacation and your boss needs the model to work efficiently so they can present their findings to Congress. You've been brought in to make the code more efficient and expandable for later features such as incorporating demographic data.
 
 
-## Release 0: Run the code 
+## Release 0: Run the code
 Look at the output. Look at the input (it's in the other file). Explain what the program is doing.
 
 ## Release 1: `require_relative`
@@ -40,7 +40,7 @@ ONLY look at `virus_effects` method and the two methods called inside it. (Do no
 What is the purpose of "private". What happens if you move it elsewhere in the class?
 
 ## Release 7: Refactor!
-Refactor the private methods predicted_deaths and speed_of_spread.  How can you make them more DRY?
+Refactor the private methods predicted_deaths and speed_of_spread. How can you make them more DRY?
 
 ## Release 8: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 

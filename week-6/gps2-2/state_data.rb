@@ -1,5 +1,5 @@
 #population density is number of people per square mile as of 2012
-#this data is updated every year with estimates from a 10 year census 
+#this data is updated every year with estimates from a 10 year census
 
 
 STATE_DATA = {  "Alabama" => {population_density: 94.65, population: 4822023, region: 5, regional_spread: 3},
@@ -54,15 +54,3 @@ STATE_DATA = {  "Alabama" => {population_density: 94.65, population: 4822023, re
                 "Wisconsin" => {population_density: 105.2, population: 5726398, region: 4, regional_spread: 6},
                 "Wyoming" => {population_density: 5.851, population: 576412, region: 8, regional_spread: 6}
               }
-              
-              
-              
-              
-              
-              
-
-
-
-
-
-

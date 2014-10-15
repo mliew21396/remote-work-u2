@@ -1,4 +1,4 @@
-# U2.W6: Create a BoggleBoard Class
+# U2.W6: Create a bingo scorer
 
 
 # I worked on this challenge [by myself, with: ].
@@ -6,23 +6,23 @@
 
 # 2. Pseudocode
 
+# sample_board =[[47, 44, 71, 8, 88],
+#                [22, 69, 75, 65, 73],
+#                [83, 85, 97, 89, 57],
+#                [25, 31, 96, 68, 51],
+#                [75, 70, 54, 80, 83]]
+
+
 
 
 # 3. Initial Solution
-class BoggleBoard
- 
+class BingoBoard
+
   #your code here
- 
+
 end
- 
- 
-dice_grid = [["b", "r", "a", "e"],
-             ["i", "o", "d", "t"],
-             ["e", "c", "l", "r"],
-             ["t", "a", "k", "e"]]
- 
-boggle_board = BoggleBoard.new(dice_grid)
- 
+
+
 
 
 # 4. Refactored Solution
@@ -37,4 +37,4 @@ boggle_board = BoggleBoard.new(dice_grid)
 # implement tests for each of the methods here:
 
 
-# 5. Reflection 
+# 5. Reflection

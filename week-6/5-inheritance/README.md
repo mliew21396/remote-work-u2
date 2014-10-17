@@ -23,9 +23,9 @@ In this challenge, you are going to model your cohorts, both the `GlobalCohort` 
 
 ## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
-Cohorts records have many attributes and behaviors. Some of them are attributes of `GlobalCohort`, and some are of `LocalCohort`. Consider the following attributes and then decide where they belong, keeping in mind some of these attributes or behaviors may belong in both. Once you decide where they go, you'll need to write pseudocode for each of the behaviors.
+Cohorts records have many attributes and methods. Some of them are attributes of `GlobalCohort`, and some are of `LocalCohort`. Consider the following attributes and methods and then decide where they belong, keeping in mind some of them may belong in both. Once you decide where they go, you'll need to write pseudocode for each of the methods.
 
-Attributes | Behaviors | Behavior's Responsibility
+Attributes | Methods | Method's Responsibility
 -----------|-----------| ------------
 `city`     | `add_student` | Add a student to the cohort
 `students` | `remove_student` | Remove a student from the cohort
@@ -38,6 +38,8 @@ Attributes | Behaviors | Behavior's Responsibility
 `google_community` |
 
 NOTE: it may be useful to also learn a bit about Ruby's `Time` class for this challenge.
+
+If you want to add any other attributes or methods, feel free to do so!
 
 ## Release 2: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 

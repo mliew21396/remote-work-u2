@@ -1,7 +1,10 @@
+# Release 0:
+# Write your conclusions here
 
-#Release 1
 
-class ScopeChallenge
+# Release 1
+
+class GradeCalculator
   $array_of_all_grades = []
   def initialize(array_of_grades)
     $grades = array_of_grades
@@ -20,17 +23,17 @@ class ScopeChallenge
   def calulate_grade
     case mean
       when 90..100
-      "A"
+       "A"
       when 80..90
-       "B"
+        "B"
       when 70..80
-       "C"
+        "C"
       when 60..70
-       "D"
+        "D"
       when 0..60
-       "F"
+        "F"
       else
-     "Error"
+        "Error"
     end
   end
 
@@ -43,7 +46,7 @@ class ScopeChallenge
   end
 end
 
-grade = ScopeChallenge.new([80,95,64,71,100,38,95,100])
+grade = GradeCalculator.new([80,95,64,71,100,38,95,100])
 
 p grade.calulate_grade
 grade.add_grades
@@ -52,4 +55,4 @@ p grade.return_global_array
 
 
 
-#Release 3: Reflection
+# Release 3: Reflection

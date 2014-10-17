@@ -9,15 +9,15 @@ If you're using the *Well-Grounded Rubyist*, you'll want to look through any cha
 ## Challenges
 Before you start the challenges this week, we recommend you start by reading ch. 1 and 2 in POODR.
 
-1. [Drawer Debugger]()
-2. []()
-3. []()
-4. []()
-5. [BINGO 2- SOLO CHALLENGE]()
+1. [Drawer Debugger](1-drawer-debugger)
+2. [Variable Scope](2-variable-scope)
+3. [PezDispenser](3-PezDispenser) **or** [Playlist](3-playlist)
+4. [BINGO 2- SOLO CHALLENGE](4-bingo-2-solo-challenge)
+5. [Introduction to Inheritance](5-inheritance)
 6. [Refactoring for Code Readability](6-refactoring)
 7. [Technical Blog](7-technical-blog.md)
 8. [Cultural Blog](8-cultural-blog.md)
-9.
+9. [GPS 2.2](9-gps2-2)
 10.[BONUS Challenges](10-BONUS-Challenges)
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W6.** Only other DBC students can actually see your repositories because they are private.

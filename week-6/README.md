@@ -1,24 +1,26 @@
 # Week 6: Object-Oriented Design in Ruby
 
-Please do not start on week 6 yet, we will be reviewing the challenges and making changes. It will be published at least by the Sunday before week 6 starts.
-<!--
-Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design.  We recommend [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There aren't legally free copies online, so if you don't want to shell out the bucks to buy it (although we highly recommend it) use the mighty power of google to introduce yourself to the fundamentals of object-oriented design.
+<!-- Please do not start on week 6 yet, we will be reviewing the challenges and making changes. It will be published at least by the Sunday before week 6 starts. -->
 
-Continue reading your Ruby book of choice. If you're using the *Well-Grounded Rubyist*, you'll want to look through any chapters you haven't read through yet, re-read material you found confusing, and practice some of the things you're seeing.
+Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. We recommend [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There aren't legally free copies online, so if you don't want to shell out the bucks to buy it (although we highly recommend it) use the mighty power of google to introduce yourself to the fundamentals of object-oriented design (But we promise, the book is well worth the money).
 
-Don't forget your expectations for the unit (listed below)!
+If you're using the *Well-Grounded Rubyist*, you'll want to look through any chapters you haven't read through yet, re-read material you found confusing, and practice some of the things you're seeing.
 
 ## Challenges
+Before you start the challenges this week, we recommend you start by reading ch. 1 and 2 in POODR.
 
-1. [attr_ attributes](1-attr-challenge)
-2. [Testing with Assert Statements](2-assert-statements)
-3. [Drawer Debugger](3-drawer-debugger)
-4. [Creating a BoggleBoard Class](4-BoggleBoard)
-5. [Creating a PezDispenser Class - SOLO CHALLENGE](5-PezDispenser-solo-challenge) **or** [Create a Playlist from Driver Code - SOLO CHALLENGE](5-playlist-solo-challenge)
+1. [Drawer Debugger]()
+2. []()
+3. []()
+4. []()
+5. [BINGO 2- SOLO CHALLENGE]()
 6. [Refactoring for Code Readability](6-refactoring)
 7. [Technical Blog](7-technical-blog.md)
 8. [Cultural Blog](8-cultural-blog.md)
-9. [BONUS Creating a Car Class from User Stories](9-BONUS-CarClass)
+9.
+10.[BONUS Challenges](10-BONUS-Challenges)
+
+This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W6.** Only other DBC students can actually see your repositories because they are private.
 
 ## Remember your Expectations for the Unit!
 - Pair at least twice this week.  *You need to pair **6** times this unit*
@@ -48,4 +50,4 @@ We'd like to ask you a favor. If you run into a 404 error navigating through the
 
 It would also be a great time for you to fix the repos on your own and make a pull request to the Devbootcamp master repository. Do some research on how to do that if you'd like to contribute.
 
-## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md) -->
+## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)

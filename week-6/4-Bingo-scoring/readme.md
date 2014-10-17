@@ -2,7 +2,6 @@
 
 # U2.W6: Create a Bingo scorer
 
-
 ## Learning Competencies
 - Create, access, and traverse nested data structures
 - Implement a basic Ruby class and identify when to use instance variables

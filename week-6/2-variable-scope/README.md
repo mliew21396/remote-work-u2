@@ -50,9 +50,9 @@ $global = 5
 @class_instance = 5
 local = 5
 ```
-Constant and global are similar, both have global scope, but constant will throw a warning if you try to change the value while the program is running.
+Constant and global variables are similar, both have global scope, but constant will throw a warning if you try to change the value while the program is running.
 
-**Class vs. instance variables**
+**Class vs. Instance variables**
 
 @@class variables are variables that exist over ALL INSTANCES of a class.
 

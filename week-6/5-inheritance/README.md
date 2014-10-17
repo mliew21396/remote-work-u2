@@ -3,9 +3,9 @@
 # U2.W6: Introduction to Inheritance
 
 ## Learning Competencies
-- Break
--
--
+- Break a problem down into smaller steps
+- Identify whether attributes or behavior belong to a class or its superclass
+- Use inheritance to model the relationship between two classes
 
 ## Summary
 Ruby offers the ability to inherit traits and behaviors from another class. You may have heard that everything in Ruby is an object. That is, in part, because their is an `Object` class in Ruby. [Strings](http://www.ruby-doc.org/core-2.1.3/String.html), [Arrays](http://www.ruby-doc.org/core-2.1.3/Array.html), [Hashes](http://www.ruby-doc.org/core-2.1.3/Hash.html), etc. all inherit methods and attributes from [Object](http://www.ruby-doc.org/core-2.1.3/Object.html) You can tell what these objects inherit from by looking at the Parent section in the docs. You may ask yourself, if everything is an object, check out what `Object` inherits from...

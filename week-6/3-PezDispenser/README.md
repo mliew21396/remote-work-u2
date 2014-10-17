@@ -18,7 +18,7 @@ In this challenge, you will translate user stories into an Ruby object (using a 
   - As a pez user, I'd like to be able to see all the flavors inside the dispenser so I know the order of the flavors coming up.
 
 ## Release 1: Review the [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
-These do not have expectations that would return `true` or `false` if called.  Add assert statements (remember to define the `assert` method!) to make sure it's working properly.
+These do not have expectations that would return `true` or `false` if called.
 
 ## Release 2: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 We definitely know we have a PezDispenser class, but what are it's innards? What are PezDispenser's attribute(s) and method(s)? Take a moment to list out all the methods, and show the input and output. It's good to be clear when there isn't an input or output!
@@ -26,8 +26,14 @@ We definitely know we have a PezDispenser class, but what are it's innards? What
 ## Release 3: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 Make sure your test code still works and satisfies the expected output.
 
-## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
+## Release 4: Write Tests
+Using Driver Test code, write a couple tests to make sure your code works before you dive into refactoring.
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 5: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
-## Release 6: Push your solution to Github
+## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+
+## Release 7: Push your solution to Github
+
+## Release 8: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
+**Optional but HIGHLY encouraged!**

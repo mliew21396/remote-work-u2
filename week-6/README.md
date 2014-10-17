@@ -7,7 +7,7 @@ Last week you started creating your own objects in Ruby. This week you will be w
 If you're using the *Well-Grounded Rubyist*, you'll want to look through any chapters you haven't read through yet, re-read material you found confusing, and practice some of the things you're seeing.
 
 ## Challenges
-Before you start the challenges this week, we recommend you start by reading ch. 1 and 2 in POODR.
+Before you start the challenges this week, we recommend you read ch. 1 and 2 in POODR. If you can, you should try to read the remainder of the chapters as you work through the challenges.
 
 1. [Drawer Debugger](1-drawer-debugger)
 2. [Variable Scope](2-variable-scope)
@@ -22,8 +22,16 @@ Before you start the challenges this week, we recommend you start by reading ch.
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W6.** Only other DBC students can actually see your repositories because they are private.
 
+## Submitting your work
+- You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
+- The week's work is due each Sunday be 11:59pm.
+
+**If you do not finish by the deadline:**
+- Complete the Unit 2 extension request. (You only get one extension for Unit 2)
+- When the work is complete, turn it in using the [week's submission form](http://apply.devbootcamp.com).
+
 ## Remember your Expectations for the Unit!
-- Pair at least twice this week.  *You need to pair **6** times this unit*
+- Pair at least twice this week.  *You need to pair* ***6*** *times this unit*
 - Give feedback for each person you paired with. *You need to submit at least 7 pieces of feedback in this unit* (6 for peer-pairing, and 1 GPS)
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit. Don't forget or you won't get your feedback!
 

@@ -7,7 +7,7 @@
 - Implement a basic Ruby class and identify when to use instance variables
 
 ## Summary
-This challenge will expand on the [bingo-solo-challenge](../week-5/5-bingo-solo-challenge) you did last week. First you accessed the 2d array to find and replace the numbers called with x's. Now you want to write a program to look for any bingos. Start with a static board for testing, then add the random board generator from last week. When a bingo is found, the program should print "BINGO!" to the console.
+This challenge will expand on the [bingo-solo-challenge](../week-5/5-bingo-solo-challenge) you did last week. First you accessed the two-dimensional array to find and replace the numbers called with x's. Now you want to write a program to look for any bingos. Start with a static board for testing, then add the random board generator from last week. When a bingo is found, the program should print "BINGO!" to the console.
 
 A bingo in this exercise is a vertical horizontal or diagonal line of 5 x's.
 ```ruby

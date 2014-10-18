@@ -4,8 +4,7 @@
 
 ## Learning Competencies
 - Implement a basic Ruby class and identify when to use instance variables
-- Translate a user story into driver code and solutions
-- Translate driver test code into a class structure using object-oriented design
+- Translate driver code into a class structure using object-oriented design
 
 ## Summary
 Review the Driver Code included in the [solution](my_solution.rb) file and consider the following:

@@ -116,7 +116,7 @@ To solve the question of how to make a variable accessible to all methods in a c
 
 ## Release 0: Leveraging the global scope
 
-In the [var_definitions.rb](var_definitions.rb) you will find defined variable definitions in each of the different scopes. In [scope.rb](scope.rb) there are commented out `puts` statements that call each variable. Uncomment each line one at a time and run the `scope.rb` file in the terminal. The files are linked using the `require` call on line 1.
+In the [var_definitions.rb](var_definitions.rb) you will find defined variable definitions in each of the different scopes. In [scope.rb](scope.rb) there are commented out `puts` statements that call each variable. Uncomment each line one at a time and run the [scope.rb](scope.rb) file in the terminal. The files are linked using the `require` call on line 1.
 
 What conclusions can you draw from this experiment? Write any conclusion in the [my_solution.rb](my_solution.rb) file.
 

@@ -47,12 +47,12 @@ Here are the different types of scope you will find in ruby.
 CONSTANT = 5
 $global = 5
 @@class = 5
-@class_instance = 5
+@instance = 5
 local = 5
 ```
 Constant and global variables are similar, both have global scope, but constant will throw a warning if you try to change the value while the program is running.
 
-**Class vs. Instance variables**
+#### Class vs. Instance variables
 
 @@class variables are variables that exist over ALL INSTANCES of a class.
 
@@ -64,7 +64,7 @@ class Car
   end
 
   def num_of_wheels
-    @@class_variable
+    @@wheels
   end
 
   def change_wheels=(num)
@@ -94,7 +94,7 @@ class Car
   end
 
   def num_of_wheels
-    @@class_variable
+    @@wheels
   end
 
   def change_wheels=(num)
@@ -112,7 +112,7 @@ p prius.num_of_wheels #=> outputs 4
 p mega_hummer.num_of_wheels #=> outputs 8
 
 ```
-To solve the question of how to make a variable accessible to all methods in a class, a instance variable (@) will often do the trick. When you want to make a variable accessible to ALL instances of the class you should use a class variable (@@).
+To solve the question of how to make a variable accessible to all methods in a class, an instance variable (@) will often do the trick. When you want to make a variable accessible to ALL instances of the class you should use a class variable (@@).
 
 ## Release 0: Leveraging the global scope
 

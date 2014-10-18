@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 - Implement a basic Ruby class and identify when to use instance variables
-- Translate driver test code into a class structure using object-oriented design
+- Translate driver code into a class structure using object-oriented design
 
 ## Summary
 In this challenge, you will translate user stories into an Ruby object (using a class). If you aren't sure what a user story is, use the power of google to do some research. Also make sure to practice using your new `assert` knowledge!

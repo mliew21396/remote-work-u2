@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 - Break a problem down into smaller steps
-- Identify whether attributes or behavior belong to a class or its superclass
+- Identify whether attributes or methods belong to a class or its superclass
 - Use inheritance to model the relationship between two classes
 
 ## Summary

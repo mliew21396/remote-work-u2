@@ -26,7 +26,7 @@ get_grade([100, 100, 100]) # => 'A'
 ## Release 1: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
 ## Release 2: Run the tests
-Once your code passes the tests, move on to refactoring
+Once your code passes the tests, move on to refactoring.
 
 ## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
 Make sure your code still passes the tests!

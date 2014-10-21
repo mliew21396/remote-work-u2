@@ -8,9 +8,9 @@
 
 ## Summary
 
-What is variable scope? Scope defines whether a variable is accessible or not. To understand variable scope better you can think about levels of confidentiality. You can think of global variables like wikis. They are public and accessible (both read and writable) from anywhere. School board rules, on the other hand, are readable and writable by a single school board, which is more like a `local_variable`.
+What is variable scope? Scope defines whether a variable is accessible or not. To understand variable scope better you can think about levels of confidentiality. Think of global variables like wikis. They are public and accessible (both read and writable) from anywhere. School board rules, on the other hand, are readable and writable by a single school board, which is more like a `local_variable`.
 
-Scoping variables well prevents other components of your program from accessing or modifying the variable. It also helps the name space stay clean, which is to say, as a developer, you don't have to worry about creating a variable with the same name. If variables stay out of the global scope you can use `num` or `index` or any other generic variable name as much as you want without breaking the program.
+Scoping variables well prevents other components of your program from accessing or modifying the variable. It also helps the name space stay clean, which is to say, you don't have to worry about creating a variable with the same name. If variables stay out of the global scope you can use `num` or `index` or any other generic variable name as much as you want without breaking the program.
 
 Ruby uses something called block scoping to determine what can access a variable. Meaning that a local variable is only applicable inside the block it is defined in, or blocks created inside the block.
 
@@ -41,7 +41,7 @@ end
 
 `block_variable_3` is defined in the INNER block, so running `block_method_3` will give you a undefined variable error(line 39). Ruby would have to look down in the block to find this variable, so it has no idea what you want.
 
-Here are the different types of scope you will find in ruby.
+Here are the different types of scope you will find in Ruby.
 
 ```ruby
 CONSTANT = 5
@@ -50,7 +50,7 @@ $global = 5
 @instance = 5
 local = 5
 ```
-Constant and global variables are similar, both have global scope, but constant will throw a warning if you try to change the value while the program is running.
+Constant and global variables are similar: both have global scope, but constant will throw a warning if you try to change the value while the program is running.
 
 #### Class vs. Instance variables
 
@@ -122,7 +122,7 @@ What conclusions can you draw from this experiment? Write any conclusion in the 
 
 ## Release 1: Proper Scoping
 
-All of the scopes in the code of [my_solution.rb](my_solution.rb) are in the global scope! Modify each variable so it is only accessible where it has to be. A method call looks similar to a local variable, can you see where these are?
+All of the scopes in the code of [my_solution.rb](my_solution.rb) are in the global scope! Modify each variable so it is only accessible where it has to be. A method call looks similar to a local variable. Can you see where these are?
 
 ## Release 2: Refactor old code
 

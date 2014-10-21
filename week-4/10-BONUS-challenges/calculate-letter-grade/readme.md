@@ -14,7 +14,7 @@ Create a method `get_grade` that accepts an `Array` of test scores.  Each score 
 
 Compute the average score and return the letter grade as a `String`, i.e., `'A'`, `'B'`, `'C'`, `'D'`, or `'F'`.
 
-For example,
+For example:
 
 ```ruby
 # How studious!

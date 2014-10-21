@@ -9,7 +9,7 @@ In this unit, you will go in to more depth with Ruby and really start problem so
 ## Expectations for the Unit
 
 - [Peer-Pair program](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing-sessions.md) **at least 6 times**. Read about [pairing](https://github.com/Devbootcamp/phase-0-handbook/blob/master/pairing-in-phase-0.md) before hand.
-- [Submit feedback](https://socrates.devbootcamp.com/feedback/new) for all pairing sessions. (You should submit 6 for peer sessions and 2 for [GPSs](https://github.com/Devbootcamp/phase-0-handbook/blob/master/guided-pairing-sessions.md) ).
+- [Submit feedback](https://socrates.devbootcamp.com/feedback/new) for all pairing sessions. (You should submit 6 for peer sessions and 2 for [GPSs](https://github.com/Devbootcamp/phase-0-handbook/blob/master/guided-pairing-sessions.md)).
 - [Rate](https://socrates.devbootcamp.com/feedback) at least 20 pieces of other people's feedback.
 
 #### How to navigate this repository

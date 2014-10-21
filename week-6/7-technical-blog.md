@@ -9,7 +9,7 @@
 You've learned a bit about object-oriented programming this week, but there is still a ton to learn. In this challenge, select one topic below and do a bit of research on it. Then write a blog post about what you learned. Remember to time-box about an hour for each blog post.
 
 ## Release 0: Copy the Template
-In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `t7-oop-concepts.html`.
+In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `t6-oop-concepts.html`.
 
 ## Release 1: Research
 Select and research one of the topics below:

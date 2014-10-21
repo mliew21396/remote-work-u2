@@ -14,7 +14,7 @@ Review the Driver Code included in the [solution](my_solution.rb) file and consi
 - What should those methods do?
 - How can you model real-world behavior through code?
 
-User Error-Driven Development (EDD) to solve the challenge. To do this you will need to run the code, find the error and write code that fixes that error. Repeat for each error you find. You shouldn't go into too much detail for each method until you've solved each error.
+Use Error-Driven Development (EDD) to solve the challenge. To do this you will need to run the code, find the error and write code that fixes that error. Repeat for each error you find. You shouldn't go into too much detail for each method until you've solved each error.
 
 After you've fixed each error, you should have fun filling in each of the methods -- but don't forget to go through the normal steps in your coding revelry!
 

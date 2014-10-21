@@ -19,7 +19,7 @@ When we talk about attr_ attributes we are really talking about getter and sette
 
 `attr_accessor` is both a getter and a setter. We can now return and change the value of the variable.
 
-So knowing this, why not just make everything `attr_accessor`? Having all instance variables changeable when we really just want them read could lead to difficult debugging problems down the line. It is a safeguard against accidentally giving other methods and classes too much access to the inner workings of others. Read Practical Obect-Oriented Design in Ruby if you want to learn more about the basics of software architecture.
+So knowing this, why not just make everything `attr_accessor`? Having all instance variables changeable when we really just want them read could lead to difficult debugging problems down the line. It is a safeguard against accidentally giving other methods and classes too much access to the inner workings of others. Read *Practical Obect-Oriented Design in Ruby* if you want to learn more about the basics of software architecture.
 
 ## Release 0: Read and Research
 

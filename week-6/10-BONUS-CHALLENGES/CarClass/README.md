@@ -58,4 +58,4 @@ Create a new class for pizza. Get creative and make your pizza an actual object!
 
 ## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 7: Push your solution to Github
+## Release 7: Push your solution to GitHub

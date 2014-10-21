@@ -57,7 +57,7 @@ Is there any logic that can be refactored? Does each method have a single respon
 ## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 ## Release 6: Push your solution to GitHub
-Ask for feedback using **##DBCU2W6.**
+Ask for feedback using **#DBCU2W6.**
 
 ## Release 7:[Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
 **Optional but HIGHLY encouraged!** See if others broke the attributes and behaviors down as you did. Did they implement the behaviors in a similar way too?

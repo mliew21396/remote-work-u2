@@ -3,7 +3,7 @@
 # U2.W6: Create a Bingo Scorer [SOLO CHALLENGE](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md)
 
 ## Learning Competencies
-- Create, access, and traverse nested data structures
+- Create, access and traverse nested data structures
 - Implement a basic Ruby class and identify when to use instance variables
 
 ## Summary

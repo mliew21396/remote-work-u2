@@ -57,6 +57,6 @@ Write [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/ma
 ## Release 6: Other Win States (Optional)
 There are lots of different ways to win Bingo.
 
-<img src='http://davbingo.com/wp-content/uploads/2011/07/7-ways-to-win-bingo320.jpg' height='100px' width='100px' />
+<img src='http://davbingo.com/wp-content/uploads/2011/07/7-ways-to-win-bingo320.jpg' />
 
 Write methods to solve as many as you can!

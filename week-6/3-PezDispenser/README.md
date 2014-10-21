@@ -7,7 +7,7 @@
 - Translate driver code into a class structure using object-oriented design
 
 ## Summary
-In this challenge, you will translate user stories into an Ruby object (using a class). If you aren't sure what a user story is, use the power of google to do some research. Also make sure to practice using your new `assert` knowledge!
+In this challenge, you will translate user stories into an Ruby object (using a class). If you aren't sure what a user story is, use the power of google to do some research.
 
 ## Release 0: Review the User Stories:
   - As a pez user, I'd like to be able to "create" a new pez dispenser with a group of flavors that represent pez so it's easy to start with a full pez dispenser.

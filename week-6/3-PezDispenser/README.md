@@ -7,7 +7,7 @@
 - Translate driver code into a class structure using object-oriented design
 
 ## Summary
-In this challenge, you will translate user stories into an Ruby object (using a class). If you aren't sure what a user story is, use the power of google to do some research.
+In this challenge, you will translate user stories into a Ruby object (using a class). If you aren't sure what a user story is, use the power of Google to do some research.
 
 ## Release 0: Review the User Stories:
   - As a pez user, I'd like to be able to "create" a new pez dispenser with a group of flavors that represent pez so it's easy to start with a full pez dispenser.
@@ -20,7 +20,7 @@ In this challenge, you will translate user stories into an Ruby object (using a 
 These do not have expectations that would return `true` or `false` if called.
 
 ## Release 2: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
-We definitely know we have a PezDispenser class, but what are it's innards? What are PezDispenser's attribute(s) and method(s)? Take a moment to list out all the methods, and show the input and output. It's good to be clear when there isn't an input or output!
+We definitely know we have a PezDispenser class, but what are its innards? What are PezDispenser's attribute(s) and method(s)? Take a moment to list out all the methods, and show the input and output. It's good to be clear when there isn't an input or output!
 
 ## Release 3: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 Make sure your test code still works and satisfies the expected output.

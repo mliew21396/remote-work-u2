@@ -75,7 +75,7 @@ end
 
 p prius = Car.new
 p mega_hummer = Car.new
-p prius.wheels # => 4
+p prius.num_of_wheels # => 4
 p mega_hummer.change_wheels = 8
 
 
@@ -90,22 +90,22 @@ Class variables are used less often than instance variables which are accessible
 class Car
 
   def initialize
-    @@wheels = 4
+    @wheels = 4
   end
 
   def num_of_wheels
-    @@wheels
+    @wheels
   end
 
   def change_wheels=(num)
-    @@wheels = num
+    @wheels = num
   end
 
 end
 
 p prius = Car.new
 p mega_hummer = Car.new
-p prius.wheels # => 4
+p prius.num_of_wheels # => 4
 p mega_hummer.change_wheels = 8 #=> sets hummer wheels to 8
 
 p prius.num_of_wheels #=> outputs 4

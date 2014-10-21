@@ -11,6 +11,7 @@ This week gets into more advanced concepts, so make sure you pair as often as yo
 If you are using the *Well-Grounded Rubyist* to solidify your learning, you'll want to focus on reading:
 - Chapters 3 and 5
 - Chapter 4 (We don't cover any of these topics in Phase 0, but they are useful to be aware of)
+ 
 We can't recommend this book enough, so please get it if you can. Read through the Week 3 [BONUS challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/10-BONUS-challenges/Well-Grounded-Rubyist.md) for a discount code.
 
 ## Challenges
@@ -29,7 +30,7 @@ This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W
 
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
-- The week's work is due each Sunday be 11:59pm.
+- The week's work is due each Sunday at 11:59pm.
 
 **If you do not finish by the deadline:**
 - Complete the Unit 2 extension request. (You only get one extension for Unit 2)
@@ -37,7 +38,7 @@ This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W
 
 ## Remember your Expectations for the Unit!
 - Pair at least twice this week.  *You need to pair* ***6*** *times this unit*
-- Give feedback for each person you paired with. *You need to submit at least 8 pieces of feedback in this unit* (6 for peer-pairing, and 2 GPS)
+- Give feedback for each person you paired with. *You need to submit at least 8 pieces of feedback in this unit* (6 for peer-pairing, and 2 GPS.)
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit.
 
 ## Fetch DBC's Changes
@@ -46,7 +47,7 @@ Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob
 Modify them for unit 2.
 
 ## Working through the challenges
-Once you have the entire local repository on your computer, you don't need to read the challenges on github anymore (although we admit, it's prettier). You can open the entire repository in sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us by posting on the community, but also try to figure out a fix. It will help your markdown skills!
+Once you have the entire local repository on your computer, you don't need to read the challenges on github anymore (although we admit, it's prettier). You can open the entire repository in sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us know by posting on the community. Also try to figure out a fix and submit a pull request to correct the error. It will help your markdown and git skills!
 
 
 

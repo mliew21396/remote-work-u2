@@ -21,7 +21,7 @@ The initial program is not very D.R.Y., but the program designer went on vacatio
 Look at the output. Look at the input (it's in the other file). Explain what the program is doing.
 
 ## Release 1: `require_relative`
-Write a comment explaining the require_relative statement - You should be somewhat familiar with this by now - it's in every `spec.rb` file. What does it do? How does it work?
+Write a comment explaining the require_relative statement - you should be somewhat familiar with this by now - it's in every `spec.rb` file. What does it do? How does it work?
 
 ## Release 2: Analyze `state_data`
 Take a look at the `state_data` file. What is going on with this hash? What does it have in it? (HINT: There are two different syntax used for hashes here. What's the difference?) I refer to this giant hash as a "hashy hash;" why do you think that is?
@@ -30,16 +30,16 @@ Take a look at the `state_data` file. What is going on with this hash? What does
 Comment each method (above the method) and define its responsibility.
 
 ## Release 4: Implement a new feature!
-Create a report for all 50 states, not just the 4 listed. Is there a DRY way of doing this? Does this belong in the class or outside of it? Why?
+Create a report for all 50 states, not just the 4 listed. Is there a D.R.Y. way of doing this? Does this belong in the class or outside of it? Why?
 
 ## Release 5: Refactor `virus_effects`
-ONLY look at `virus_effects` method and the two methods called inside it. (Do not look at `predicted deaths` or `speed_of_spread` themselves). It's a short but deceptive method...
+ONLY look at the `virus_effects` method and the two methods called inside it. (Do not look at `predicted deaths` or `speed_of_spread` themselves.) It's a short but deceptive method...
 
 ## Release 6: Private
-What is the purpose of "private". What happens if you move it above `virus_effects`?
+What is the purpose of "private"? What happens if you move it above `virus_effects`?
 
 ## Release 7: Refactor!
-Refactor the private methods `predicted_deaths` and `speed_of_spread`. How can you make them more DRY?
+Refactor the private methods `predicted_deaths` and `speed_of_spread`. How can you make them more D.R.Y.?
 
 ## Release 8: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 

@@ -33,7 +33,7 @@ Comment each method (above the method) and define its responsibility.
 Create a report for all 50 states, not just the 4 listed. Is there a D.R.Y. way of doing this? Does this belong in the class or outside of it? Why?
 
 ## Release 5: Refactor `virus_effects`
-ONLY look at the `virus_effects` method and the two methods called inside it. (Do not look at `predicted deaths` or `speed_of_spread` themselves.) It's a short but deceptive method...
+ONLY look at the `virus_effects` method and the two methods called inside it. (Do not look at `predicted deaths` or `speed_of_spread` themselves.) It's a short but deceptive method... HINT: What is the scope of instance variables.
 
 ## Release 6: Private
 What is the purpose of "private"? What happens if you move it above `virus_effects`?

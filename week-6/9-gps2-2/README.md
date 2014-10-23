@@ -24,7 +24,7 @@ Look at the output. Look at the input (it's in the other file). Explain what the
 Write a comment explaining the require_relative statement - you should be somewhat familiar with this by now - it's in every `spec.rb` file. What does it do? How does it work?
 
 ## Release 2: Analyze `state_data`
-Take a look at the `state_data` file. What is going on with this hash? What does it have in it? (HINT: There are two different syntax used for hashes here. What's the difference?) I refer to this giant hash as a "hashy hash;" why do you think that is?
+Take a look at the `state_data` file. What is going on with this hash? What does it have in it? (HINT: There are two different syntax used for hashes here. What's the difference?) I refer to this giant hash as a "hashy hash;" why do you think that is? What kind of variable is `STATE_DATA`, and what's its scope?
 
 ## Release 3: Comment each method
 Comment each method (above the method) and define its responsibility.

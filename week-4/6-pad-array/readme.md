@@ -11,7 +11,7 @@
 - Differentiate between and produce destructive and non-destructive methods
 
 ## Summary:
-In this challenge you will be extending the `Array` class to add two new methods. That's why you see the methods wrapped within a class.
+In this challenge you will be extending the `Array` class to add two new methods. That's why you see the methods wrapped within a class. Don't focus on that part of the code. Rather, focus on implementing the two new methods.
 
 Implement `Array#pad` and `Array#pad!`.  Each method accepts a minimum size (non-negative integer) and an optional pad value as arguments.
 

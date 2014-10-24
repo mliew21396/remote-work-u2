@@ -25,17 +25,29 @@ In this challenge, you are going to model your cohorts, both the `GlobalCohort` 
 
 Cohort records have many attributes and methods. Some of them are attributes of `GlobalCohort`, and some are of `LocalCohort`. Consider the following attributes and methods and then decide where they belong, keeping in mind some of them may belong in both. Once you decide where they go, you'll need to write pseudocode for each of the methods.
 
-Attributes | Methods | Method's Responsibility
------------|-----------| ------------
-`city`     | `add_student` | Add a student to the cohort
-`students` | `remove_student` | Remove a student from the cohort
-`cohort_name`| `separate_students_to_local_cohorts` | Creates local cohorts with appropriate students
-`p0_start_date` | `in_phase` | Calculates phase based on date
-`immersive_start_date`| `graduated?` | Checks whether the cohort has graduated from DBC- returns boolean
-`graduation_date` | `unit_calculator` | Calculates unit based on date
+It's important to note that a `GlobalCohort` includes all students who start Phase 0 at the same time, regardless of their location. `LocalCohorts` are based on location and Phase 0 start date.
+
+You will probably want to think about how you want to model a `Student` object in this challenge as well.
+
+Attributes |
+-----------|
+`city`     |
+`students` |
+`cohort_name`|
+`p0_start_date` |
+`immersive_start_date`|
+`graduation_date` |
 `email_list` |
 `num_of_students` |
 `google_community` |
+
+Method | Method's Responsibility
+--------|---------------------
+`add_student` | Add a student to the cohort
+`remove_student` | Remove a student from the cohort
+`currently_in_phase` | Calculates phase based on date
+`graduated?` | Checks whether the cohort has graduated from DBC- returns boolean
+`currently_in_phase_0_unit` | Calculates unit based on date if in Phase 0
 
 NOTE: it may be useful to also learn a bit about Ruby's `Time` class for this challenge.
 
@@ -53,6 +65,9 @@ Then add tests using Driver Code to check that the output of the methods is what
 
 ## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 Is there any logic that can be refactored? Does each method have a single responsibility?
+
+## Release 5: Add a feature
+You want to add a new class. The responsibility of that class will be to separate the `GlobalCohort` into three location-based `LocalCohort`s and import the necessary students into that cohort.
 
 ## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 

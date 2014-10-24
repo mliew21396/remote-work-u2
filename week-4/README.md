@@ -16,7 +16,8 @@ If you haven't already purchased a copy of * The Well-Grounded Rubyist*, you'll 
 7. [Die Class](7-die-class)
 8. [Technical Blog](8-technical-blog.md)
 9. [Cultural Blog](9-cultural-blog.md)
-10. [BONUS Challenges](10-BONUS-challenges) *These are optional*
+10.[Accountability Group Check-in](10-accountability-group.md)
+11. [BONUS Challenges](11-BONUS-challenges) *These are optional*
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W4.** Only other DBC students can actually see your repositories because they are private.
 

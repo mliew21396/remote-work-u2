@@ -5,7 +5,7 @@
 ## Learning Objectives
 - Research and use Ruby methods
 - Iterate through data structures and manipulate the content
-- Explain how to use an existing ruby method
+- Explain how to use an existing Ruby method
 
 ## Summary
 By now you have had some practice looking through the [Ruby Docs](http://ruby-doc.org/). I'm sure you've had some
@@ -32,7 +32,7 @@ If you don't have your group-members' solutions, copy, paste, and modify your te
 Use the [Ruby Docs](http://ruby-doc.org/) find methods you can use
 on arrays and a hashes, and use them to complete each goal.
 
-Once you complete your challenge, Identify and describe the ruby method you implemented. Teach your
+Once you complete your challenge, Identify and describe the Ruby method you implemented. Teach your
 accountability group how to use the methods.
 
 Each person will be working with the following `Array` and `Hash`:
@@ -109,7 +109,7 @@ my_deletion_method(my_family_pets_ages, "George")
 
 
 ## Release 1: Teach Others
-Once you complete your challenge, identify and describe the ruby method you implemented. Teach your
+Once you complete your challenge, identify and describe the Ruby method you implemented. Teach your
 accountability group how to use the methods.
 
 ## Release 2: Commit and Push

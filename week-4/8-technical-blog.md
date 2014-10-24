@@ -3,8 +3,8 @@
 # U2.W4: Technical Blog Entry
 
 ## Learning Competencies
-- Research a public ruby method and identify a scenario it could be used in
-- Explain how to use an existing ruby method
+- Research a public Ruby method and identify a scenario it could be used in
+- Explain how to use an existing Ruby method
 
 ## Summary
 In this blog, you will do a bit of research on an Enumerable method and teach the method to your reader. Time-box yourself to an hour -- max 1.5 hours on your blog post. These aren't expected to be professional or perfect, but meant to show where you are at this point in your learning.
@@ -16,7 +16,7 @@ Make sure to add your links on the blog/index.html so people can easily navigate
 
 ## Release 1: Research an Enumerable Method
 
-Select one of the ruby Enumerable methods or data structures below. After doing some research, think of an example to teach others what you learned about this method.
+Select one of the Ruby Enumerable methods or data structures below. After doing some research, think of an example to teach others what you learned about this method.
 
 #### Topics
 - `Enumerable#map`

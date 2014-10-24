@@ -12,7 +12,7 @@
 
 
 def north_korean_cipher(coded_message)
-  input = coded_message.downcase.split("") # Check out this method in IRB to see how it works! Also refer to the ruby docs.
+  input = coded_message.downcase.split("") # Check out this method in IRB to see how it works! Also refer to the Ruby docs.
   decoded_sentence = []
   cipher = {"e" => "a",   # This is technically a shift of four letters...Can you think of a way to automate this? Is a hash
             "f" => "b",   # the best data structure for this problem? What are the pros and cons of hashes?

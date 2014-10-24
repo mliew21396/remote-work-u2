@@ -11,9 +11,9 @@
 - Differentiate between and produce destructive and non-destructive methods
 
 ## Summary:
-In this challenge you will be extending the `Array` class to add two new methods. That's why you see the methods wrapped within a class.
+In this challenge you will be extending the `Array` class to add two new methods. That's why you see the methods wrapped within a class. Focus on implementing the two new methods to extend the Array class as described below.
 
-Implement `Array#pad` and `Array#pad!`.  Each method accepts a minimum size (non-negative integer) and an optional pad value as arguments.
+Implement `Array#pad` and `Array#pad!`. Each method accepts a minimum size (non-negative integer) and an optional pad value as arguments.
 
 If the array's length is less than the minimum size, `Array#pad` should return a new array padded with the pad value up to the minimum size.
 

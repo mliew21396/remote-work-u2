@@ -23,11 +23,9 @@ In this challenge, you are going to model your cohorts, both the `GlobalCohort` 
 
 ## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
-Cohort records have many attributes and methods. Some of them are attributes of `GlobalCohort`, and some are of `LocalCohort`. Consider the following attributes and methods and then decide where they belong, keeping in mind some of them may belong in both. Once you decide where they go, you'll need to write pseudocode for each of the methods.
+Cohort records have many attributes and methods. Some of them are attributes of `GlobalCohort`, and some are of `LocalCohort`. Consider the following attributes and methods and then decide where they belong, keeping in mind some of them may belong in both. It's important to note that a `GlobalCohort` includes all students who start Phase 0 at the same time, regardless of their location. `LocalCohorts` are based on location and Phase 0 start date. You will probably want to think about how you want to model a `Student` object in this challenge as well.
 
-It's important to note that a `GlobalCohort` includes all students who start Phase 0 at the same time, regardless of their location. `LocalCohorts` are based on location and Phase 0 start date.
-
-You will probably want to think about how you want to model a `Student` object in this challenge as well.
+Once you decide where they go, you'll need to write pseudocode for each of the methods.
 
 Attributes |
 -----------|

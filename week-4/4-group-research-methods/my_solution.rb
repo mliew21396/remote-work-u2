@@ -13,7 +13,7 @@ def my_hash_finding_method(source, thing_to_find)
   # Your code here!
 end
 
-# Identify and describe the ruby method you implemented.
+# Identify and describe the Ruby method you implemented.
 #
 #
 #
@@ -27,7 +27,7 @@ def my_hash_modification_method(source, thing_to_modify)
   # Your code here!
 end
 
-# Identify and describe the ruby method you implemented.
+# Identify and describe the Ruby method you implemented.
 #
 #
 #
@@ -42,7 +42,7 @@ def my_hash_sorting_method(source)
   # Your code here!
 end
 
-# Identify and describe the ruby method you implemented.
+# Identify and describe the Ruby method you implemented.
 #
 #
 #
@@ -57,7 +57,7 @@ def my_hash_deletion_method(source, thing_to_delete)
   #Your code here!
 end
 
-# Identify and describe the ruby method you implemented.
+# Identify and describe the Ruby method you implemented.
 #
 #
 #
@@ -95,7 +95,7 @@ p my_hash_deletion_method(my_family_pets_ages, "George") == {"Evi" => 8, "Hoobie
 
 
 
-# Release 1: Identify and describe the ruby method you implemented. Teach your
+# Release 1: Identify and describe the Ruby method you implemented. Teach your
 # accountability group how to use the methods.
 #
 #

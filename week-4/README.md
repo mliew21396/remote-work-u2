@@ -1,12 +1,10 @@
 # Ruby Algorithms
 
-This week you will be working on writing command-line programs focusing on algorithms and basic testing. Some challenges will also have tests already developed using RSpec (a tool for testing ruby code). You will learn how to run these tests on your computer and read them to decide whether you've successfully solved the challenge. NOTE: You are not expected to fully understand or write any RSpec in Phase 0, just be able to read it. RSpec is designed to be readable.
+This week you will be working on writing command-line programs focusing on algorithms and basic testing. Some challenges will also have tests already developed using RSpec (a tool for testing Ruby code). You will learn how to run these tests on your computer and read them to decide whether you've successfully solved the challenge. NOTE: You are not expected to fully understand or write any RSpec in Phase 0, just be able to read it. RSpec is designed to be readable.
 
-**Please make sure to follow each step we ask you (in order): write pseudocode, initial solution, refactoring, reflection.**
+**Please make sure to follow each step we ask you (in order): write pseudocode, initial solution, refactoring, reflection.** If you want guidance on how to complete these steps, reference the links provided. If you have questions about any instructions, ask us.
 
-This week you get a bit more choice on which challenges to do. If you want to go above and beyond, do all of them!
-
-If you are using the *Well-Grounded Rubyist*, you'll want to take a look at [Week 3's bonus challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/10-BONUS-challenges/Well-Grounded-Rubyist.md) for info on which chapters to read. You don't need to read every chapter thoroughly; skim where you need to. Take more time with concepts you don't feel comfortable with.
+If you haven't already purchased a copy of * The Well-Grounded Rubyist*, you'll want to do so. Take a look at [Week 3's bonus challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/10-BONUS-challenges/Well-Grounded-Rubyist.md) for info on which chapters to read and for a coupon code. You don't need to read every chapter thoroughly; skim where you need to. Take more time with concepts you don't feel comfortable with. DBC instructors can't emphasize enough how helpful the book is.
 
 ## Challenges
 1. [Add it Up](1-add-it-up)
@@ -24,8 +22,7 @@ This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W
 
 ## Working through the Challenges
 - Fork this (phase-0-unit-2) repository by clicking "Fork" at the top right of the page.
-- Enable "issues" in the settings for the repo, like you did for phase-0-unit-1. This will allow people
-  to give you feedback.
+- Enable "issues" in the settings for the repo, like you did for phase-0-unit-1. This will allow people to give you feedback.
 - Clone the `phase-0-unit-2` repository from the command line to your computer.
 
 You will want to run and modify all files from your local repository on your computer. Use the terminal to navigate to the 'my_solution.rb' files or the spec files.
@@ -42,8 +39,5 @@ You will want to run and modify all files from your local repository on your com
 - Pair at least twice this week. *You need to pair* ***6*** *times this unit*
 - Give feedback for each person you paired with. *You need to submit at least 8 pieces of feedback in this unit* (6 for peer-pairing and 2 GPS)
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. (You need to rate 20 pieces of feedback per unit.)
-
-## Fetching Changes
-Sometimes we will make changes to the original repository to clarify instructions. You will need to fetch these changes from the master branch when we announce changes on the Google+ community. Use [these](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md) instructions. **Substitute phase-0-unit-2 for each instance of phase-0-unit-1 in the instructions.**
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)

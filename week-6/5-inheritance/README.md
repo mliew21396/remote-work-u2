@@ -47,7 +47,7 @@ Method | Method's Responsibility
 `graduated?` | Checks whether the cohort has graduated from DBC- returns boolean
 `currently_in_phase_0_unit` | Calculates unit based on date if in Phase 0
 
-NOTE: it may be useful to also learn a bit about Ruby's `Time` class for this challenge.
+NOTE: it may be useful to also learn a bit about Ruby's `Date` and `Time` classes for this challenge.
 
 If you want to add any other attributes or methods, feel free to do so!
 

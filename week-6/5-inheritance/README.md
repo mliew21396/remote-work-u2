@@ -63,7 +63,7 @@ Then add tests using Driver Code to check that the output of the methods is what
 ## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 Is there any logic that can be refactored? Does each method have a single responsibility?
 
-## Release 5: Add a feature
+## Release 5: Add a feature (Optional)
 You want to add a new class. The responsibility of that class will be to separate the `GlobalCohort` into three location-based `LocalCohort`s and import the necessary students into those cohorts.
 
 ## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)

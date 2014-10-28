@@ -45,7 +45,6 @@ Method | Method's Responsibility
 `remove_student` | Remove a student from the cohort
 `currently_in_phase` | Calculates phase based on date
 `graduated?` | Checks whether the cohort has graduated from DBC- returns boolean
-`currently_in_phase_0_unit` | Calculates unit based on date if in Phase 0
 
 NOTE: it may be useful to also learn a bit about Ruby's `Date` and `Time` classes for this challenge.
 

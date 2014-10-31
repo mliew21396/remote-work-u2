@@ -1,8 +1,6 @@
 [Week 5 Home](../)
 
-# U2.W5: A Nested Array to Model a Bingo Board **SOLO CHALLENGE**
-
-Please refer to the [solo challenge](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md) guidelines in the [Phase 0 Handbook](https://github.com/Devbootcamp/phase-0-handbook).
+# U2.W5: A Nested Array to Model a Bingo Board [Solo Challenge](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md)
 
 ## Learning Competencies
 - Break down problems into implementable pseudocode
@@ -12,19 +10,20 @@ Please refer to the [solo challenge](https://github.com/Devbootcamp/phase-0-hand
 
 ## Summary
 
-By now, you have had some practice using arrays [ ] and hashes { }. These structures are great at holding collections of data. In this exercise, we will be look at a nested array, or an array that contains arrays in it.
+By now, you have had some practice using arrays `[ ]` and hashes `{ }`. These structures are great for holding collections of data. In this exercise, we will be look at a nested array, or an array that contains arrays in it.
 
 <img src="http://cf.chucklesnetwork.com/items/7/5/7/0/0/original/i-heard-u-like-arrays-so-we-put-an-array-in-your-array.jpg" width="250px" height="250px" />
 
-This sounds complicated, but you will find that it is almost the same as accessing a one-dimensional array. In this challenge, we will be looking at a bingo board and placing our pieces (x's) based on the numbers called.
+This sounds complicated, but you will find that it is almost the same as accessing a one-dimensional array. You will probably want to practice looping through nested arrays in IRB to get the hang of it first. This challenge may take you a long time, so make sure to give yourself time to go through each step, and use good time-management skills. Take breaks when you get stuck. Don't power through it. If you are truly stuck and tired, you will be better off taking a break and returning to the challenge later.
 
-The first number in the sub-arrays correspond to the letter B, the second I, the third N, the fourth G, and the fifth O. So if the call is N, 34, I would look in the third column for the number 34.
+The first number in the sub-arrays correspond to the letter "B", the second "I", the third "N", the fourth "G", and the fifth "O". So if the call was N34, you would look in the third column for the number 34. If the number is on your board, you'll replace it with an "X."
 
-Your goals in this challenge are to:
+**Your goals for this challenge are:**
+
 - Keep all of the logic and variables inside of the class bingo_board. Method calls can be outside.
-- Create a method to generate a letter ( b, i, n, g, o) and a number (1-100).
-- Check the column for the number.
-- If the number is in the column, replace with an 'x'.
+- Create a method to generate a letter ( "B", "I", "N", "G", "O") and a number from 1 to 100.
+- Create a method to check the column for the number.
+- If the number is in the column, replace it with an "X".
 - Display a column to the console.
 - Display the board to the console (prettily).
 
@@ -47,31 +46,31 @@ bingo_board = [[47, 44, 71, 8, 88],
                [75, 70, 54, 80, 83]]
 ```
 
-## Releases:
+## Releases
 
 ## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
-Break these challenges down into implementable parts.
+Break these goals down into implementable pseudocode.
 
 ## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 Translate your pseudocode into code. We started you off with an initialize method, but you will need others to complete the challenge.
 
 ## Release 2: [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
 
-Our board is randomly generated each time you run the class, so you need to think creatively about how to test your outputs. Hard coding the board then writing tests to get your initial solution is acceptable. Refactor with the dynamic generator.
+This class randomly generates a board each time you create a new BingoBoard Object, so you need to think creatively about how to test your outputs. You may hard coding the board to write tests if you need to for the initial solution. When you refactor use the random board for your tests.
 
 
 ## Release 3: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
-Refactor your initial solution. Use the driver tests to get feedback about when you break something.
+Refactor your initial solution. Run the driver tests often to determine when you break something.
 
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 5: Push your solution
+## Release 5: Publish
 Commit your changes and push your solution to GitHub.
 
 ##BONUS Release 6: True Bingo Board
 
-Our bingo board generated with this code
+The bingo board generated with this code
 `    @bingo_board = Array.new(5) {Array(5.times.map{rand(1..100)})}
 `
 creates a 5x5 array with random numbers from 1-100, but that is not how true bingo boards work. Traditionally the pattern is like this: "B" (numbers 1–15), "I" (numbers 16–30), "N" (numbers 31–45), "G" (numbers 46–60), and "O" (numbers 61–75) with a free space in the middle.

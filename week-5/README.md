@@ -24,7 +24,8 @@ We can't recommend this book enough, so please get it if you can. Read through t
 7. [Technical Blog](7-technical-blog.md)
 8. [Cultural Blog](8-cultural-blog.md)
 9. [GPS 2.1 - Don't look until your GPS Session!](9-gps2-1)
-10. [BONUS: Challenges](10-BONUS-challenges) *Optional challenges*
+10. [Accountability Groups](10-accountabiltiy-group.md)
+11. [BONUS: Challenges](11-BONUS-challenges) *Optional challenges*
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W5.** Only other DBC students can actually see your repositories because they are private.
 

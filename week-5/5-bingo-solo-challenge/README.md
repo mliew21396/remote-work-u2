@@ -53,7 +53,7 @@ bingo_board = [[47, 44, 71, 8, 88],
 Break these goals down into implementable pseudocode.
 
 ## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
-Translate your pseudocode into code. We started you off with an initialize method, but you will need others to complete the challenge.
+Translate your pseudocode into code. The initialize method has been written for you, but you will need others to complete the challenge.
 
 ## Release 2: [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
 

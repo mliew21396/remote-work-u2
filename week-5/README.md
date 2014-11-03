@@ -12,7 +12,7 @@ If you are using the *Well-Grounded Rubyist* to solidify your learning, you'll w
 - Chapters 3 and 5
 - Chapter 4 (We don't cover any of these topics in Phase 0, but they are useful to be aware of)
 
-We can't recommend this book enough, so please get it if you can. Read through the Week 3 [BONUS challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/10-BONUS-challenges/Well-Grounded-Rubyist.md) for a discount code and additional chapters to read.
+We can't recommend this book enough, so please get it if you can. Read through the Week 3 [BONUS challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/11-BONUS-challenges/Well-Grounded-Rubyist.md) for a discount code and additional chapters to read.
 
 ## Challenges
 1. [Die Class 2: Arbitrary Symbols](1-die)

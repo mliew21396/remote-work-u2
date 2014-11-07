@@ -19,7 +19,6 @@ describe 'mode' do
   end
 
   it "returns the correct mode when mode is not a unique integer" do
-    # mode(array_2).should eq [5,6]
     expect(mode(array_2)).to eq [5,6]
 
   end

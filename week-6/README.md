@@ -23,7 +23,7 @@ Before you start the challenges this week, we recommend you read chapters 1 and 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W6.** Only other DBC students can actually see your repositories because they are private.
 
 ## Submitting your work
-- You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
+- You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
 - The week's work is due each Sunday at 11:59pm.
 
 **If you do not finish by the deadline:**
@@ -33,11 +33,6 @@ This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W
 ## Fetch the curriculum changes!
 
 It's time to fetch the new curriculum from Devbootcamp/phase-0-unit-2. Make sure to check your directory before fetching changes! Use [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md). Change all instances of phase-0-unit-1 to phase-0-unit-2.
-
-## Submitting your work
-
-- You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
-- The week's work is due each Sunday at 11:59pm.
 
 ## Completing the challenges
 

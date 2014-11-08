@@ -8,11 +8,7 @@ The curriculum is designed to help you with the process of thinking through comp
 
 This week gets into more advanced concepts, so make sure you pair as often as you need to ensure you are able to learn efficiently and have fun doing it! You can pair on any challenge (except for solo challenges) and you have an awesome community of programmers to pair with.
 
-If you are using the *Well-Grounded Rubyist* to solidify your learning, you'll want to focus on reading:
-- Chapters 3 and 5
-- Chapter 4 (We don't cover any of these topics in Phase 0, but they are useful to be aware of)
-
-We can't recommend this book enough, so please get it if you can. Read through the Week 3 [BONUS challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/11-BONUS-challenges/Well-Grounded-Rubyist.md) for a discount code and additional chapters to read.
+You'll want to focus on reading the chapters 3 and 5 of The *Well-Grounded Rubyist* this week. You may also want to read chapter 4. We don't cover any of the topics from chapter 4 in Phase 0, but they are useful to be aware of.
 
 ## Challenges
 1. [Die Class 2: Arbitrary Symbols](1-die)
@@ -29,28 +25,28 @@ We can't recommend this book enough, so please get it if you can. Read through t
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W5.** Only other DBC students can actually see your repositories because they are private.
 
+## Fetch DBC's Changes
+####It's time to fetch changes from DevBootcamp's phase-0-unit-2 master repo.
+Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md)!
+Modify them for unit 2.
+
 ## Submitting your work
-- You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
+- You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
 - The week's work is due each Sunday at 11:59pm.
 
 **If you do not finish by the deadline:**
 - Complete the Unit 2 extension request. (You only get one extension for Unit 2)
 - When the work is complete, turn it in using the [week's submission form](http://apply.devbootcamp.com).
 
-## Remember your Expectations for the Unit!
-- Pair at least twice this week.  *You need to pair* ***6*** *times this unit*
-- Give feedback for each person you paired with. *You need to submit at least 8 pieces of feedback in this unit* (6 for peer-pairing, and 2 GPS.)
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit.*
+## Remember the Unit Expectations!
 
-## Fetch DBC's Changes
-####It's time to fetch changes from DevBootcamp's phase-0-unit-2 master repo.
-Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md)!
-Modify them for unit 2.
+Expectation | Times per Unit | Times per Week
+------------|----------|---------
+[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | 6 | >= 2
+[Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 8 | >=2
+Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
 ## Working through the challenges
 Once you have the entire local repository on your computer, you don't need to read the challenges on GitHub anymore (although we admit, it's prettier). You can open the entire repository in Sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us know by posting on the community. Also try to figure out a fix and submit a pull request to correct the error. It will help your markdown and git skills!
 
-
-
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
-

@@ -2,9 +2,9 @@
 
 <!-- Please do not start on week 6 yet, we will be reviewing the challenges and making changes. It will be published at least by the Sunday before week 6 starts. -->
 
-Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. We recommend [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur"). There aren't legally free copies online, so if you don't want to shell out the bucks to buy it (although we highly recommend it) use the mighty power of Google to introduce yourself to the fundamentals of object-oriented design. (But we promise, the book is well worth the money!)
+Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. We are asking students to purchase [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur") to help them with these ideas.
 
-If you're using the *Well-Grounded Rubyist*, you'll want to look through any chapters you haven't read yet, re-read material you found confusing, and practice some of the things you're seeing.
+You'll also want to look through any chapters you haven't read yet, re-read material you found confusing, and practice some of the things you're seeing in the *Well-Grounded Rubyist*.
 
 ## Challenges
 Before you start the challenges this week, we recommend you read chapters 1 and 2 in POODR. If you can, you should try to read the remainder of the chapters as you work through the challenges.

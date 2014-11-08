@@ -32,7 +32,7 @@ This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W
 
 ## Fetch the curriculum changes!
 
-It's time to fetch the new curriculum from Devbootcamp/phase-0-unit-2. **Make sure to check your directory before fetching changes!** Use [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md). **Change all instances of phase-0-unit-1 to phase-0-unit-2.**
+It's time to fetch the new curriculum from Devbootcamp/phase-0-unit-2. Make sure to check your directory before fetching changes! Use [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md). Change all instances of phase-0-unit-1 to phase-0-unit-2.
 
 ## Submitting your work
 

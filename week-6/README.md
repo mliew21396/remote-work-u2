@@ -18,7 +18,8 @@ Before you start the challenges this week, we recommend you read chapters 1 and 
 7. [Technical Blog](7-technical-blog.md)
 8. [Cultural Blog](8-cultural-blog.md)
 9. [GPS 2.2](9-gps2-2)<br>
-10. [BONUS Challenges](10-BONUS-challenges)
+10. [Accountability Group Check in](10-accountability-group.md)
+11. [BONUS Challenges](11-BONUS-challenges)
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W6.** Only other DBC students can actually see your repositories because they are private.
 

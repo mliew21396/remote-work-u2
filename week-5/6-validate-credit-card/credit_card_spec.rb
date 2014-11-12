@@ -7,15 +7,11 @@ describe CreditCard do
     end
 
     it 'raises ArgumentError on card > 16' do
-      expect {
-        CreditCard.new(11111111111111112)
-      }.to raise_error(ArgumentError)
+      expect { CreditCard.new(11111111111111112) }.to raise_error(ArgumentError)
     end
 
     it 'raises ArgumentError on card < 16' do
-      expect {
-        CreditCard.new(1)
-      }.to raise_error(ArgumentError)
+      expect { CreditCard.new(1) }.to raise_error(ArgumentError)
     end
   end
 
@@ -26,13 +22,11 @@ describe CreditCard do
 
     it 'returns true for a valid card' do
       card = CreditCard.new(4408041234567901)
-
       expect(card.check_card).to eq true
     end
 
     it 'returns false for a bad card' do
       card = CreditCard.new(4408041234567906)
-
       expect(card.check_card).to eq false
     end
   end

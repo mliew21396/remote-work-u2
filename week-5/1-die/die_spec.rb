@@ -7,9 +7,7 @@ describe Die do
     end
 
     it 'raises an ArgumentError if list of labels is empty' do
-      expect {
-        Die.new([])
-      }.to raise_error(ArgumentError)
+      expect { Die.new([]) }.to raise_error(ArgumentError)
     end
   end
 

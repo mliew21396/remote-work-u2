@@ -1,8 +1,6 @@
 [Week 4 Home](../)
 
 # U2.W4: Create a Method to Pad an Array
-**Pairing Challenge**
-
 
 ## Learning Competencies
 - Break a large problem down into smaller steps
@@ -11,15 +9,13 @@
 - Differentiate between and produce destructive and non-destructive methods
 
 ## Summary:
-In this challenge you will be extending the `Array` class to add two new methods. That's why you see the methods wrapped within a class. Focus on implementing the two new methods to extend the Array class as described below.
+Implement two new methods `pad` and `pad!`. Each method accepts an array, a minimum size (non-negative integer) for the array, and an optional pad value as arguments.
 
-Implement `Array#pad` and `Array#pad!`. Each method accepts a minimum size (non-negative integer) and an optional pad value as arguments.
-
-If the array's length is less than the minimum size, `Array#pad` should return a new array padded with the pad value up to the minimum size.
+If the array's length is less than the minimum size, `pad` should return a new array padded with the pad value up to the minimum size.
 
 For example,
 ```ruby
-[1,2,3].pad(5)
+pad([1,2,3], 5)
 ```
 
 should return
@@ -29,8 +25,9 @@ should return
 ```
 
 And
+
 ```ruby
-[1,2,3].pad(5, 'apple')
+pad([1,2,3], 5, 'apple')
 ```
 
 should return
@@ -41,12 +38,11 @@ should return
 
 If the minimum size is less than or equal to the length of the array, it should just return the array.
 
-That is, `[1,2,3].pad(3)` should return `[1,2,3]`.
+That is, `pad([1,2,3], 3)` should return `[1,2,3]`.
 
-`my_array.pad(0)` should always return an array equal to `my_array`.  `Array#pad` should always return a new object, i.e., it should be non-destructive.
+`pad(my_array, 0)` should always return an array equal to `my_array`. `pad` should also always return a new object, so it should be non-destructive.
 
-`Array#pad!` behaves identically to `Array#pad` except that it modifies the original array.
-
+`pad!` behaves identically to `pad` except that it modifies the original array.
 
 ## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 

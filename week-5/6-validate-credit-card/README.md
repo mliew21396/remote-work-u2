@@ -36,7 +36,7 @@ Step 3: 70 (total above) % 10 == 0
 Step 4: Profit
 ```
 
-Your class will need to return `true` or `false` when we call the `#check_card`.  Your class needs to be initialized with a credit card number that is exactly 16 digits otherwise you should receive an `ArgumentError`.
+Your class will need to return `true` or `false` when we call the `#check_card` method. Your class needs to be initialized with a credit card number that is exactly 16 digits otherwise you should receive an `ArgumentError`.
 
 ## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 

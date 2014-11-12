@@ -5,7 +5,7 @@
 # include it in this file. Also make sure everything that isn't code
 # is commented in the file.
 
-# I worked on this challenge with: NAME.
+# I worked on this challenge [by myself, with: ]
 
 # 0. Pseudocode
 
@@ -15,17 +15,12 @@
 
 
 # 1. Initial Solution
+def pad!(array, min_size, value = nil) #destructive
+  # Your code here
+end
 
-class Array
-
-  def pad
-    #code goes here
-  end
-
-  def pad!
-    #code goes here
-  end
-
+def pad(array, min_size, value = nil) #non-destructive
+  # Your code here
 end
 
 

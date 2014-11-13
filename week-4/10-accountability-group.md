@@ -7,11 +7,9 @@
 - Explain your confusion to your accountability group
 
 ## Summary
-Accountability groups are designed to give you a core group of people in your cohort to lean on and learn from. From now on you will have a challenge to connect/meet with them each week. As a group you can decide to connect weekly via hangouts, in person, or email. You may want to initiate a code review process within your accountability group as well.
+It's time to check in with your accountability groups again!
 
-Double-check your groups as they may have changed.
-
-## Releases:
+## Releases
 ## Release 0: Identify Concepts
 Identify one or two of the concepts or challenges you struggled with this week.
 

@@ -9,7 +9,7 @@
 ## Summary
 It's time to check in with your accountability groups again!
 
-## Releases:
+## Releases
 ## Release 0: Identify Concepts
 Identify one or two of the concepts or challenges you struggled with this week.
 

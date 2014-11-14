@@ -8,11 +8,11 @@ If you haven't already purchased a copy of * The Well-Grounded Rubyist*, you'll 
 
 ## Challenges
 1. [Add it Up](1-add-it-up)
-2. [Create Accountability Groups](2-create-acct-groups)
+2. [Pad an Array](2-pad-array)
 3. [Calculate the Mode](3-calculate-mode) *Mandatory Pairing Challenge*
 4. [Group Research Methods](4-group-research-methods)
 5. [Separate Numbers with Commas SOLO CHALLENGE](5-nums-commas-solo-challenge)
-6. [Pad an Array](6-pad-array)
+6. [Create Accountability Groups](6-acct-groups)
 7. [Die Class](7-die-class)
 8. [Technical Blog](8-technical-blog.md)
 9. [Cultural Blog](9-cultural-blog.md)

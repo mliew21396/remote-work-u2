@@ -44,6 +44,8 @@ That is, `pad([1,2,3], 3)` should return `[1,2,3]`.
 
 `pad!` behaves identically to `pad` except that it modifies the original array.
 
+We took you through the coding process in the last challenge. From now on, we will use these links to outline the coding process for each challenge. It is required that you complete each non-optional release.
+
 ## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
 ## Release 1: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)

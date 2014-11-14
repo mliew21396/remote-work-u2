@@ -14,12 +14,10 @@ In this challenge, you are going to make a method that takes an array of names (
 
 This is a creative challenge and you can make it as easy or difficult as you would like. Here are some questions to consider when deciding how to build this:
 
-- If you run this program three times in a row, will the program give you three different outputs? Is that good or bad?
-- Should the program store past outputs or not?
-- Do you want to avoid putting people together more than once? (This one's pretty challenging)!
-- How do you decide when you're done? This is much more challenging than you probably think, especially since there are no tests.
-
-We took you through the coding process in the last challenge. From now on, we will use these links to outline the process for each challenge.
+- If you run this program three times in a row, will the program give you three different outputs?
+- Should the program store past outputs?
+- If one person were to leave the cohort, how would the accountability groups change?
+- How do you decide when you're done? You'll need to decide. This is much more challenging than you probably think, especially since there are no pre-written tests.
 
 ## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 

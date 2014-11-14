@@ -1,8 +1,8 @@
 # Week 6: Object-Oriented Design in Ruby
 
-<!-- Please do not start on week 6 yet, we will be reviewing the challenges and making changes. It will be published at least by the Sunday before week 6 starts. -->
+Please do not start on week 6 yet, we will be reviewing the challenges and making changes. It will be published at least by the Friday before week 6 starts.
 
-Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. We are asking students to purchase [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur") to help them with these ideas.
+<!-- Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. We are asking students to purchase [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur") to help them with these ideas.
 
 You'll also want to look through any chapters you haven't read yet, re-read material you found confusing, and practice some of the things you're seeing in the *Well-Grounded Rubyist*.
 
@@ -50,3 +50,4 @@ Expectation | Times per Unit | Times per Week
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
+ -->

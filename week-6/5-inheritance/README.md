@@ -31,13 +31,15 @@ Attributes |
 -----------|
 `city`     |
 `students` |
-`name`|
+`name`*|
 `p0_start_date` |
 `immersive_start_date`|
 `graduation_date` |
 `email_list` |
 `num_of_students` |
 `google_community` |
+
+*If `name` is confusing, think about what you would expect `Cohort.name` to return...
 
 Method | Method's Responsibility
 --------|---------------------

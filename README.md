@@ -5,8 +5,8 @@ In this unit, you will go in to more depth with Ruby and really start problem so
 We will release each week's curriculum the Friday before the week starts.
 
 ### [Week 4: Ruby Algorithms](week-4/README.md)
-<!-- ### [Week 5: Ruby Classes](week-5/README.md)
-### [Week 6: Object-Oriented Design](week-6/README.md) -->
+### [Week 5: Ruby Classes](week-5/README.md)
+<!-- ### [Week 6: Object-Oriented Design](week-6/README.md) -->
 
 ## Unit Expectations
 

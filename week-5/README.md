@@ -44,7 +44,7 @@ Solo challenges and GPS need to be complete the week they are due. There are no 
 
 Expectation | Times per Unit | Times per Week
 ------------|----------|---------
-[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | 6 | >= 2
+[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing-sessions.md) | 6 | >= 2
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 8 | >=2
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 

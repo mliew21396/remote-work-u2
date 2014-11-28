@@ -38,3 +38,5 @@ Using the existing driver code, write driver test code that returns `true` when 
 
 ## Release 7: Push your solution to Github
 
+## Release 8: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
+**Optional but HIGHLY encouraged!**

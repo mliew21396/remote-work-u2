@@ -2,21 +2,21 @@
 
 
 # 1. Review the following user stories:
-# - As a pez user, I'd like to be able to "create" a new pez dispenser with a group of flavors that
-#      represent pez so it's easy to start with a full pez dispenser.
-# - As a pez user, I'd like to be able to easily count the number of pez remaining in a dispenser
+# - As a Pez user, I'd like to be able to "create" a new Pez dispenser with a group of flavors that
+#      represent Pez so it's easy to start with a full Pez dispenser.
+# - As a Pez user, I'd like to be able to easily count the number of Pez remaining in a dispenser
 #      so I can know how many are left.
-# - As a pez user, I'd like to be able to take a pez from the dispenser so I can eat it.
-# - As a pez user, I'd like to be able to add a pez to the dispenser so I can save a flavor for later.
-# - As a pez user, I'd like to be able to see all the flavors inside the dispenser so I know the order
+# - As a Pez user, I'd like to be able to take a Pez from the dispenser so I can eat it.
+# - As a Pez user, I'd like to be able to add a Pez to the dispenser so I can save a flavor for later.
+# - As a Pez user, I'd like to be able to see all the flavors inside the dispenser so I know the order
 #      of the flavors coming up.
 
 
-# 2. Pseudocode
+# Pseudocode
 
 
 
-# 3. Initial Solution
+# Initial Solution
 
 class PezDispenser
 
@@ -26,14 +26,14 @@ end
 
 
 
-# 5. Refactored Solution
+# Refactored Solution
 
 
 
 
 
 
-# 1. DRIVER TESTS GO BELOW THIS LINE
+# DRIVER TESTS GO BELOW THIS LINE
 
 flavors = %w(cherry chocolate cola grape lemon orange peppermint raspberry strawberry).shuffle
 super_mario = PezDispenser.new(flavors)
@@ -50,4 +50,4 @@ puts "Now you have #{super_mario.pez_count} pez!"
 
 
 
-# 6. Reflection
+# Reflection

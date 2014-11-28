@@ -17,7 +17,7 @@ You will run into numerous error messages as a developer, so it's important to k
 Run the code from the console. You should encounter 8 errors before it will run completely. Read each error carefully and fix it. Only one error should be fixed by adding code to the driver code. For everything else, you should only modify the classes.
 
 ## Release 2: Test!
-Write tests using [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
+Write tests using [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md).
 
 ## Release 3: Call it again (x3)
 Interact with the code by writing at least three more different method calls. Did they return what you expected?

@@ -6,13 +6,13 @@ We will release each week's curriculum the Friday before the week starts.
 
 ### [Week 4: Ruby Algorithms](week-4/README.md)
 ### [Week 5: Ruby Classes](week-5/README.md)
-<!-- ### [Week 6: Object-Oriented Design](week-6/README.md) -->
+### [Week 6: Object-Oriented Design](week-6/README.md)
 
 ## Unit Expectations
 
 Expectation | Times per Unit |
 ------------|----------|
-[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | at least 6
+[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing-sessions.md) | at least 6
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | at least 8
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20
 

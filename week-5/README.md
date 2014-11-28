@@ -38,6 +38,8 @@ Modify them for unit 2.
 - Complete the Unit 2 extension request. (You only get one extension for Unit 2)
 - When the work is complete, turn it in using the [week's submission form](http://apply.devbootcamp.com).
 
+Solo challenges and GPS need to be complete the week they are due. There are no extensions granted for these challenges.
+
 ## Remember the Unit Expectations!
 
 Expectation | Times per Unit | Times per Week

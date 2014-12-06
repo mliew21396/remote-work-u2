@@ -19,11 +19,11 @@ end
 #
 
 # Person 2
-def my_array_modification_method(source, thing_to_modify)
+def my_array_modification_method!(source, thing_to_modify)
   # Your code here!
 end
 
-def my_hash_modification_method(source, thing_to_modify)
+def my_hash_modification_method!(source, thing_to_modify)
   # Your code here!
 end
 
@@ -49,11 +49,11 @@ end
 
 
 # Person 4
-def my_array_deletion_method(source, thing_to_delete)
+def my_array_deletion_method!(source, thing_to_delete)
   #Your code here!
 end
 
-def my_hash_deletion_method(source, thing_to_delete)
+def my_hash_deletion_method!(source, thing_to_delete)
   #Your code here!
 end
 

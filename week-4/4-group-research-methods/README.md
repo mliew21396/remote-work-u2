@@ -64,14 +64,14 @@ Create a `my_array_modification_method` that takes an array and number to be add
 internal numbers. (Because you can never have too many pets!) For example:
 
 ```ruby
-my_array_modification_method(i_want_pets, 1)
+my_array_modification_method!(i_want_pets, 1)
 #=> ["I", "want", 4, "pets", "but", "only", "have", 3]
 ```
 
 Two years have passed since I made `my_family_pets_ages`, so the ages need to be updated. I want the original data to change since I can't travel back in time. For Example:
 
 ```ruby
-my_hash_modification_method(my_family_pets_ages, 2)
+my_hash_modification_method!(my_family_pets_ages, 2)
 #=> {"Evi" => 8, "Hoobie" => 5, "George" => 14, "Bogart" => 6, "Poly" => 6, "Annabelle" => 2, "Ditto" => 5}
 ```
 
@@ -96,14 +96,14 @@ Sometimes you no longer need data that matches something. Create a `my_array_del
 
 For example:
 ```ruby
-my_deletion_method(i_want_pets, "a")
+my_array_deletion_method!(i_want_pets, "a")
 #=> ["I", 4, "pets", "but", "only", 3 ]
 ```
 
 Poor George passed away. He had a good life, but I need to permanently remove him from my list.
 
 ```ruby
-my_deletion_method(my_family_pets_ages, "George")
+my_hash_deletion_method!(my_family_pets_ages, "George")
 #=> {"Evi" => 8, "Hoobie" => 5, "Bogart" => 6, "Poly" => 6, "Annabelle" => 2, "Ditto" => 5}
 ```
 

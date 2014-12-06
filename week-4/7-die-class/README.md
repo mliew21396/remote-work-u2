@@ -10,7 +10,9 @@
 - Identify the scope of different variables
 
 ## Summary
-In the last challenge, you saw your first Class (in that case the Array class). In this challenge you'll want to implement a basic `Die` class which can be initialized with some number of sides.  We can then roll the die, returning a random number. It should work like this:
+This challenge is your first introduction to classes. You will probably want to read about classes in Chapter 3 of the *Well-Grounded Rubyist* before starting this challenge.
+
+In this challenge you'll want to implement a basic `Die` class which can be initialized with some number of sides. You can then roll the die, returning a random number. It should work like this:
 
 ```ruby
 die = Die.new(6) #This creates a new die object with 6 sides

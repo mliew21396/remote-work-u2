@@ -1,10 +1,10 @@
 # Ruby Collection Types and Enumerables
 
-This week you will be working on writing command-line programs focusing on algorithms and basic testing. Some challenges will also have tests already developed using RSpec (a tool for testing Ruby code). You will learn how to run these tests on your computer and read them to decide whether you've successfully solved the challenge. NOTE: You are not expected to fully understand or write any RSpec in Phase 0, just be able to read it. RSpec is designed to be readable.
+This week you will be working on writing command-line programs focusing Ruby collection types, enumerables, and basic testing. Some challenges will also have tests already developed using RSpec (a tool for testing Ruby code). You are not expected to fully understand or write any RSpec in Phase 0, just be able to read it. RSpec is designed to be readable.
 
-**Please make sure to follow each step we ask you (in order): write pseudocode, initial solution, refactoring, reflection.** If you want guidance on how to complete these steps, reference the links provided. If you have questions about any instructions, ask us.
+**Follow each step we ask you (in order): write pseudocode, initial solution, refactoring, reflection.** If you want guidance on how to complete these steps, reference the links provided. Each step is mandatory, so do not skip any section. If you have questions about any instructions, ask us.
 
-If you haven't already purchased a copy of * The Well-Grounded Rubyist*, you'll want to do so. Take a look at [Week 3's bonus challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/11-BONUS-challenges/Well-Grounded-Rubyist.md) for info on which chapters to read and for a coupon code. You don't need to read every chapter thoroughly; skim where you need to. Take more time with concepts you don't feel comfortable with. DBC instructors can't emphasize enough how helpful the book is.
+If you haven't already purchased a copy of * The Well-Grounded Rubyist*, you'll want to do so. Take a look at [Week 3's bonus challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/11-BONUS-challenges/Well-Grounded-Rubyist.md) for info on which chapters to read. You don't need to read every chapter thoroughly; skim where you need to. Take more time with concepts you don't feel comfortable with. DBC instructors can't emphasize enough how helpful the book is.
 
 ## Challenges
 1. [Add it Up](1-add-it-up)

@@ -30,13 +30,13 @@ Convert as many of the driver code examples into driver test code based on the w
 ## Release 3: Write Tests
 Convert as many of the driver code examples into driver test code based on the way you implemented each method. Make sure your tests output `true` before refactoring!
 
-## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
+## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
 Make sure your tests are still working!
 
-## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 5: Push your solution to GitHub
+## Release 6: Push your solution to GitHub
 
-## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
+## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
 **Optional but HIGHLY encouraged!**

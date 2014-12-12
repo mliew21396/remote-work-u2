@@ -1,6 +1,6 @@
 # Ruby Collection Types and Enumerables
 
-This week you will be working on writing command-line programs focusing Ruby collection types, enumerables, and basic testing. Some challenges will also have tests already developed using RSpec (a tool for testing Ruby code). You are not expected to fully understand or write any RSpec in Phase 0, just be able to read it. RSpec is designed to be readable.
+This week you will be working on writing command-line programs focusing Ruby collection types, enumerables, and basic testing.
 
 **Follow each step we ask you (in order): write pseudocode, initial solution, refactoring, reflection.** If you want guidance on how to complete these steps, reference the links provided. Each step is mandatory, so do not skip any section. If you have questions about any instructions, ask us.
 

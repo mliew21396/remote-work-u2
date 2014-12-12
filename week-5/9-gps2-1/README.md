@@ -22,7 +22,7 @@ What does the value represent for each key in the hash?
 
 ## Release 2: Setting up Variables
 - Look at the "Release 2" chunk of code. What is it doing? What information does each variable hold?
-- Write a comment about what this chunk of code is doing below the release, but above the code itself.
+- Write a comment about what this chunk of code is doing below "Release 2," but above the code.
 
 ## Release 3: Hashes
 - Indent the "Release 3" chunk properly.
@@ -51,7 +51,7 @@ What does the value represent for each key in the hash?
 - Run the code after making any changes to check it still works!
 
 ## Release 7: While...
-- For this release you'll need to read through the rest of the code and figure out what the `while` loop is doing.
+- For this release you'll need to read through the rest of the code and figure out what `while` is doing.
 - Properly indent the code in "Release 7" and "Release 8" as you read through it.
 - Based on what you've read, what is the purpose of the `while` loop (if any). Write that as comment below "Release 7."
 - Refactor as necessary.
@@ -61,7 +61,7 @@ What does the value represent for each key in the hash?
 - You should already know what this chunk of code does, so write that in a comment below "Release 8."
 - What do you think about the way the code works from releases 5 - 8? Does it make sense to you? Is there a better way to do this?
 - Look at the last line of Driver Test Code. As you can see, the code isn't even working correctly!
-- Refactor the code so that the method will give the person "cake" as their primary food.
+- Refactor the code so that the method will give "cake" if they ask for it. You can decide how to implement this.
 - Change that line of Driver Test code so it makes sense.
 - Run the code after making the changes to ensure it still works.
 

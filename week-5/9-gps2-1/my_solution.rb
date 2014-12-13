@@ -6,8 +6,6 @@
 # 1)
 # 2)
 
-#You should not change this file. Please paste your solution into the my_solution.rb file.
-
 def bakery_num(num_of_people, fav_food)
   #Release 2
   my_list = {"pie" => 8, "cake" => 6, "cookie" => 1}

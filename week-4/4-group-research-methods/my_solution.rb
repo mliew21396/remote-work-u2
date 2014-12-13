@@ -76,15 +76,12 @@ p my_array_modification_method!(i_want_pets, 1) == ["I", "want", 4, "pets", "but
 p my_hash_modification_method!(my_family_pets_ages, 2) == {"Evi" => 8, "Hoobie" => 5, "George" => 14, "Bogart" => 6, "Poly" => 6, "Annabelle" => 2, "Ditto" => 5}
 
 # Person 3
-# This driver code will only pass if you have the code from Person 2! If you don't have it, copy/modify it so you can
+# This driver code will only pass if you have the code from Person 2 (because the numbers were modified)! If you don't have it, copy/modify it so you can
 # test whether your method works.
 
-# The numbers were converted to strings because of the method I used when I made this.
-# You don't have to do this in the exact same way, just make sure to write your own
-# test if you are going to do it differently and give that to your group.
-
-p my_array_sorting_method(i_want_pets) == ["3", "4", "I", "but", "have", "only", "pets", "want"]
+p my_array_sorting_method(i_want_pets) == [3, 4, "I", "but", "have", "only", "pets", "want"]
 p my_hash_sorting_method(my_family_pets_ages) == [["Annabelle", 2], ["Ditto", 5], ["Hoobie", 5], ["Bogart", 6], ["Poly", 6], ["Evi", 8], ["George", 14]]
+#R
 
 # Person 4
 # This driver code will only pass if you have the code from Person 2!If you don't have it, copy/modify it so you can

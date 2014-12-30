@@ -20,7 +20,7 @@ class GradeCalculator
     sum / $number_of_grades
   end
 
-  def calulate_grade
+  def calculate_grade
     case mean
       when 90..100
        "A"
@@ -38,7 +38,7 @@ class GradeCalculator
   end
 
   def add_grades
-    $array_of_all_grades << calulate_grade
+    $array_of_all_grades << calculate_grade
   end
 
   def return_global_array
@@ -48,7 +48,7 @@ end
 
 grade = GradeCalculator.new([80,95,64,71,100,38,95,100])
 
-p grade.calulate_grade
+p grade.calculate_grade
 grade.add_grades
 p grade.return_global_array
 

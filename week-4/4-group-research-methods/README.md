@@ -81,11 +81,8 @@ I want to create a sorting method that alphabetizes an array. I also want to cre
 
 ```ruby
 my_array_sorting_method(i_want_pets) #=>
-["3", "4", "I", "but", "have", "only", "pets", "want"]
-
-# The numbers were converted to strings because of the method I used when I made this.
-# You don't have to do this in the exact same way, just make sure to write your own
-# test if you are going to do it differently and give that to your group.
+[3, 4, "I", "but", "have", "only", "pets", "want"]
+# Remember, the method above changed the integers by adding one to each!
 
 my_hash_sorting_method(my_family_pets_ages) #=>
 [["Annabelle", 2], ["Ditto", 5], ["Hoobie", 5], ["Bogart", 6], ["Poly", 6], ["Evi", 8], ["George", 14]]

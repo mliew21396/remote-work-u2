@@ -1,4 +1,4 @@
-# U2.W6: PezDispenser Class from User Stories SOLO CHALLENGE
+# U2.W6: PezDispenser Class from User Stories
 
 
 # 1. Review the following user stories:

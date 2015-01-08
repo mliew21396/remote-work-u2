@@ -27,6 +27,8 @@ Really focus on breaking each step down. You want to understand every line (exce
 Use [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md). What will always be the same using this cipher? What changes? Write driver test code based on what you discover.
 
 ## Release 3: [Refactor (by rewriting) the initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
+  - Refactor this method into a class.
+  - Edit your tests to work with the new class.
   - Clean up the variable names.
   - The original code used a hard-coded hash to do the encryption. Can you create a simple algorithm instead? The original shift was by 4 characters. What would happen if it was changed to 10? Would your class be able to handle that change easily?
 

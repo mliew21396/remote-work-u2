@@ -12,11 +12,11 @@ By now you have had some practice looking through the [Ruby Docs](http://ruby-do
 difficulty trying to figure out what methods do and how they work. You have probably also
 seen some people using methods you didn't know existed.
 
-In this challenge, each member of your group will have a specific challenge and you will each practice reading through the docs to find existing enumerable methods and use them on `Array`s and `Hash`es.
+In this challenge, each member of your group will have a specific challenge and you will each practice reading through the docs to find existing `Enumerable`, `Hash`, or `Array` methods. You will then apply them to set arrays and hashes.
 
 Research and test these methods out. You may want to play around with them in IRB to figure out exactly how they work before you can implement them properly.
 
-You will also want to know a little bit about destructive and non-destructive methods. Destructive methods change the original data permanently. Non-Destructive methods return new data (like a new array or hash) based on what you're doing, but the original data remains the same. For each of these, you will be asked to use destructive or non-destructive methods, so please read the instructions carefully.
+Keep in mind the differences between destructive and non-destructive methods. Some of these methods should be destructive, and others should not. If you are confused about the difference between destructive and non-destructive methods, review the [Pad an Array](1-pad-array) challenge.
 
 **Please note, the [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) included will ONLY work when you have each person's solution and if you use a similar way of solving the problem.** Read the link on Driver Test Code so you understand what it's doing and then feel free to modify it in this challenge to make it work for your group.
 
@@ -24,6 +24,8 @@ You will also want to know a little bit about destructive and non-destructive me
 Refer to your accountability group spreadsheet to find your role.
 
 Each person has a challenge to solve. This does not need to be done in any order.
+
+If you have fewer than five accountability group members, only do as many of the challenges as you have people. Your goal is to learn how to use existing methods and teach others, not to learn specific methods. If you only have three people, only do the first three challenges.
 
 **Remember: the driver test code needs each method in order to work.**
 
@@ -59,9 +61,10 @@ my_hash_finding_method(my_family_pets_ages, 3) #=> should return ["Hoobie", "Dit
 ```
 
 #### Person 2: Modify Existing Data
-I recently got a new pet, but I still want another!
-Create a `my_array_modification_method` that takes an array and number to be added to all
-internal numbers. (Because you can never have too many pets!) For example:
+I recently got a new pet, but I still want another! You'll need to create two destructive methods for this challenge.
+
+Create a `my_array_modification_method!` that takes an array and number to be added to all
+internal numbers. (Because you can never have too many pets!) It should permanently alter the original array and hash. For example:
 
 ```ruby
 my_array_modification_method!(i_want_pets, 1)
@@ -102,6 +105,24 @@ Poor George passed away. He had a good life, but I need to permanently remove hi
 ```ruby
 my_hash_deletion_method!(my_family_pets_ages, "George")
 #=> {"Evi" => 8, "Hoobie" => 5, "Bogart" => 6, "Poly" => 6, "Annabelle" => 2, "Ditto" => 5}
+```
+
+#### Person 5: Split Data
+At times, you will want to split data into two arrays based on a condition.
+
+Create a `my_array_splitting_method` that will split the original array into two separate nested arrays (two arrays within one array). The first nested array should include all integers, and the second nested array should include all other values. This should not alter the original data structure.
+
+For example:
+```ruby
+my_array_splitting_method(i_want_pets)
+#=> [[4, 3],["I", "want", "pets", "but", "only", "have"]]
+```
+
+Then create a `my_hash_splitting_method` that will separate the hash into two arrays based on the value. It should return two arrays, the first which includes all pets who are five years of age or younger and the second that includes all other pets.T his should not alter the original data structure.
+
+```ruby
+my_hash_splitting_method(my_family_pets_ages, 5)
+#=> [[["Hoobie", 5], ["Annabelle", 2], ["Ditto", 5]], [["Evi", 8], ["George", 14], ["Bogart", 6], ["Poly", 6]]]
 ```
 
 

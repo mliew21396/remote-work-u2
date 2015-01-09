@@ -61,5 +61,10 @@ Make sure your code still passes the tests!
 ## Release 5: Commit and Push!
 If you want feedback, continue using **#DBCU2W4** to request it!
 
-## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
-**Optional but HIGHLY encouraged!**
+## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional, but Highly encouraged).
+
+Reading other's code is really important for your growth as a developer. You can find other people's code using the instructions in the link above, or by looking it up using Twitter. Read through a couple of different solutions and give the authors feedback using issues on GitHub.
+
+This type of feedback will not be anonymous. That's ok.
+
+If someone reviews your code and leaves you feedback, return the favor!

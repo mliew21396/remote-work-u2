@@ -7,17 +7,16 @@ This week you will be working on writing command-line programs focusing Ruby col
 If you haven't already purchased a copy of * The Well-Grounded Rubyist*, you'll want to do so. Take a look at [Week 3's bonus challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/11-BONUS-challenges/Well-Grounded-Rubyist.md) for info on which chapters to read. You don't need to read every chapter thoroughly; skim where you need to. Take more time with concepts you don't feel comfortable with. DBC instructors can't emphasize enough how helpful the book is.
 
 ## Challenges
-1. [Add it Up](1-add-it-up)
-2. [Pad an Array](2-pad-array)
-3. [Calculate the Mode](3-calculate-mode) *Mandatory Pairing Challenge*
-4. [Group Research Methods](4-group-research-methods)
-5. [Separate Numbers with Commas SOLO CHALLENGE](5-nums-commas-solo-challenge)
-6. [Create Accountability Groups](6-acct-groups)
-7. [Die Class](7-die-class)
-8. [Technical Blog](8-technical-blog.md)
-9. [Cultural Blog](9-cultural-blog.md)
-10. [Accountability Group Check-in](10-accountability-group.md)
-11. [BONUS Challenges](11-BONUS-challenges) *These are optional*
+1. [Pad an Array](1-pad-array)
+2. [Calculate the Mode](2-calculate-mode) *Mandatory Pairing Challenge*
+3. [Group Research Methods](3-group-research-methods)
+4. [Separate Numbers with Commas SOLO CHALLENGE](4-nums-commas-solo-challenge)
+5. [Create Accountability Groups](5-acct-groups)
+6. [Die Class](6-die-class)
+7. [Technical Blog](7-technical-blog.md)
+8. [Cultural Blog](8-cultural-blog.md)
+9. [Accountability Group Check-in](9-accountability-group.md)
+10. [BONUS Challenges](10-BONUS-challenges) *These are optional*
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W4.** Only other DBC students can actually see your repositories because they are private.
 

@@ -1,5 +1,5 @@
 # U2.W4: Pad an Array
-# This is a pairing challenge.
+
 
 # Complete each step below according to the challenge directions and
 # include it in this file. Also make sure everything that isn't code

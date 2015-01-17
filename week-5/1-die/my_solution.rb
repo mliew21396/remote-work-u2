@@ -2,6 +2,7 @@
 
 
 # I worked on this challenge [by myself, with: ].
+# I spent [#] hours on this challenge.
 
 # 2. Pseudocode
 
@@ -39,4 +40,4 @@ end
 
 
 
-# 5. Reflection 
+# 5. Reflection

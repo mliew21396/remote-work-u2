@@ -6,6 +6,8 @@
 # 1)
 # 2)
 
+# We spent [#] hours on this challenge.
+
 def bakery_num(num_of_people, fav_food)
   #Release 2
   my_list = {"pie" => 8, "cake" => 6, "cookie" => 1}

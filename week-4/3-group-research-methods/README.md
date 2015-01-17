@@ -8,9 +8,7 @@
 - Explain how to use an existing Ruby method
 
 ## Summary
-By now you have had some practice looking through the [Ruby Docs](http://ruby-doc.org/). I'm sure you've had some
-difficulty trying to figure out what methods do and how they work. You have probably also
-seen some people using methods you didn't know existed.
+By now you have had some practice looking through the [Ruby Docs](http://ruby-doc.org/). I'm sure you've had some difficulty trying to figure out what methods do and how they work. You have probably also seen some people using methods you didn't know existed.
 
 In this challenge, each member of your group will have a specific challenge and you will each practice reading through the docs to find existing `Enumerable`, `Hash`, or `Array` methods. You will then apply them to set arrays and hashes.
 
@@ -18,8 +16,8 @@ Research and test these methods out. You may want to play around with them in IR
 
 Keep in mind the differences between destructive and non-destructive methods. Some of these methods should be destructive, and others should not. If you are confused about the difference between destructive and non-destructive methods, review the [Pad an Array](1-pad-array) challenge.
 
-**Please note, the [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) included will ONLY work when you have each person's solution and if you use a similar way of solving the problem.** Read the link on Driver Test Code so you understand what it's doing and then feel free to modify it in this challenge to make it work for your group.
 
+## Releases
 ## Release 0:
 Refer to your accountability group spreadsheet to find your role.
 
@@ -27,15 +25,10 @@ Each person has a challenge to solve. This does not need to be done in any order
 
 If you have fewer than five accountability group members, only do as many of the challenges as you have people. Your goal is to learn how to use existing methods and teach others, not to learn specific methods. If you only have three people, only do the first three challenges.
 
-**Remember: the driver test code needs each method in order to work.**
-
-If you don't have your group-members' solutions, copy, paste, and modify your tests, and comment out the originals. Then check it all still works when you get the other solutions.
-
 Use the [Ruby Docs](http://ruby-doc.org/) find methods you can use
 on arrays and a hashes, and use them to complete each goal.
 
-Once you complete your challenge, Identify and describe the Ruby method you implemented. Teach your
-accountability group how to use the methods.
+Once you complete your challenge, Identify and describe the Ruby method you implemented. Teach your accountability group how to use the methods.
 
 Each person will be working with the following `Array` and `Hash`:
 ```ruby

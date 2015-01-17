@@ -1,6 +1,7 @@
 # U2.W5: Virus Predictor
 
-# I worked on this challenge with: .
+# I worked on this challenge [by myself, with: ].
+# We spent [#] hours on this challenge.
 
 # EXPLANATION OF require_relative
 #
@@ -17,12 +18,12 @@ class VirusPredictor
     @next_region = regional_spread
   end
 
-  def virus_effects  
+  def virus_effects
     predicted_deaths(@population_density, @population, @state)
     speed_of_spread(@population_density, @state)
   end
 
-  private  
+  private
 
   def predicted_deaths(population_density, population, state)
     # predicted deaths is solely based on population density

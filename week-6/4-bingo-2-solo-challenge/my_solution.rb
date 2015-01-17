@@ -1,5 +1,6 @@
 # U2.W6: Create a Bingo Scorer (SOLO CHALLENGE)
 
+# I spent [#] hours on this challenge.
 
 # Pseudocode
 

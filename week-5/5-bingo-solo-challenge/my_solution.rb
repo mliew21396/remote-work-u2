@@ -1,5 +1,7 @@
 # U2.W5: A Nested Array to Model a Bingo Board SOLO CHALLENGE
 
+# I spent [#] hours on this challenge.
+
 
 # Release 0: Pseudocode
 # Outline:

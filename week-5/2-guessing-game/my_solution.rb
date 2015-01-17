@@ -2,6 +2,7 @@
 
 
 # I worked on this challenge [by myself, with: ].
+# I spent [#] hours on this challenge.
 
 # 2. Pseudocode
 
@@ -16,7 +17,7 @@ class GuessingGame
   def initialize(answer)
     # Your initialization code goes here
   end
-  
+
   # Make sure you define the other required methods, too
 end
 
@@ -37,4 +38,4 @@ end
 
 
 
-# 5. Reflection 
+# 5. Reflection

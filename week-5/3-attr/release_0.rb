@@ -22,7 +22,7 @@ class Profile
     @age
   end
 
- # the change_my_age= syntax might be confusing to see, it just allows us to set the value of the @age variable using = format instead of the standard argument format. Look at line 39 to see what I mean. The equals sign is just a part of the method name string, nothing special going on here.
+ # the change_my_age= syntax might be confusing to see, it just allows us to set the value of the @age variable using = format instead of the standard argument format. Look at line 71 to see what I mean. The equals sign is just a part of the method name string, nothing special going on here.
   def change_my_age=(new_age)
     @age = new_age
   end

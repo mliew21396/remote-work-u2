@@ -20,7 +20,7 @@
 
 
 
-# DRIVER TESTS GO BELOW THIS LINE
+# DRIVER CODE AND TESTS GO BELOW THIS LINE
 one_by_one = Song.new("One by One", "Sirenia")
 world_so_cold = Song.new("World So Cold", "Three Days Grace")
 going_under = Song.new("Going Under", "Evanescence")

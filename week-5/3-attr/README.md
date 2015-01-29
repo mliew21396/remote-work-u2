@@ -1,6 +1,6 @@
-[Week 6](../)
+[Week 5](../)
 
-# U2.W6: attr_ attributes
+# U2.W5: attr_ attributes
 
 ## Learning Competencies
   - Explain `attr_reader`, `attr_writer`, and `attr_accessor`

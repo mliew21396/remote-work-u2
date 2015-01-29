@@ -1,6 +1,6 @@
 [Week 5 Home](../)
 
-# U2.W4: Pair Cipher Challenge (Mandatory pairing challenge)
+# U2.W5: Pair Cipher Challenge (Mandatory pairing challenge)
 
 ## Learning Competencies
 - Identify and explain what code is doing

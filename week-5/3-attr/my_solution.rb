@@ -1,4 +1,4 @@
-#U2.W6: Attr Methods
+#U2.W5: Attr Methods
 
 # I worked on this challenge [by myself, with:]
 # I spent [#] hours on this challenge.

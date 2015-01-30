@@ -1,6 +1,6 @@
-[Week 5 Home](../)
+[Week 6 Home](../)
 
-# U2.W5: Virus Predictor Pair Challenge
+# U2.W6: Virus Predictor Pair Challenge
 
 
 ## Learning Competencies

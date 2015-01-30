@@ -1,4 +1,4 @@
-[Week-6 home](../)
+[Week 6 home](../)
 
 # U2.W6 Variable Scoping
 

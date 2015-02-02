@@ -75,13 +75,15 @@ my_hash_modification_method!(my_family_pets_ages, 2)
 I want to create a sorting method that alphabetizes an array. I also want to create a sorting method that arranges the data in my hash by age (starting with the youngest first). I want to see what happens when I do this, but I don't want it to modify the existing data.
 
 ```ruby
+# i_want_pets was modified by person 2's code in this example
 my_array_sorting_method(i_want_pets) #=>
 [3, 4, "I", "but", "have", "only", "pets", "want"]
-# Remember, the method above changed the integers by adding one to each!
+
 
 my_hash_sorting_method(my_family_pets_ages) #=>
 [["Annabelle", 2], ["Ditto", 5], ["Hoobie", 5], ["Bogart", 6], ["Poly", 6], ["Evi", 8], ["George", 14]]
-# This may be false depending on how your method deals with ordering the animals with the same ages.
+# Don't worry about the ages here. They were modified by person 2's method. 
+# Your method just needs to sort the array.
 ```
 
 #### Person 4: Delete Matching Data
@@ -89,8 +91,8 @@ Sometimes you no longer need data that matches something. Create a `my_array_del
 
 For example:
 ```ruby
-my_array_deletion_method!(i_want_pets, "a")
-#=> ["I", 4, "pets", "but", "only", 3 ]
+my_array_deletion_method!(i_want_pets, "a") # i_want_pets was modified by person 2's code in this example
+#=> ["I", 4, "pets", "but", "only", 3]
 ```
 
 Poor George passed away. He had a good life, but I need to permanently remove him from my list.
@@ -98,6 +100,8 @@ Poor George passed away. He had a good life, but I need to permanently remove hi
 ```ruby
 my_hash_deletion_method!(my_family_pets_ages, "George")
 #=> {"Evi" => 8, "Hoobie" => 5, "Bogart" => 6, "Poly" => 6, "Annabelle" => 2, "Ditto" => 5}
+# Don't worry about the ages here. They were modified by person 2's method. 
+# Your method just needs to delete the appropriate information the array.
 ```
 
 #### Person 5: Split Data
@@ -107,8 +111,8 @@ Create a `my_array_splitting_method` that will split the original array into two
 
 For example:
 ```ruby
-my_array_splitting_method(i_want_pets)
-#=> [[4, 3],["I", "want", "pets", "but", "only", "have"]]
+my_array_splitting_method(i_want_pets) # i_want_pets was modified by person 2's code in this example
+#=> [4, 3],["I", "want", "pets", "but", "only", "have"]]
 ```
 
 Then create a `my_hash_splitting_method` that will separate the hash into two arrays based on the value. It should return two arrays, the first which includes all pets who are five years of age or younger and the second that includes all other pets.T his should not alter the original data structure.
@@ -116,6 +120,8 @@ Then create a `my_hash_splitting_method` that will separate the hash into two ar
 ```ruby
 my_hash_splitting_method(my_family_pets_ages, 5)
 #=> [[["Hoobie", 5], ["Annabelle", 2], ["Ditto", 5]], [["Evi", 8], ["George", 14], ["Bogart", 6], ["Poly", 6]]]
+# Don't worry about the ages here. They were modified by person 2's method. 
+# Your method just needs to split the array as described.
 ```
 
 

@@ -111,7 +111,7 @@ Create a `my_array_splitting_method` that will split the original array into two
 
 For example:
 ```ruby
-my_array_splitting_method(i_want_pets) # i_want_pets was modified by person 2's code in this example
+my_array_splitting_method(i_want_pets) 
 #=> [3, 2],["I", "want", "pets", "but", "only", "have"]]
 ```
 

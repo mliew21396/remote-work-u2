@@ -66,7 +66,7 @@ def north_korean_cipher(coded_message)
   end
   decoded_sentence = decoded_sentence.join("")
 
-  if decoded_sentence.match(/\d+/) #What is this matching? Look at Rubular for help.
+  if decoded_sentence.match(/\d+/) #This is looking for any digits using a regular expression. You can copy this logic in your refactored version since we don't expect you to use regular expressions in Phase 0.
     decoded_sentence.gsub!(/\d+/) { |num| num.to_i / 100 } #He's been known to exaggerate...
   end
   return decoded_sentence # What is this returning?

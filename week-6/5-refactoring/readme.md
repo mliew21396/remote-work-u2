@@ -8,9 +8,9 @@
 - Refactor for clarity and readability
 
 ## Summary
-Using the goals below, choose a challenge solution from [Class Warfare, Validate a Credit Card Number](../../week-5/6-validate-credit-card). This can be anyone's solution, but if you notice there's a lot of room for improvement with your own code, start with that. Find other's solutions by browsing the branches (just like you would to comment on a random person's solution).
+Remember the credit card validator from last week? It's a doozy for most people. In this challenge, you've been provided with a passing solution. Your job is to refactor it  to achieve optimal readability. Remember, readable code isn't necessarily the shortest.
 
-Paste the original unrefactored code in your my_solution.rb, and as you refactor, make notes of the changes you are making to achieve optimal readability. Include those notes along with the refactored version in your [my_solution.rb](my_solution.rb) file.
+If you would like to do this twice, you may find another solution to refactor as well.
 
 #### Goals of Readable Code
 - Eliminate repetition by using looping and branching wisely

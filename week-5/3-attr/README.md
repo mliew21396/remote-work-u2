@@ -51,6 +51,8 @@ Create a class called `NameData` and a class called `Greetings`. `NameData` will
 
 You want to give the `Greetings` class access to the `NameData` class methods using the attr methods. (Note: please do not use global variables or inheritance to do this, stick with applying the attr methods).
 
+Below is an illustration of this concept with two generic classes, `Emitter`, which has some data we need, and `Receiver` which uses the data from `Emitter`. 
+
 ```ruby
 class Emitter
   def important_method

@@ -15,6 +15,7 @@ If you haven't already purchased a copy of * The Well-Grounded Rubyist*, you'll 
 6. [Die Class](6-die-class)
 7. [Technical Blog](7-technical-blog.md)
 8. [Cultural Blog](8-cultural-blog.md)
+9. [GPS 2.1](9-gps2-1) **Don't look until your GPS Session!**
 9. [Accountability Group Check-in](9-accountability-group.md)
 10. [BONUS Challenges](10-BONUS-challenges) *These are optional*
 

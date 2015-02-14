@@ -12,6 +12,8 @@
 ## Summary
 Your future career will require you to deal with a lot of "legacy code," i.e. code that works as intended, but is difficult to modify. Sometimes you will be given the option to start over or modify the original code. Other times you will be forced to work with legacy code due to time or budget constraints. In this challenge, you will need to refactor the existing code, while making it work the same way. The driver test code should still print "true" without being modified (apart from one test - figure out why!).
 
+Releases
+
 ## Release 0: Run the code
 Whenever you get a set of code, you want to run it to make sure it works. Run the [my_solution.rb](my_solution.rb) file in your terminal before making any changes.
 

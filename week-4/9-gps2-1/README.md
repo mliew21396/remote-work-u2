@@ -1,0 +1,62 @@
+[Week 4 Home](../)
+
+# U2.W4: Print a Pretty Right Triangle
+
+**This is a Guided Pairing Session challenge for Unit 2. Please do not look at the challenge until your Guided Pairing Session.**
+
+## Learning Competencies
+- Define a method that accepts and uses arguments
+- Iterate over arrays
+- Apply string, array, hash, and/or enumerable methods
+
+## Summary
+Write a method `print_triangle` which takes at its input an integer representing the number of rows to print, and prints out a right triangle consisting of `*` characters, one line per row.
+
+For example, `print_triangle(5)` should print out:
+
+```text
+*
+**
+***
+****
+*****
+```
+
+And `print_triangle(2)` should print out:
+
+```text
+*
+**
+```
+
+If we pass in `0` it should print nothing (not even an empty line).
+
+## Releases
+
+## Release 0: Pseudocode
+Consider what you need to do to solve the challenge with your pair. Write this down as [pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md) in your solution file.
+
+If you are unsure what pseudocode is, discuss it with your pair first.
+
+## Release 1: Initial Solution
+Convert your pseudocode into a working solution in the [my_solution.rb](my_solution.rb) file.
+
+Be sure to call your methods in the my_solution file and run them in your terminal to see what is happening.
+
+## Release 2: Test
+Run the tests to make sure your code passes.
+
+## Release 3: Refactor
+With your pair, think about ways to refactor this code. Is it readable? Would a new person be able to understand your solution quickly if they were to glance at it now?
+
+Make sure all the tests pass before moving on.
+
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+
+When you are finished with the challenge, reflect on the process with your pair. Write your reflection in the reflection section of the [my_solution.rb](my_solution.rb) file.
+
+## Release 5: Submit Feedback for your Pair
+After your pairing session is over, submit feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback/new).
+
+## Release 6: Submit your challenge!
+Push your solution to GitHub in the [my_solution.rb](my_solution.rb) file. Remember to include your pair's name!

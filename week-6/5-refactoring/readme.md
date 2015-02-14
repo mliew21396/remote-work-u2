@@ -8,28 +8,24 @@
 - Refactor for clarity and readability
 
 ## Summary
-Using the goals below, choose a challenge solution from [Class Warfare, Validate a Credit Card Number](../../week-5/6-validate-credit-card). This can be anyone's solution, but if you notice there's a lot of room for improvement with your own code, start with that. Find other's solutions by browsing the branches (just like you would to comment on a random person's solution).
-
-Paste the original unrefactored code in your my_solution.rb, and as you refactor, make notes of the changes you are making to achieve optimal readability. Include those notes along with the refactored version in your [my_solution.rb](my_solution.rb) file.
+Remember the credit card validator from last week? It's a doozy for most people. In this challenge, you've been provided with a passing solution. Your job is to refactor it to achieve optimal readability keeping in mind readable code isn't necessarily the shortest.
 
 #### Goals of Readable Code
 - Eliminate repetition by using looping and branching wisely
 - Complex operations are decomposed into constituent parts
-- Descriptive names for methods, variables, classes, and modules
+- Descriptive names for methods, variables, and classes
 - Methods are small and behavior is obvious
 - Minimizes need for comments because the code tells you what it is doing
 - Code is formatted with proper indentation for optimal readability
 
-## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
-
-## Release 1: Comment the code
+## Release 0: Comment the code
 Comment each chunk of code in the original solution
 
-## Release 2: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) the solution for readability
+## Release 1: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) the solution for readability
 
-## Release 3: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 2: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 4: Push your solution to Github
+## Release 3: Push your solution to Github
 
-## Release 5: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
+## Release 4: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
 **Optional but HIGHLY encouraged!**

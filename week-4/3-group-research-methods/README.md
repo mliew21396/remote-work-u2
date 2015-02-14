@@ -115,11 +115,11 @@ my_array_splitting_method(i_want_pets)
 #=> [3, 2],["I", "want", "pets", "but", "only", "have"]]
 ```
 
-Then create a `my_hash_splitting_method` that will separate the hash into two arrays based on the value. It should return two arrays, the first which includes all pets who are three years of age or younger and the second that includes all other pets.T his should not alter the original data structure.
+Then create a `my_hash_splitting_method` that will separate the hash into two arrays based on the value. It should return two arrays, the first which includes all pets who are four years of age or younger and the second that includes all other pets.T his should not alter the original data structure.
 
 ```ruby
-my_hash_splitting_method(my_family_pets_ages, 3)
-#=> [[["Hoobie", 3], ["Annabelle", 0], ["Ditto", 3]], [["Evi", 6], ["George", 12], ["Bogart", 4], ["Poly", 4]]]
+my_hash_splitting_method(my_family_pets_ages, 4)
+#=> [[["Hoobie", 3], ["Annabelle", 0], ["Ditto", 3], ["Bogart", 4], ["Poly", 4]], [["Evi", 6], ["George", 12]]]
 ```
 
 ## Release 1: Teach Others

@@ -35,7 +35,7 @@ Use [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/mast
   Once you've done all of that, consider what you would need to do to separate portions of this method into smaller methods within a class structure.
 
   You might think about methods to:
-  - Shift letters from one to another based on a shift that is defined when the method is called. (i.e. `letter_convertor`(4)`)
+  - Shift letters from one to another based on a shift that is defined when the method is called. (i.e. `letter_convertor(4)`)
   - A method to convert punctuation
   - A method to exaggerate numbers
   - A method to combine outputs from the above methods and "join" a sentence.

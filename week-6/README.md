@@ -6,6 +6,8 @@ Last week you started creating your own objects in Ruby. This week you will be w
 
 You'll also want to read and review concepts in the *Well-Grounded Rubyist*. We highly suggest using the index often to help you find pertinent sections to read. If you haven't read all of the chapters listed in the [week 3 bonus challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/11-BONUS-challenges/Well-Grounded-Rubyist.md), make sure to read those.
 
+Please keep track of the amount of time you spend reading this week. We will ask you to estimate it in the submission form.
+
 ## Challenges
 
 1. [Drawer Debugger](1-drawer-debugger)

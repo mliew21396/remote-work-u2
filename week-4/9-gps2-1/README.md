@@ -12,9 +12,9 @@
 - Apply string, array, hash, and/or enumerable methods
 
 ## Summary
-Write a method `print_triangle` which takes at its input an integer representing the number of rows to print, and prints out a right triangle consisting of `*` characters, one line per row.
+In this challenge, you and your pair will build a `print_triangle` method that takes an integer as an argument. The integer represents the number of rows to print. The method should print a right triangle consisting of `*` characters. Each line should consist of one asterisk times the row it's on.
 
-For example, `print_triangle(5)` should print out:
+For example, `print_triangle(5)` should print:
 
 ```text
 *
@@ -31,7 +31,7 @@ And `print_triangle(2)` should print out:
 **
 ```
 
-If we pass in `0` it should print nothing (not even an empty line).
+If a negative number or `0` is passed as an argument, the method should not print anything (not even an empty line).
 
 ## Releases
 
@@ -53,12 +53,17 @@ With your pair, think about ways to refactor this code. Is it readable? Would a 
 
 Make sure all the tests pass before moving on.
 
-## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 4: Add an `ArgumentError`
+Instead of printing nothing for "0" or a negative number, research and implement an `ArgumentError`.
+
+You'll need to comment out the test that checks nothing is printed for a "0" in the rspec file and uncomment the commented tests to test this.
+
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 When you are finished with the challenge, reflect on the process with your pair. Write your reflection in the reflection section of the [my_solution.rb](my_solution.rb) file.
 
-## Release 5: Submit Feedback for your Pair
+## Release 6: Submit Feedback for your Pair
 After your pairing session is over, submit feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback/new).
 
-## Release 6: Submit your challenge!
+## Release 7: Submit your challenge!
 Push your solution to GitHub in the [my_solution.rb](my_solution.rb) file. Remember to include your pair's name!

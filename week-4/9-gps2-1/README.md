@@ -5,6 +5,8 @@
 **This is a Guided Pairing Session challenge for Unit 2. Please do not look at the challenge until your Guided Pairing Session.**
 
 ## Learning Competencies
+- Break a large problem down into smaller steps
+- Implement a method based on pseudocode
 - Define a method that accepts and uses arguments
 - Iterate over arrays
 - Apply string, array, hash, and/or enumerable methods

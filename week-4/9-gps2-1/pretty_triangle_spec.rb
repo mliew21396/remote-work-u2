@@ -7,13 +7,6 @@ describe 'print_triangle' do
     $stdout = @output
   end
 
-  # Comment this test if you do the Optional Release.
-  it "prints nothing if given 0" do
-    print_triangle(0)
-    @output.rewind
-    expect(@output.read).to be_empty
-  end
-
   it "prints '*' if given 1" do
     print_triangle(1)
     @output.rewind
@@ -32,16 +25,22 @@ describe 'print_triangle' do
     expect(@output.read.split("\n").last).to eq '*'*100
   end
 
+  # Comment this test if you do the Optional Release.
+  it "prints nothing if given 0" do
+    print_triangle(0)
+    @output.rewind
+    expect(@output.read).to be_empty
+  end
+
+  # Uncomment these tests if you do the Optional Release
+  # it 'raises ArgumentError if argument is 0' do
+  #   expect{print_triangle(0)}.to raise_error(ArgumentError)
+  # end
+  # it 'raises ArgumentError if argument is negative integer' do
+  #   expect{print_triangle(-1)}.to raise_error(ArgumentError)
+  # end
+
   after(:each) do
     $stdout = @old_stdout
   end
-  
-  # Uncomment these tests if you do the Optional Release
-  # it 'raises ArgumentError if argument is 0' do
-  #   expect { CreditCard.new(0) }.to raise_error(ArgumentError)
-  # end
-  
-  # it 'raises ArgumentError if argument is negative integer' do
-  #   expect { CreditCard.new(-2) }.to raise_error(ArgumentError)
-  # end
 end

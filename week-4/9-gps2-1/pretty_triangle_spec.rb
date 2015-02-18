@@ -7,6 +7,7 @@ describe 'print_triangle' do
     $stdout = @output
   end
 
+  # Comment this test if you do the Optional Release.
   it "prints nothing if given 0" do
     print_triangle(0)
     @output.rewind
@@ -34,4 +35,13 @@ describe 'print_triangle' do
   after(:each) do
     $stdout = @old_stdout
   end
+  
+  # Uncomment these tests if you do the Optional Release
+  # it 'raises ArgumentError if argument is 0' do
+  #   expect { CreditCard.new(0) }.to raise_error(ArgumentError)
+  # end
+  
+  # it 'raises ArgumentError if argument is negative integer' do
+  #   expect { CreditCard.new(-2) }.to raise_error(ArgumentError)
+  # end
 end

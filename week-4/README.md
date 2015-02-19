@@ -1,4 +1,4 @@
-# Ruby Collection Types and Enumerables
+# Week 4: Ruby Collection Types and Enumerables
 
 This week you will be working on writing command-line programs focusing Ruby collection types, enumerables, and basic testing.
 

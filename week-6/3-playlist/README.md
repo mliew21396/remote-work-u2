@@ -18,7 +18,7 @@ Use Error-Driven Development (EDD) to solve the challenge. To do this you will n
 
 After you've fixed each error, you should have fun filling in each of the methods -- but don't forget to go through the normal steps in your coding revelry!
 
-NOTE: The driver code references a method, `includes?`, which is not a typo. You should make your own `includes?` method.
+NOTE: The driver code references a method, `includes?`, which is not a typo. You should make your own `includes?` method. You will also want to look into the splat `*` operator for this challenge. 
 
 ## Release 0: Review the [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
 Convert as many of the driver code examples into driver test code based on the way you want to implement each method.

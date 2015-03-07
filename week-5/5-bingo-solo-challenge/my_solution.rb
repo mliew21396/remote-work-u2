@@ -25,11 +25,8 @@
 
 class BingoBoard
 
-  def initialize
-    # populates an 5x5 array with numbers 1-100
-    # to make this accessible across your methods within this class, I made
-    # this an instance variable. @ = instance variable
-    @bingo_board = Array.new(5) {Array(5.times.map{rand(1..100)})}
+  def initialize(board)
+    @bingo_board = board
   end
 
 
@@ -40,7 +37,13 @@ end
 
 
 # Release 2: DRIVER TESTS GO BELOW THIS LINE
+board = [[47, 44, 71, 8, 88],
+        [22, 69, 75, 65, 73],
+        [83, 85, 97, 89, 57],
+        [25, 31, 96, 68, 51],
+        [75, 70, 54, 80, 83]]
 
+new_game = BingoBoard.new(board)
 
 
 # Release 4: Reflection

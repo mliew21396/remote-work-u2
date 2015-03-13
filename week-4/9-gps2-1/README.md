@@ -10,6 +10,7 @@
 - Define a method that accepts and uses arguments
 - Iterate over arrays
 - Apply string, array, hash, and/or enumerable methods
+- Explain the difference between `puts` and `return`
 
 ## Summary
 In this challenge, you and your pair will build a `print_triangle` method that takes an integer as an argument. The integer represents the number of rows to print. The method should print a right triangle consisting of `*` characters. Each line should consist of one asterisk times the row it's on.
@@ -53,17 +54,20 @@ With your pair, think about ways to refactor this code. Is it readable? Would a 
 
 Make sure all the tests pass before moving on.
 
-## Release 4: Add an `ArgumentError`
+## Release 4: Returning values
+What does this method return? Explain your understanding of what `puts`, `print`, `p`, and `return` do. 
+
+## Release 5: Add an `ArgumentError`
 Instead of printing nothing for "0" or a negative number, research and implement an `ArgumentError`.
 
 You'll need to comment out the test that checks nothing is printed for a "0" in the rspec file and uncomment the commented tests to test this.
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 When you are finished with the challenge, reflect on the process with your pair. Write your reflection in the reflection section of the [my_solution.rb](my_solution.rb) file.
 
-## Release 6: Submit Feedback for your Pair
+## Release 7: Submit Feedback for your Pair
 After your pairing session is over, submit feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback/new).
 
-## Release 7: Submit your challenge!
+## Release 8: Submit your challenge!
 Push your solution to GitHub in the [my_solution.rb](my_solution.rb) file. Remember to include your pair's name!

@@ -16,8 +16,8 @@ If you haven't already purchased a copy of * The Well-Grounded Rubyist*, you'll 
 7. [Technical Blog](7-technical-blog.md)
 8. [Cultural Blog](8-cultural-blog.md)
 9. [GPS 2.1](9-gps2-1) **Don't look until your GPS Session!**
-9. [Accountability Group Check-in](9-accountability-group.md)
-10. [BONUS Challenges](10-BONUS-challenges) *These are optional*
+10. [Accountability Group Check-in](10-accountability-group.md)
+11. [BONUS Challenges](11-BONUS-challenges) *These are optional*
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W4.** Only other DBC students can actually see your repositories because they are private.
 

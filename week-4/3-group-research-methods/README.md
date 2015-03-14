@@ -18,12 +18,15 @@ Keep in mind the differences between destructive and non-destructive methods. So
 
 
 ## Releases
+
 ## Release 0:
 Refer to your accountability group spreadsheet to find your role.
 
 Each person has a challenge to solve. This does not need to be done in any order.
 
 If you have fewer than five accountability group members, only do as many of the challenges as you have people. Your goal is to learn how to use existing methods and teach others, not to learn specific methods. If you only have three people, only do the first three challenges.
+
+That said, doing only your own release is the minimum. If you have time after finishing the week, we suggest doing all of these.
 
 Use the [Ruby Docs](http://ruby-doc.org/) find methods you can use
 on arrays and a hashes, and use them to complete each goal.
@@ -44,7 +47,7 @@ and returns a new array of the words that contain that letter.
 
 For example:
 ```ruby
-my_array_finding_method(i_want_pets, "t") 
+my_array_finding_method(i_want_pets, "t")
 #=> should return ["want","pets","but"]
 ```
 
@@ -52,7 +55,7 @@ Create a method `my_hash_finding_method` that takes a `Hash` and number as argum
 returns a new array of pet names by age.
 Ex.
 ```ruby
-my_hash_finding_method(my_family_pets_ages, 3) 
+my_hash_finding_method(my_family_pets_ages, 3)
 #=> should return ["Hoobie", "Ditto"]
 ```
 
@@ -78,11 +81,11 @@ my_hash_modification_method!(my_family_pets_ages, 2)
 I want to create a sorting method that alphabetizes an array. I also want to create a sorting method that arranges the data in my hash by age (starting with the youngest first). I want to see what happens when I do this, but I don't want it to modify the existing data.
 
 ```ruby
-my_array_sorting_method(i_want_pets) 
+my_array_sorting_method(i_want_pets)
 #=> [2, 3, "I", "but", "have", "only", "pets", "want"]
 
 
-my_hash_sorting_method(my_family_pets_ages) 
+my_hash_sorting_method(my_family_pets_ages)
 #=> [["Annabelle", 0], ["Ditto", 3], ["Hoobie", 3], ["Bogart", 4], ["Poly", 4], ["Evi", 6], ["George", 12]]
 
 ```
@@ -111,7 +114,7 @@ Create a `my_array_splitting_method` that will split the original array into two
 
 For example:
 ```ruby
-my_array_splitting_method(i_want_pets) 
+my_array_splitting_method(i_want_pets)
 #=> [3, 2],["I", "want", "pets", "but", "only", "have"]]
 ```
 

@@ -10,6 +10,8 @@
 This week you will look into a new topic called stereotype threat. DBC is an amazing place, but it's also easy
 to suffer from impostor syndrome or stereotype threat depending on your background. It's a good idea to learn a bit about these concepts to prepare yourself for the possibility. Remember to time-box about an hour for each blog post.
 
+For some people, particularly those in marginalized groups, this prompt may seem to easy. Sharing your experiences can help others gain perspective. That said, only share what you feel comfortable sharing.
+
 ## Release 0: Copy the Template
 
 In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `c6-stereotype-threat.html`.

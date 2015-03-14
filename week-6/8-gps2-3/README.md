@@ -17,6 +17,8 @@ The C.D.C. (Centers for Disease Control) is concerned about a recent form of dea
 
 The initial program is not very D.R.Y., but the program designer went on vacation and your boss needs the model to work efficiently so they can present their findings to Congress. You've been brought in to make the code more efficient and expandable for later features such as incorporating demographic data.
 
+## Releases
+
 ## Release 0: Run the code
 Look at the output. Look at the input (it's in the other file). Explain what the program is doing.
 

@@ -1,7 +1,6 @@
 [Week 4 Home](../../)
 
-# U2.W4: Calculate the Mode
-**Pairing Challenge**
+# U2.W4: Calculate the Mode Pairing Challenge
 
 ## Learning Competencies
 - Break a large problem down into smaller steps

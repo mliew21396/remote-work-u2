@@ -9,7 +9,29 @@
 - Differentiate between and produce destructive and non-destructive methods
 
 ## Summary:
-Implement two new methods `pad` and `pad!`. Each method accepts an array, a minimum size (non-negative integer) for the array, and an optional pad value as arguments.
+In this challenge, you'll be working with destructive and non-destructive methods. In Ruby, the general convention is to add a "bang" (`!`) to destructive methods (although some methods are destructive and don't have a bang). Destructive methods modify the original data structure permanently. Non-Destructive methods will return a new array and will not modify the existing array.
+
+One example of this is shown below:
+
+```ruby
+# Non-Destructive
+irb(main):001:0> trees = ["Birch", "Fig", "Lime", "Pine"]
+=> ["Birch", "Fig", "Lime", "Pine"]
+irb(main):002:0> trees.collect {|tree| tree + " Tree"}
+=> ["Birch Tree", "Fig Tree", "Lime Tree", "Pine Tree"]
+irb(main):003:0> trees
+=> ["Birch", "Fig", "Lime", "Pine"] #trees has not been modified
+
+# Destructive
+irb(main):004:0> trees.collect! {|tree| tree + " Tree"}
+=> ["Birch Tree", "Fig Tree", "Lime Tree", "Pine Tree"]
+irb(main):005:0> trees
+=> ["Birch Tree", "Fig Tree", "Lime Tree", "Pine Tree"] #trees has been
+# permanently modified.
+
+```
+
+Implement two new methods `pad` and `pad!`. Each method accepts an array, a minimum size (non-negative integer) for the array, and an optional argument of what the array should be "padded" with (see the example with "apple" below).
 
 If the array's length is less than the minimum size, `pad` should return a new array padded with the pad value up to the minimum size.
 

@@ -31,7 +31,7 @@ irb(main):005:0> trees
 
 ```
 
-Implement two new methods `pad` and `pad!`. Each method accepts an array, a minimum size (non-negative integer) for the array, and an optional argument of what the array should be "padded" with (see the example with "apple" below).
+In this challenge, you'll want to write two methods `pad` and `pad!`. Each method accepts an array, a minimum size (non-negative integer) for the array, and an optional argument of what the array should be "padded" with (see the example with "apple" below).
 
 If the array's length is less than the minimum size, `pad` should return a new array padded with the pad value up to the minimum size.
 

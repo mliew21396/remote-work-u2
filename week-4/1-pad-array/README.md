@@ -66,7 +66,7 @@ That is, `pad([1,2,3], 3)` should return `[1,2,3]`.
 
 `pad!` behaves identically to `pad` except that it modifies the original array.
 
-We took you through the coding process in the last challenge. From now on, we will use these links to outline the coding process for each challenge. It is required that you complete each non-optional release.
+In this challenge, we will ask you to follow a specific coding process. From now on, we will use these links to outline the coding process for each challenge. It is required that you complete each non-optional release.
 
 ## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
@@ -81,7 +81,7 @@ Make sure your code still passes the tests!
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 ## Release 5: Commit and Push!
-If you want feedback, continue using **#DBCU2W4** to request it!
+If you want feedback, please post your links to Twitter using the hashtag **#DBCU2W4** to request it!
 
 ## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional, but Highly encouraged).
 

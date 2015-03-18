@@ -4,7 +4,7 @@ This week you will be working on writing command-line programs focusing Ruby col
 
 **Follow each step we ask you (in order): write pseudocode, initial solution, refactoring, reflection.** If you want guidance on how to complete these steps, reference the links provided. Each step is mandatory, so do not skip any section. If you have questions about any instructions, ask us.
 
-If you haven't already purchased a copy of * The Well-Grounded Rubyist*, you'll want to do so. Take a look at [Week 3's bonus challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/11-BONUS-challenges/Well-Grounded-Rubyist.md) for info on which chapters to read. You don't need to read every chapter thoroughly; skim where you need to. Take more time with concepts you don't feel comfortable with. DBC instructors can't emphasize enough how helpful the book is.
+If you haven't already purchased a copy of *The Well-Grounded Rubyist*, you'll want to do so. Take a look at [Week 3's bonus challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/11-BONUS-challenges/Well-Grounded-Rubyist.md) for info on which chapters to read. You don't need to read every chapter thoroughly; skim where you need to. Take more time with concepts you don't feel comfortable with. DBC instructors can't emphasize enough how helpful the book is.
 
 ## Challenges
 1. [Pad an Array](1-pad-array)

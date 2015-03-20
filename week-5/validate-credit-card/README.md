@@ -19,7 +19,7 @@ While the word [algorithm](http://en.wikipedia.org/wiki/Algorithm) sounds scary 
 
 If the above steps are followed we get cooked pasta!
 
-For this challenge, we will need to break down the algorithm into the following steps. You will probably want to break these down into individual methods.
+For this challenge, you will need to break down the algorithm into the following steps. You will probably want to break these down into individual methods.
 
 1. Starting with the second to last digit, double every other digit until you reach the first digit.
 
@@ -36,7 +36,7 @@ Step 3: 70 (total above) % 10 == 0
 Step 4: Profit
 ```
 
-Your class will need to return `true` or `false` when we call the `#check_card` method. Your class needs to be initialized with a credit card number that is exactly 16 digits otherwise you should receive an `ArgumentError`.
+Your class will need to return `true` or `false` when we call the `#check_card` method. Your class needs to be initialized with a credit card number that is exactly 16 digits otherwise you should receive an `ArgumentError`. Remember, methods can call many other methods, so you don't have to create one ginormous `#check_card` method if you don't want to.
 
 ## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
@@ -48,7 +48,10 @@ Make sure your code passes the tests before moving on.
 
 ## Release 2: Translate the tests
 
-Translate at least 3 of the tests into [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) and include it in the driver test code section. If the tests are failing to catch a problem, try writing your own driver test code for it.
+Write three tests using [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) (They should return `true` or `false`), that tests the following scenarios.
+
+1. Returns `true` if the card is valid (use `CreditCard.new(4408041234567901)`).
+2. Returns `true` if the card is invalid (use `CreditCard.new(4408041234567906)`).
 
 ## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
 

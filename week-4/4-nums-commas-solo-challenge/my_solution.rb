@@ -1,9 +1,10 @@
 # U2.W4: Numbers to Commas Solo Challenge
 
+# I spent [] hours on this challenge.
+
 # Complete each step below according to the challenge directions and
 # include it in this file. Also make sure everything that isn't code
 # is commented in the file.
-
 
 # 0. Pseudocode
 

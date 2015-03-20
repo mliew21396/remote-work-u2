@@ -1,11 +1,15 @@
 # U2.W4: Pad an Array
 
+# I worked on this challenge [by myself, with: ]
+
+# I spent [] hours on this challenge.
+
 
 # Complete each step below according to the challenge directions and
 # include it in this file. Also make sure everything that isn't code
 # is commented in the file.
 
-# I worked on this challenge [by myself, with: ]
+
 
 # 0. Pseudocode
 

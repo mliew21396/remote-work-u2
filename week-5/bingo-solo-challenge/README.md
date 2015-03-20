@@ -10,7 +10,7 @@
 
 ## Summary
 
-Bingo is a great real world example to demonstrate our knowledge of nested arrays.
+Bingo is a great real world example to demonstrate your new knowledge of nested arrays.
 
 <img src="http://cf.chucklesnetwork.com/items/7/5/7/0/0/original/i-heard-u-like-arrays-so-we-put-an-array-in-your-array.jpg" width="250px" height="250px" />
 
@@ -50,26 +50,27 @@ bingo_board = [[47, 44, 71, 8, 88],
 Break these goals down into implementable pseudocode.
 
 ## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+
 Translate your pseudocode into code. The initialize method has been written for you, but you will need others to complete the challenge.
 
 ## Release 2: [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
 
-This class randomly generates a board each time you create a new BingoBoard Object, so you need to think creatively about how to test your outputs. You may hard coding the board to write tests if you need to for the initial solution. When you refactor use the random board for your tests.
+This class randomly generates a board each time you create a new BingoBoard Object, so you need to think creatively about how to test your outputs. You may hard code1 the board to write tests if you need to for the initial solution. When you refactor use the random board for your tests.
 
 
 ## Release 3: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 Refactor your initial solution. Run the driver tests often to determine when you break something.
 
-## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-## Release 5: Publish
-Commit your changes and push your solution to GitHub.
-
-##BONUS Release 6: True Bingo Board
+##Release 4: True Bingo Board (Optional)
 
 The bingo board given is just populated with ramdom numbers from 1 - 100. However, true bingo boards are constructed a bit differently.  Traditionally the pattern is like this: "B" (numbers 1–15), "I" (numbers 16–30), "N" (numbers 31–45), "G" (numbers 46–60), and "O" (numbers 61–75) with a free space in the middle.
 
 Create a method that creates a legal bingo board.
+
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+
+## Release 6: Publish
+Commit your changes and push your solution to GitHub.
 
 ## External Resources
 

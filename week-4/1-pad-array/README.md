@@ -9,7 +9,29 @@
 - Differentiate between and produce destructive and non-destructive methods
 
 ## Summary:
-Implement two new methods `pad` and `pad!`. Each method accepts an array, a minimum size (non-negative integer) for the array, and an optional pad value as arguments.
+In this challenge, you'll be working with destructive and non-destructive methods. In Ruby, the general convention is to add a "bang" (`!`) to destructive methods (although some methods are destructive and don't have a bang). Destructive methods modify the original data structure permanently. Non-Destructive methods will return a new array and will not modify the existing array.
+
+One example of this is shown below:
+
+```ruby
+# Non-Destructive
+irb(main):001:0> trees = ["Birch", "Fig", "Lime", "Pine"]
+=> ["Birch", "Fig", "Lime", "Pine"]
+irb(main):002:0> trees.collect {|tree| tree + " Tree"}
+=> ["Birch Tree", "Fig Tree", "Lime Tree", "Pine Tree"]
+irb(main):003:0> trees
+=> ["Birch", "Fig", "Lime", "Pine"] #trees has not been modified
+
+# Destructive
+irb(main):004:0> trees.collect! {|tree| tree + " Tree"}
+=> ["Birch Tree", "Fig Tree", "Lime Tree", "Pine Tree"]
+irb(main):005:0> trees
+=> ["Birch Tree", "Fig Tree", "Lime Tree", "Pine Tree"] #trees has been
+# permanently modified.
+
+```
+
+In this challenge, you'll want to write two methods `pad` and `pad!`. Each method accepts an array, a minimum size (non-negative integer) for the array, and an optional argument of what the array should be "padded" with (see the example with "apple" below).
 
 If the array's length is less than the minimum size, `pad` should return a new array padded with the pad value up to the minimum size.
 
@@ -44,7 +66,7 @@ That is, `pad([1,2,3], 3)` should return `[1,2,3]`.
 
 `pad!` behaves identically to `pad` except that it modifies the original array.
 
-We took you through the coding process in the last challenge. From now on, we will use these links to outline the coding process for each challenge. It is required that you complete each non-optional release.
+In this challenge, we will ask you to follow a specific coding process. From now on, we will use these links to outline the coding process for each challenge. It is required that you complete each non-optional release.
 
 ## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
@@ -59,7 +81,7 @@ Make sure your code still passes the tests!
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 ## Release 5: Commit and Push!
-If you want feedback, continue using **#DBCU2W4** to request it!
+If you want feedback, please post your links to Twitter using the hashtag **#DBCU2W4** to request it!
 
 ## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional, but Highly encouraged).
 

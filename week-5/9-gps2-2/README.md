@@ -12,6 +12,8 @@
 ## Summary
 Your future career will require you to deal with a lot of "legacy code," i.e. code that works as intended, but is difficult to modify. Sometimes you will be given the option to start over or modify the original code. Other times you will be forced to work with legacy code due to time or budget constraints. In this challenge, you will need to refactor the existing code, while making it work the same way. The driver test code should still print "true" without being modified (apart from one test - figure out why!).
 
+Releases
+
 ## Release 0: Run the code
 Whenever you get a set of code, you want to run it to make sure it works. Run the [my_solution.rb](my_solution.rb) file in your terminal before making any changes.
 
@@ -53,11 +55,9 @@ What does the value represent for each key in the hash?
 ## Release 7: While...
 - For this release you'll need to read through the rest of the code and figure out what `while` is doing.
 - Properly indent the code in "Release 7" and "Release 8" as you read through it.
-- Based on what you've read, what is the purpose of the `while` loop (if any). Write that as comment below "Release 7."
-- Refactor as necessary.
-- Run the code after making any changes to check it still works!
+- Based on what you've read, what is the purpose of the `while` loop? Write that as comment below "Release 7."
 
-## Release 8: The main event
+## Release 8: Why is it all so terrible?!?! (Optional)
 - You should already know what this chunk of code does, so write that in a comment below "Release 8."
 - What do you think about the way the code works from releases 5 - 8? Does it make sense to you? Is there a better way to do this?
 - Look at the last line of Driver Test Code. As you can see, the code isn't even working correctly!
@@ -65,17 +65,10 @@ What does the value represent for each key in the hash?
 - Change that line of Driver Test code so it makes sense.
 - Run the code after making the changes to ensure it still works.
 
-## Release 9: Submit Feedback for your Pair
-After your pairing session is over, submit feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback/new).
-
-## Release 10: Submit your challenge!
-Push your solution to GitHub in the [my_solution.rb](my_solution.rb) file. Remember to include your pair's name!
-
-## Release 11: (Optional)
+## Release 9: Refactor for expandability (Optional)
 (In case you didn't get enough of the delicious horrible-code)
 
-Expand the program for the customer based on their requests. Use the methodology you've been practicing. ([Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md), [Initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md), [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md), [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md), [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)).
-
+Expand the program for the customer based on their requests. Use the methodology you've been practicing.
 
 Hi! I am a small bakery owner who has a Ruby program that calculates the
 number of items I need to bake for a customer with a favorite food.
@@ -84,4 +77,8 @@ I love the program as it is, but I want to add a couple of features:
 1. The owner wants to have options to include a mix of all items, rather than favorite foods.
 2. The owner wants to add the following items to the menu: pudding (feeds two people), bundt cake (feeds 4 people), and mega-cupcakes (feeds 3 people).
 
+## Release 10: Submit Feedback for your Pair
+After your pairing session is over, submit feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback/new).
 
+## Release 11: Submit your challenge!
+Push your solution to GitHub in the [my_solution.rb](my_solution.rb) file. Remember to include your pair's name!

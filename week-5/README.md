@@ -15,11 +15,11 @@ You'll want to focus on reading the chapters 3 and 5 of The *Well-Grounded Rubyi
 2. [Build a Simple Guessing Game](2-guessing-game)
 3. [Attr Challenge](3-attr)
 4. [Cipher Refactoring Challenge](4-cipher-challenge) *Mandatory Pairing Challenge*
-5. [Bingo SOLO CHALLENGE](5-bingo-solo-challenge) *Read through this early!*
+5. [Bingo SOLO CHALLENGE](5-bingo-solo-challenge) *Read through this early - it is a challenging problem*
 6. [Validate Credit Card](6-validate-credit-card)
 7. [Technical Blog](7-technical-blog.md)
 8. [Cultural Blog](8-cultural-blog.md)
-9. [GPS 2.1 - Don't look until your GPS Session!](9-gps2-1)
+9. [GPS 2.2](9-gps2-2) **Don't look until your GPS Session!**
 10. [Accountability Groups](10-accountability-group.md)
 11. [BONUS: Challenges](11-BONUS-challenges) *Optional*
 

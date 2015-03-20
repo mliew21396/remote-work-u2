@@ -24,13 +24,13 @@ What kinds of variables does Ruby support? Where are they accessible? When would
 Research class methods and desribe what they are, how to use them, and when you would use them.
 
 #### Option 4: Blocs, Procs, and Lambdas
-What are these? How do they work?
+What are these? How do they work? Procs and Lambdas are very rarely used at your stage of learning, but they are good to learn about. You should try to be comfortable with blocs by the end of Phase 0.
 
 #### Option 5: Classes vs Modules
 Describe and explain the purposes of classes and modules. How are they similar? How do they compare?
 
 #### Option 6: Inheritance vs Composition
-What is Ruby inheritance? What is composition? Which have you used this week? Create your own examples to explain how to use each.
+What is Ruby inheritance? What is composition? Which have you used this week? Create your own examples to explain how to use each. See the [BONUS challenges](10-BONUS-challenges) for another challenge that addresses these concepts.
 
 ## Release 2: Blog it
 Write a blog post that teaches your audience about the topic. Think of examples to use to teach and show your audience what you are describing.

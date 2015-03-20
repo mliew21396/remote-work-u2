@@ -32,7 +32,7 @@ angels = Song.new("Angels", "Within Temptation")
 
 my_playlist.add(lying_from_you, angels)
 p my_playlist.num_of_tracks == 5
-going_under.play #How would you model a song getting "played" in Ruby?
+going_under.play #How would you model a song getting "played" in Ruby? I used `puts` and `sleep`. You can model this however you want.
 my_playlist.remove(angels)
 p my_playlist.includes?(lying_from_you) == true
 my_playlist.play_all

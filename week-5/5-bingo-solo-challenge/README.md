@@ -10,11 +10,9 @@
 
 ## Summary
 
-By now, you have had some practice using arrays `[ ]` and hashes `{ }`. These structures are great for holding collections of data. In this exercise, we will be look at a nested array, or an array that contains arrays in it.
+Bingo is a great real world example to demonstrate our knowledge of nested arrays.
 
 <img src="http://cf.chucklesnetwork.com/items/7/5/7/0/0/original/i-heard-u-like-arrays-so-we-put-an-array-in-your-array.jpg" width="250px" height="250px" />
-
-This sounds complicated, but you will find that it is almost the same as accessing a one-dimensional array. You will probably want to practice looping through nested arrays in IRB to get the hang of it first. This challenge may take you a long time, so make sure to give yourself time to go through each step, and use good time-management skills. Take breaks when you get stuck. Don't power through it. If you are truly stuck and tired, you will be better off taking a break and returning to the challenge later.
 
 The first number in the sub-arrays correspond to the letter "B", the second "I", the third "N", the fourth "G", and the fifth "O". So if the call was N34, you would look in the third column for the number 34. If the number is on your board, you'll replace it with an "X."
 
@@ -69,12 +67,9 @@ Commit your changes and push your solution to GitHub.
 
 ##BONUS Release 6: True Bingo Board
 
-The bingo board generated with this code
-`    @bingo_board = Array.new(5) {Array(5.times.map{rand(1..100)})}
-`
-creates a 5x5 array with random numbers from 1-100, but that is not how true bingo boards work. Traditionally the pattern is like this: "B" (numbers 1–15), "I" (numbers 16–30), "N" (numbers 31–45), "G" (numbers 46–60), and "O" (numbers 61–75) with a free space in the middle.
+The bingo board given is just populated with ramdom numbers from 1 - 100. However, true bingo boards are constructed a bit differently.  Traditionally the pattern is like this: "B" (numbers 1–15), "I" (numbers 16–30), "N" (numbers 31–45), "G" (numbers 46–60), and "O" (numbers 61–75) with a free space in the middle.
 
-Instead of having the code create a random board, have it create a board that would be legal to play Bingo with.
+Create a method that creates a legal bingo board.
 
 ## External Resources
 

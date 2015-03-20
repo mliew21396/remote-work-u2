@@ -3,10 +3,9 @@
 # U2.W5: Nested Data Structures
 
 ## Learning Competencies
-- Create arrays and hashes
-- Access elements of arrays and hashes
-- Access elements of inner arrays and hashes
-- Use iterative devices to loop over data structures holding data structures
+- Create nested arrays and hashes
+- Access nested elements of arrays and hashes
+- Use iteration to loop over nested data structures
 
 ## Summary
 
@@ -20,13 +19,15 @@ to access the `false` value in the array, you could do `indexed_list[3]`.
 
 Then there is the hash:
 
-`key_value = {:symbol_key => "symbol value", "string_key" => "string value"}`
+`desserts = {:favorite_dessert => "yellow cake", "second favorite dessert" => "cookies"}`
 
-To access the `"string_value"` you could enter `key_value["string_key"]`
+To access the value of my favorite_dessert you can enter `desserts[:favorite_dessert]`.
 
-The array (indexed_list) and hash (key_value) are defined as 1 dimensional data structures. None of the elements hold another data structure. This means that if you were to iterate over either of the structures you could do so with one iterative structure.
 
-`indexed_list.each { |ele| puts ele }`
+
+The array (indexed_list) and hash (desserts) are defined as 1 dimensional data structures. None of the elements hold another data structure. This means that if you were to iterate over either of the structures you could do so with one iterative structure.
+
+`indexed_list.each { |element| puts element }`
 
 This code would output
 
@@ -38,13 +39,13 @@ false
 
 You can do the same for the hash:
 
-`key_value.each {|k,v| puts "#{k} and #{v}"}`
+`desserts.each {|preference ,dessert| puts "#{preference}: #{dessert}"}`
 
 would output
 
 ```ruby
-"symbol_key and symbol value"
-"string_key and string value"
+favorite_dessert: yellow cake
+second favorite dessert: cookies
 ```
 
 
@@ -58,7 +59,7 @@ How can you access the `"inner"` and `"array"` elements individually? You are go
 
 What would you expect `nested_array[1][0]` to output? Create a hypothesis before you run the code.
 
-Nested hashes are accessed similarly. Using your knowledge of how nested arrays are accessed, and how to access the elements of a hash, how would you access just the "Winner!" value of the inner hash:
+Nested hashes are accessed in a similar manner. Using your knowledge of how nested arrays are accessed, and how to access the elements of a hash, how would you access just the "Winner!" value of the inner hash:
 
 Copy and paste this hash into IRB and experiment:
 
@@ -72,32 +73,31 @@ Lets say you want to display all of the elements to the console, you can try the
 
 `nested_array = [1, ["inner", "array"], 2, 3]`
 
-`nested_array.each { |ele| puts ele}`
+`nested_array.each { |element| puts element}`
 
 What do you think this will output? Make a hypothesis and run this snippet in IRB. Did you get what you expected?
 
 Surprised? Now run this code:
 
-`nested_array.each { |ele| p ele}`
+`nested_array.each { |element| p element}`
 
 `puts` has lots of Ruby magic added to it, one of the things it does is iterate over inner arrays while outputting to the console. `p` will show exactly what is being compiled with less added magic than `puts`.
 
 Lets say you ONLY wanted to display the inner array's elements, one way to do it would be to write a conditional to see if any of the elements are an array, then display the contents.
 
 ```ruby
-nested_array.each do |ele|
-  if ele.kind_of?(Array)
-    ele.each {|inner| p inner}
+nested_array.each do |element|
+  if element.kind_of?(Array)
+    element.each {|inner| p inner}
   end
 end
 ```
 
-The `nested_array.each` iterates over all elements, then the `ele.each` iterates over inner arrays if there are any.
+The `nested_array.each` iterates over all elements, then the `element.each` iterates over inner arrays if there are any.
 
-This pattern (iterator inside an iterator) will be helpful when you are working with multi-dimensional data structures. If you need a refresher on iterating and enumerables, check out chapter 10 of the Well Grounded Rubyist.
+This pattern (iterator inside an iterator) will be helpful when you are working with multi-dimensional data structures. If you need a refresher on iterating and enumerables, check out chapter 10, "Collections central: Enumerable and Enumerator" of the *Well-Grounded Rubyist*.
 
-The big key when working with nested structure is thinking about what exactly the placeholder means. `ele` will equal 1 the first time the loop runs, ["inner", "array"] the second time, 2 the third, and 3 for the fourth and final time.
-
+The big key when working with nested structures is thinking about what exactly the placeholder means. `element` will equal 1 the first time the loop runs, ["inner", "array"] the second time, 2 the third, and 3 for the fourth and final time.
 
 ## Release 0: Nested Structure Golf
 
@@ -105,7 +105,7 @@ Open the `my_solution.rb` file, there are 3 nested data structures with a commen
 
 ## Release 1: Iterate Over Nested Structures
 
-Modify the original array and add 5 to each number.
+Using an enumerable method, modify the original array and add 5 to each number. *Should this be destructive or not destructive based on the language?*
 
 
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
@@ -118,5 +118,3 @@ Modify the original array and add 5 to each number.
 ##BONUS: n-Dimensional Arrays
 
 Working with arrays of more than 2 dimensions has its own unique challenges. Create a startup name generator that adds "ly" to the end of the words in each sub-array.
-
-

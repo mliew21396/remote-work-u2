@@ -11,17 +11,18 @@ This week gets into more advanced concepts, so make sure you pair as often as yo
 You'll want to focus on reading the chapters 3 and 5 of The *Well-Grounded Rubyist* this week. You may also want to read chapter 4. We don't cover any of the topics from chapter 4 in Phase 0, but they are useful to be aware of. If you haven't read any of the chapters in the [week-3 BONUS challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/11-BONUS-challenges/Well-Grounded-Rubyist.md), we also highly recommend those. You should also get comfortable using the table of contents and index to look up terms and concepts you need help with.
 
 ## Challenges
-1. [Die Class 2: Arbitrary Symbols](1-die)
-2. [Build a Simple Guessing Game](2-guessing-game)
-3. [Attr Challenge](3-attr)
-4. [Cipher Refactoring Challenge](4-cipher-challenge) *Mandatory Pairing Challenge*
-5. [Bingo SOLO CHALLENGE](5-bingo-solo-challenge) *Read through this early - it is a challenging problem*
-6. [Validate Credit Card](6-validate-credit-card)
-7. [Technical Blog](7-technical-blog.md)
-8. [Cultural Blog](8-cultural-blog.md)
-9. [GPS 2.2](9-gps2-2) **Don't look until your GPS Session!**
-10. [Accountability Groups](10-accountability-group.md)
-11. [BONUS: Challenges](11-BONUS-challenges) *Optional*
+1. [Die Class 2: Arbitrary Symbols](die)
+2. [Build a Simple Guessing Game](guessing-game)
+3. [Attr Challenge](attr)
+4. [Cipher Refactoring Challenge](cipher-challenge) *Mandatory Pairing Challenge*
+5. [Nested Data Stuctures](nested-data-structures) *Mandatory Pairing Challenge*
+6. [Bingo SOLO CHALLENGE](bingo-solo-challenge) *Read through this early - it is a challenging problem*
+6. [Validate Credit Card](validate-credit-card)
+7. [Technical Blog](technical-blog.md)
+8. [Cultural Blog](cultural-blog.md)
+9. [GPS 2.2](gps2-2) **Don't look until your GPS Session!**
+10. [Accountability Groups](accountability-group.md)
+11. [BONUS: Challenges](BONUS-challenges) *Optional*
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W5.** Only other DBC students can actually see your repositories because they are private.
 

@@ -49,10 +49,9 @@ Make sure your code passes the tests before moving on.
 ## Release 2: Translate the tests
 
 Write three tests using [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) (They should return `true` or `false`), that tests the following scenarios.
-1. Returns `true` if the output of running `CreditCard.new(11111111111111112)` is of the class `ArgumentError`.
-2. Returns `true` if the output of having a card number that is not 16 is of the class `ArgumentError`.
-3. Returns `true` if the card is valid (use `CreditCard.new(4408041234567901)`).
-4. Returns `true` if the card is invalid (use `CreditCard.new(4408041234567906)`).
+
+1. Returns `true` if the card is valid (use `CreditCard.new(4408041234567901)`).
+2. Returns `true` if the card is invalid (use `CreditCard.new(4408041234567906)`).
 
 ## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
 

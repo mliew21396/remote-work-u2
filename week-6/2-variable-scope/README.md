@@ -122,7 +122,7 @@ What conclusions can you draw from this experiment? Write any conclusion in the 
 
 ## Release 1: Proper Scoping
 
-All of the scopes in the code of [my_solution.rb](my_solution.rb) are in the global scope! Modify each variable so it is only accessible where it has to be. A method call looks similar to a local variable. Can you see where these are?
+All of the scopes in the code of [my_solution.rb](my_solution.rb) are in the global scope! Modify each variable so it is only accessible where it is absolutely necessary (from the global to the smallest possible scope). A method call looks similar to a local variable. Can you see where these are?
 
 ## Release 2: Refactor old code
 

@@ -43,7 +43,7 @@ You can do the same for the hash:
 
 would output
 
-```ruby
+```shell
 favorite_dessert: yellow cake
 second favorite dessert: cookies
 ```

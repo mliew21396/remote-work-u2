@@ -26,6 +26,7 @@ Claude M. Steele has spent his life researching minority under-achievement and d
 - [What is Stereotype Threat?](http://www.reducingstereotypethreat.org/definition.html)
 - [The Stereotype Threat to Workplace Diversity](http://www.diversityinc.com/diversity-events/the-stereotype-threat-dr-claude-steele-mesmerizes-audience-video/)
 - [Thin Ice: Stereotype Threat and Black College Students](http://www.theatlantic.com/magazine/archive/1999/08/thin-ice-stereotype-threat-and-black-college-students/304663/)
+- [Wikipedia](http://en.wikipedia.org/wiki/Stereotype_threat)
 
 ## Release 2: Blog it!
 

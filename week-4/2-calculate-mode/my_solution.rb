@@ -1,11 +1,14 @@
-# U2.W4: Calculate the mode
- # Pairing Challenge
+# U2.W4: Calculate the mode Pairing Challenge
+
+# I worked on this challenge [by myself, with: ]
+
+# I spent [] hours on this challenge.
 
 # Complete each step below according to the challenge directions and
 # include it in this file. Also make sure everything that isn't code
 # is commented.
 
-# I worked on this challenge with: NAME.
+
 
 # 0. Pseudocode
 

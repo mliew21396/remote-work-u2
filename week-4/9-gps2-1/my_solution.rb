@@ -2,6 +2,8 @@
 
 # I worked on this challenge with: [].
 
+# I spent [] hours on this challenge.
+
 # Pseudocode
 
 

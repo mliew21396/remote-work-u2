@@ -1,6 +1,6 @@
 [Week 5 Home](../)
 
-# U2.W5: Nested Data Structures
+# U2.W5: Nested Data Structures **Pairing Challenge**
 
 ## Learning Competencies
 - Create nested arrays and hashes

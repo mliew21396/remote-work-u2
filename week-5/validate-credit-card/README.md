@@ -51,7 +51,7 @@ Make sure your code passes the tests before moving on.
 Write three tests using [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) (They should return `true` or `false`), that tests the following scenarios.
 
 1. Returns `true` if the card is valid (use `CreditCard.new(4408041234567901)`).
-2. Returns `true` if the card is invalid (use `CreditCard.new(4408041234567906)`).
+2. Returns `false` if the card is invalid (use `CreditCard.new(4408041234567906)`).
 
 ## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
 

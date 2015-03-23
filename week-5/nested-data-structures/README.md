@@ -107,14 +107,13 @@ Open the `my_solution.rb` file, there are 3 nested data structures with a commen
 
 Using an enumerable method, modify the original array and add 5 to each number. *Should this be destructive or not destructive based on the language?*
 
+## Release 2: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 3: Push your solution to Github
 
-## Release 5: Push your solution to Github
-
-## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
+## Release 4: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
 **Optional but HIGHLY encouraged!**
 
-##BONUS: n-Dimensional Arrays
+## Release 5: n-Dimensional Arrays (Optional)
 
 Working with arrays of more than 2 dimensions has its own unique challenges. Create a startup name generator that adds "ly" to the end of the words in each sub-array.

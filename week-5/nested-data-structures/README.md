@@ -9,7 +9,7 @@
 
 ## Summary
 
-### Accessing Elements in Arrays and Hashes
+#### Accessing Elements in Arrays and Hashes
 
 By now, you should recognize what kind of data structure this is:
 
@@ -22,8 +22,6 @@ Then there is the hash:
 `desserts = {:favorite_dessert => "yellow cake", "second favorite dessert" => "cookies"}`
 
 To access the value of my favorite_dessert you can enter `desserts[:favorite_dessert]`.
-
-
 
 The array (indexed_list) and hash (desserts) are defined as 1 dimensional data structures. None of the elements hold another data structure. This means that if you were to iterate over either of the structures you could do so with one iterative structure.
 
@@ -65,7 +63,7 @@ Copy and paste this hash into IRB and experiment:
 
 `nested_hash = {:outer_key => {:inner_key => "Winner!"}}`
 
-### Iterating Over Nested Data Structures
+#### Iterating Over Nested Data Structures
 
 Iterating over nested structures is exactly the same as you are used to, just with an added layer of depth.
 

@@ -17,7 +17,7 @@ Please keep track of the amount of time you spend reading this week. We will ask
 5. [Refactoring for Code Readability](refactoring)
 6. [Technical Blog](technical-blog.md)
 7. [Cultural Blog](cultural-blog.md)
-8. [GPS 2.3](gps2-2) **Don't look until your GPS Session!** <br>
+8. [GPS 2.3](gps2-3) **Don't look until your GPS Session!** <br>
 9. [Accountability Group Check in](accountability-group.md)
 10. [BONUS Challenges](BONUS-challenges) *OPTIONAL*
 

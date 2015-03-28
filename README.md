@@ -28,5 +28,5 @@ If you would like to open tabs in a new window, please either right click or hol
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
 You will need to have these books on hand for this unit. Please purchase them if you haven't already.
-- [The Well-Grounded Rubyist](http://www.manning.com/black3/) Use a [coupon code](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/11-BONUS-challenges/Well-Grounded-Rubyist.md) to purchase directly from the publisher. It's also available on Amazon for a competitive price.
+- [The Well-Grounded Rubyist](http://www.manning.com/black3/) Use a [coupon code](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/BONUS-challenges/Well-Grounded-Rubyist.md) to purchase directly from the publisher. It's also available on Amazon for a competitive price.
 - [Practical Object Oriented Design in Ruby](http://www.poodr.com/)

@@ -8,7 +8,7 @@ The curriculum is designed to help you with the process of thinking through comp
 
 This week gets into more advanced concepts, so make sure you pair as often as you need to ensure you are able to learn efficiently and have fun doing it! You can pair on any challenge (except for solo challenges) and you have an awesome community of programmers to pair with.
 
-You'll want to focus on reading the chapters 3 and 5 of The *Well-Grounded Rubyist* this week. You may also want to read chapter 4. We don't cover any of the topics from chapter 4 in Phase 0, but they are useful to be aware of. If you haven't read any of the chapters in the [week-3 BONUS challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/11-BONUS-challenges/Well-Grounded-Rubyist.md), we also highly recommend those. You should also get comfortable using the table of contents and index to look up terms and concepts you need help with.
+You'll want to focus on reading the chapters 3 and 5 of The *Well-Grounded Rubyist* this week. You may also want to read chapter 4. We don't cover any of the topics from chapter 4 in Phase 0, but they are useful to be aware of. If you haven't read any of the chapters in the [week-3 BONUS challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/BONUS-challenges/Well-Grounded-Rubyist.md), we also highly recommend those. You should also get comfortable using the table of contents and index to look up terms and concepts you need help with.
 
 ## Challenges
 1. [Die Class 2: Arbitrary Symbols](die)

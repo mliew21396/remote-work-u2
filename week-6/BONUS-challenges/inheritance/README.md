@@ -17,7 +17,7 @@ In this challenge, you are going to model your cohorts, both the `Cohort` and th
 ## Releases
 
 ## Release 0: Read about Inheritance
-- *Well-Grounded Rubyist* (ch.3.5 and 4.2.5)
+- *Well-Grounded Rubyist* (ch.3.5)
 - *POODR* (ch.6)
 - [Ruby Learning: Inheritence](http://rubylearning.com/satishtalim/ruby_inheritance.html)
 

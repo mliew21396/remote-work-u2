@@ -30,7 +30,7 @@ What are these? How do they work? Procs and Lambdas are very rarely used at your
 Describe and explain the purposes of classes and modules. How are they similar? How do they compare?
 
 #### Option 6: Inheritance vs Composition
-What is Ruby inheritance? What is composition? Which have you used this week? Create your own examples to explain how to use each. See the [BONUS challenges](10-BONUS-challenges) for another challenge that addresses these concepts.
+What is Ruby inheritance? What is composition? Which have you used this week? Create your own examples to explain how to use each. See the [BONUS challenges](BONUS-challenges) for another challenge that addresses these concepts.
 
 ## Release 2: Blog it
 Write a blog post that teaches your audience about the topic. Think of examples to use to teach and show your audience what you are describing.

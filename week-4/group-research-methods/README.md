@@ -14,7 +14,7 @@ In this challenge, each member of your group will have a specific challenge and 
 
 Research and test these methods out. You may want to play around with them in IRB to figure out exactly how they work before you can implement them properly.
 
-Keep in mind the differences between destructive and non-destructive methods. Some of these methods should be destructive, and others should not. If you are confused about the difference between destructive and non-destructive methods, review the [Pad an Array](../1-pad-array) challenge.
+Keep in mind the differences between destructive and non-destructive methods. Some of these methods should be destructive, and others should not. If you are confused about the difference between destructive and non-destructive methods, review the [Pad an Array](../pad-array) challenge.
 
 
 ## Releases

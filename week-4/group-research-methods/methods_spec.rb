@@ -73,7 +73,7 @@ describe 'PERSON 3: my_hash_sorting_method!' do
   let(:my_family_pets_ages) {{"Evi" => 6, "Hoobie" => 3, "George" => 12, "Bogart" => 4, "Poly" => 4, "Annabelle" => 0, "Ditto" => 3}}
 
   it "returns an array that orders each animal first based on age (youngest to oldest)" do
-    expect(my_hash_sorting_method(my_family_pets_ages)).to eq([["Annabelle", 0], ["Ditto", 3], ["Hoobie", 3], ["Poly", 4], ["Bogart", 4], ["Evi", 6], ["George", 12]])
+    expect(my_hash_sorting_method(my_family_pets_ages)).to eq([["Annabelle", 0], ["Ditto", 3], ["Hoobie", 3], ["Bogart", 4], ["Poly", 4], ["Evi", 6], ["George", 12]])
   end
 
   it "operates non-destructively" do

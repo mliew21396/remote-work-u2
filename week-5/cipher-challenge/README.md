@@ -10,7 +10,7 @@
 - Refactor a method into a class structure
 
 ## Summary
-The N.S.A. just broke Kim Jong Un's cipher that he's been using to give instructions to his military commanders! We wrote the following program to decipher the messages. As the N.S.A.'s best programmer on staff, your job is to refactor the code.
+The Ministry of Defence just broke Dr. Evil's cipher he's been using to give instructions to his secret military commanders! As the best programmer on staff, your job is to refactor the code, because functional is not always readable.
 
 In this challenge, you'll work with a pair to refactor some existing code to make it more readable and follow Ruby best practices. Then you will compare your solution with the other solutions. This is a long method. Use your newly-developed skills with classes and driver test code to break this code into a class structure and call the methods within it.
 

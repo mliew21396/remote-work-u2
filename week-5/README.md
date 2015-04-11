@@ -14,9 +14,8 @@ You'll want to focus on reading the chapters 3 and 5 of The *Well-Grounded Rubyi
 1. [Die Class 2: Arbitrary Symbols](die)
 2. [Build a Simple Guessing Game](guessing-game)
 3. [Attr Challenge](attr)
-4. [Cipher Refactoring Challenge](cipher-challenge) *Mandatory Pairing Challenge*
-5. [Nested Data Stuctures](nested-data-structures) *Mandatory Pairing Challenge*
-6. [Bingo SOLO CHALLENGE](bingo-solo-challenge) *Read early; it's challenging!*
+4. [Nested Data Stuctures](nested-data-structures) *Mandatory Pairing Challenge*
+5. [Bingo SOLO CHALLENGE](bingo-solo-challenge) *Read early; it's challenging!*
 6. [Validate Credit Card](validate-credit-card)
 7. [Technical Blog](technical-blog.md)
 8. [Cultural Blog](cultural-blog.md)

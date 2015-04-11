@@ -7,5 +7,4 @@ We don't review bonus challenges often, so please give us immediate feedback if 
 Here are this week's bonus challenges:
 
 - [Refactor: Pad an Array](pad-array-refactor)
-- [Refactor: Reverse Cipher](reverse-cipher)
 - [Create a Reverse Polish Notation Calculator](reverse-polish-notation)

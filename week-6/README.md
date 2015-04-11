@@ -14,7 +14,7 @@ Please keep track of the amount of time you spend reading this week. We will ask
 2. [Variable Scope](variable-scope)
 3. [PezDispenser](PezDispenser) **OR** [Playlist](playlist) *select one*
 4. [BINGO 2- SOLO CHALLENGE](bingo-2-solo-challenge)
-5. [Refactoring for Code Readability](refactoring)
+5. [Cipher Refactoring Challenge](cipher-challenge) *Mandatory Pairing Challenge*
 6. [Technical Blog](technical-blog.md)
 7. [Cultural Blog](cultural-blog.md)
 8. [GPS 2.3](gps2-3) **Don't look until your GPS Session!** <br>

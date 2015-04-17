@@ -2,9 +2,9 @@
 
 <!-- Week 6 challenges will be published on Monday morning PST. -->
 
-Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. We are asking students to purchase [Practical Object-Oriented Design in Ruby](http://www.poodr.com/) (affectionately pronounced "Poo-Dur") to help them with these ideas. Before you start the challenges this week, we recommend you read chapters 1 and 2. If you can, you should try to read the remainder of the chapters as you work through the challenges. If you don't have time to read the whole book, the most important chapters are 1-4 and 8. A lot of the material will probably go over your head, but you will be so happy to have read it before Phase 1 so all you have to do there is review. Try implementing the concepts as you work through challenges to help you understand and absorb the material.
+Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. This week, you'll be reading Practical Object-Oriented Design in Ruby (POODR) ch. 1-4 within the context of the challenges. The remainder of the book should be read at the end of the week in preparation for Phase 1. We don't expect you to understand and use all of the concepts listed, but we want you to know about them and be able to review in Phase 1 rather than read for the first time.
 
-You'll also want to read and review concepts in the *Well-Grounded Rubyist*. We highly suggest using the index often to help you find pertinent sections to read. If you haven't read all of the chapters listed in the [week 3 bonus challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/BONUS-challenges/Well-Grounded-Rubyist.md), make sure to read those.
+You'll also want to read and review concepts in the *Well-Grounded Rubyist*. We highly suggest using the index often to help you find pertinent sections to read. Solidify your understanding of Ruby by having read at least: ch. 1-3, 6-10 BEFORE beginning any challenges this week.
 
 Please keep track of the amount of time you spend reading this week. We will ask you to estimate it in the submission form.
 
@@ -19,6 +19,7 @@ Please keep track of the amount of time you spend reading this week. We will ask
 7. [Cultural Blog](cultural-blog.md)
 8. [GPS 2.3](gps2-3) **Don't look until your GPS Session!** <br>
 9. [Accountability Group Check in](accountability-group.md)
+10. Read the remainder of POODR (Ch. 5-9) *This is in preparation for Phase 1*
 10. [BONUS Challenges](BONUS-challenges) *OPTIONAL*
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W6.** Only other DBC students can actually see your repositories because they are private.

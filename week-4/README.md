@@ -6,8 +6,6 @@ This week you will be working on writing command-line programs focusing Ruby col
 
 If you haven't already purchased a copy of *The Well-Grounded Rubyist*, you'll want to do so. Take a look at [Week 3's bonus challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/BONUS-challenges/Well-Grounded-Rubyist.md) for info on which chapters to read. You don't need to read every chapter thoroughly; skim where you need to. Take more time with concepts you don't feel comfortable with. DBC instructors can't emphasize enough how helpful the book is.
 
-You'll be diving into the Ruby Docs this week and they can be pretty daunting. See [Ruby Docs for Newbs](http://mariabpiper.tumblr.com/post/116045895341/ruby-docs-for-newbs) if you want to see one strategy for reading the docs.
-
 ## Challenges
 1. [Pad an Array](pad-array)
 2. [Calculate the Mode](calculate-mode) *Mandatory Pairing Challenge*

@@ -28,20 +28,25 @@ mode(["who", "what", "where", "who"]) # => ["who"]
 ```
 HINT: You'll want to look at [`Hash`](http://ruby-doc.org/core-2.0.0/Hash.html)es for this challenge.
 
-## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+## Release 0: Read
+Before starting, read Chapter 9 (at least 9.3 again) and chapter 10 in the *Well-Grounded Rubyist.*
 
-## Release 1: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+These chapters are a bit dense, but they will help your overall understanding of Ruby.
 
-## Release 2: Run the tests
+## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+
+## Release 2: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+
+## Release 3: Run the tests
 Once your code passes the tests, move on to refactoring.
 
-## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
+## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
 Make sure your code still passes the tests!
 
-## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 5: Commit and Push!
+## Release 6: Commit and Push!
 If you want feedback, continue using **#DBCU2W4** to request it!
 
-## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
+## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
 **Optional but HIGHLY encouraged!**

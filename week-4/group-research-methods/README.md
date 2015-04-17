@@ -3,7 +3,7 @@
 #U2.W4: Group Challenge: Research Methods
 
 ## Learning Objectives
-- Research and use Ruby methods
+- Find, research, and use built-in Ruby methods
 - Iterate through data structures and manipulate the content
 - Explain how to use an existing Ruby method
 
@@ -19,7 +19,10 @@ Keep in mind the differences between destructive and non-destructive methods. So
 
 ## Releases
 
-## Release 0:
+## Release 0: Read
+- [Ruby Docs for Newbs](http://mariabpiper.tumblr.com/post/116045895341/ruby-docs-for-newbs) for one strategy on reading the docs
+
+## Release 1: Find Your Role
 Refer to your accountability group spreadsheet to find your role.
 
 Each person has a challenge to solve. This does not need to be done in any order.
@@ -125,22 +128,22 @@ my_hash_splitting_method(my_family_pets_ages, 4)
 #=> [[["Hoobie", 3], ["Annabelle", 0], ["Ditto", 3], ["Bogart", 4], ["Poly", 4]], [["Evi", 6], ["George", 12]]]
 ```
 
-## Release 1: Teach Others
+## Release 2: Teach Others
 Once you complete your challenge, identify and describe the Ruby method you implemented. Teach your
 accountability group how to use the methods.
 
-## Release 2: Commit and Push
+## Release 3: Commit and Push
 Push your solution to GitHub!
 
 You may want to email your accountability group your solution (and driver test code if you modified it).
 
-## Release 3: Reflect
+## Release 4: Reflect
 Use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) and also discuss the following in the reflection section of the [my_solution](my_solution.rb) file:
 
 What did you learn about researching and explaining your research to others?
 
-## Release 4: Update your solution
+## Release 5: Update your solution
 When you get all of the solutions, paste them into your file as well. Review the solutions they created. Which existing methods did they use? Try to use them based on the instructions your group-mate included.
 
-## Release 5: Commit and Push
+## Release 6: Commit and Push
 Push your final solution to GitHub.

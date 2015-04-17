@@ -68,22 +68,25 @@ That is, `pad([1,2,3], 3)` should return `[1,2,3]`.
 
 In this challenge, we will ask you to follow a specific coding process. From now on, we will use these links to outline the coding process for each challenge. It is required that you complete each non-optional release.
 
-## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+## Release 0: Read
+To solidify your understanding of destructive methods, read ch. 7.3 in the *Well-Grounded Rubyist* before beginning.
 
-## Release 1: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
-## Release 2: Run the tests
+## Release 2: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+
+## Release 3: Run the tests
 Once your code passes the tests, move on to refactoring.
 
-## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
+## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
 Make sure your code still passes the tests!
 
-## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 5: Commit and Push!
+## Release 6: Commit and Push!
 If you want feedback, please post your links to Twitter using the hashtag **#DBCU2W4** to request it!
 
-## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional, but Highly encouraged).
+## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional, but Highly encouraged).
 
 Reading other's code is really important for your growth as a developer. You can find other people's code using the instructions in the link above, or by looking it up using Twitter. Read through a couple of different solutions and give the authors feedback using issues on GitHub.
 

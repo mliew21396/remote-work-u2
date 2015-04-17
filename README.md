@@ -6,7 +6,7 @@ We will release each week's curriculum the Friday before the week starts.
 
 ### [Week 4: Ruby Algorithms](week-4/README.md)
 ### [Week 5: Ruby Classes](week-5/README.md)
-<!-- ### [Week 6: Object-Oriented Design](week-6/README.md) -->
+### [Week 6: Object-Oriented Design](week-6/README.md)
 
 ## GPS Schedule
 Ensure you sign up for each week's session by Sunday evening prior to the week starting on the [Phase 0 App](https://phase0.devbootcamp.com)

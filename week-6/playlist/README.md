@@ -18,25 +18,33 @@ Use Error-Driven Development (EDD) to solve the challenge. To do this you will n
 
 After you've fixed each error, you should have fun filling in each of the methods -- but don't forget to go through the normal steps in your coding revelry!
 
-NOTE: The driver code references a method, `includes?`, which is not a typo. You should make your own `includes?` method. You will also want to look into the splat `*` operator for this challenge. 
+NOTE: The driver code references a method, `includes?`, which is not a typo. You should make your own `includes?` method. You will also want to look into the splat `*` operator for this challenge.
 
-## Release 0: Review the [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
+## Release 0: Read
+Read the following in POODR.
+- Chapter 3: Managing Dependencies
+- Chapter 4: Creating Flexible Interfaces
+
+Building on the concepts of single responsibility, dependencies, and flexible interfaces, complete the following challenge and integrate as many of these principles as possible.
+
+## Release 1: Review the [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
 Convert as many of the driver code examples into driver test code based on the way you want to implement each method.
 
-## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+## Release 2: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+Focus on using the principles you've learned so far in POODR.
 
-## Release 2: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 3: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
-## Release 3: Write Tests
+## Release 4: Write Tests
 Convert as many of the driver code examples into driver test code based on the way you implemented each method. Make sure your tests output `true` before refactoring!
 
-## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
+## Release 5: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
 Make sure your tests are still working!
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 6: Push your solution to GitHub
+## Release 7: Push your solution to GitHub
 
-## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
+## Release 8: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
 **Optional but HIGHLY encouraged!**

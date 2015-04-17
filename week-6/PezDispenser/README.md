@@ -11,7 +11,14 @@ In this challenge, you will translate user stories into a Ruby class object. If 
 
 ## Releases
 
-## Release 0: User Stories
+## Release 0: Read
+Read the following in POODR.
+- Chapter 3: Managing Dependencies
+- Chapter 4: Creating Flexible Interfaces
+
+Building on the concepts of single responsibility, dependencies, and flexible interfaces, complete the following challenge and integrate as many of these principles as possible.
+
+## Release 1: User Stories
 Read the User Stories below. Identify the attributes and methods you will need to create to support each story. You'll list them out in the pseudocode section.
 
   - As a Pez user, I'd like to be able to "create" a new Pez dispenser with a group of flavors that represent Pez so it's easy to start with a full Pez dispenser.
@@ -20,21 +27,24 @@ Read the User Stories below. Identify the attributes and methods you will need t
   - As a Pez user, I'd like to be able to add a Pez to the dispenser so I can save a flavor for later.
   - As a Pez user, I'd like to be able to see all the flavors inside the dispenser so I know the order of the flavors coming up.
 
-## Release 1: Review the [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
+## Release 2: Review the [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
 This driver code should instantiate the class and run its methods, but they do not have expectations that return `true` or `false`.
 
-## Release 2: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+## Release 3: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 You already know you need to have a PezDispenser class by looking at the Driver code, but you may be unsure of what attribute(s) and method(s) it needs. Looking at the user stories above, list the attribute(s) and method(s) you'll need to support the functionality required by the user stories and the driver code. With each method, also take a moment to identify the input and output. If there is no input or output, identify that as well. Then, write pseudocode for how each method should work.
 
-## Release 3: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 4: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 Make sure your driver code runs and the output matches what you expect.
 
-## Release 4: Write Tests
-Using the existing driver code, write driver test code that returns `true` when the code runs as it should. Add at least 3 more tests beyond the driver code that is already there.
+Then, implement a `Pez` class so instead of simply passing in a flavor, you will pass in an object. Modify the driver code and your class appropriately to make that work. How difficult was that?
 
-## Release 5: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
+## Release 5: Write Tests
+Using your new driver code, write driver test code that returns `true` when the code runs as it should.
 
-## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 6: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
+Focus on using the OO principles you've learned so far from POODR as well as making the code readable and DRY.
+
+## Release 7: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 ## Release 7: Push your solution to Github
 

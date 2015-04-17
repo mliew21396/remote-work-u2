@@ -25,6 +25,9 @@ You have some RSpec for this. It's saved in your `my_solutions` directory. If yo
 
 Also make sure you complete each challenge component. You will receive feedback on this challenge, and they will review each release.
 
+## Release 0: Read
+Before starting, be sure you can use different flow-control techniques. Get a better grasp of them by reading Ch. 6 in the *Well-Grounded Rubyist*.
+
 ## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
 ## Release 1: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)

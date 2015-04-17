@@ -42,6 +42,8 @@ A bingo in this exercise is a vertical horizontal or diagonal line of 5 x's.
 ## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 Outline the logic necessary to check the bingo board for horizontal, vertical and diagonal bingos. Make sure your pseudocode is specific enough to be easily translated into code.
 
+Also focus on implementing Object-Oriented design principles you've learned into your solution.
+
 ## Release 1: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 Translate your pseudocode into code.
 

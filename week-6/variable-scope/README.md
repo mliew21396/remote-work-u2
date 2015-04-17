@@ -134,3 +134,6 @@ Find one of your old code challenges and check your variable scoping. Correct an
 
 ## Release 5: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
 **Optional but HIGHLY encouraged!**
+
+## Release 6: Read
+Now that you've learned the basics of SCOPE, read ch. 5 of the Well-Grounded Rubyist, focusing on 5.2 (The other sections are important as well, just not as related to this challenge.)

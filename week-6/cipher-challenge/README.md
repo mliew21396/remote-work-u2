@@ -1,6 +1,6 @@
-[Week 5 Home](../)
+[Week 6 Home](../)
 
-# U2.W5: Pair Cipher Challenge (Mandatory pairing challenge)
+# U2.W6: Pair Cipher Challenge (Mandatory pairing challenge)
 
 ## Learning Competencies
 - Identify and explain what code is doing
@@ -32,7 +32,7 @@ Use [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/mast
   - Change the variable names so they make sense. You should always know what something is without needing a mental dictionary to understand it. (Who knows what x and y are anyway?)
   - Simplify the logic in the `each` and `each_key` loops.
 
-**Now that you've done all of that, refactor it into an object-oriented class structure.**
+**Now that you've cleaned up the method, refactor it into an object-oriented class structure using the knowledge you've learned this week.**
 
   You might think about methods to:
   - Shift letters from one to another based on a shift that is defined when the method is called. (i.e. `letter_convertor(4)`)
@@ -50,4 +50,7 @@ Push your solution to Github, then request feedback on Twitter using **#DBCU2W5*
 
 ## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
 **Review other solutions on this challenge. This is not optional.**
+
+## Release 7: Regular Expressions *Optional*
+If you are interested in learning about regular expressions in Ruby, read the Well-Grounded Rubyist, chapter 11. You can also play with regular expressions in sites like [rubular](http://rubular.com/).
 

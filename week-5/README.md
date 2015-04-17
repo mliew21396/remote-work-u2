@@ -1,6 +1,6 @@
 # Week 5: Ruby Classes
 
-<!-- Week 5 challenges will be published at least by the Friday before the week starts. -->
+<!-- Week 5 challenges will be published Monday morning PST. -->
 
 This week you will work on solidifying your understanding of creating class objects in Ruby. You will also be focusing on the most basic form of testing, [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md).
 

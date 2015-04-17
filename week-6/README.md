@@ -2,9 +2,9 @@
 
 <!-- Week 6 challenges will be published on Monday morning PST. -->
 
-Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design. This week, you'll be reading Practical Object-Oriented Design in Ruby (POODR) ch. 1-4 within the context of the challenges. The remainder of the book should be read at the end of the week in preparation for Phase 1. We don't expect you to understand and use all of the concepts listed, but we want you to know about them and be able to review in Phase 1 rather than read for the first time.
+Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design and reading [*Practical Object-Oriented Design in Ruby*](http://www.poodr.com/) (aka POODR) ch. 1-4 within the context of the challenges. (We asked you to purchase this book in Unit 1) The remainder of the book should be read at the end of the week in preparation for Phase 1. We don't expect you to understand and use all of the concepts listed, but we want you to know about them and be able to review in Phase 1 rather than read for the first time.
 
-You'll also want to read and review concepts in the *Well-Grounded Rubyist*. We highly suggest using the index often to help you find pertinent sections to read. Solidify your understanding of Ruby by having read at least: ch. 1-3, 6-10 BEFORE beginning any challenges this week.
+You'll also want to read and review concepts in the *Well-Grounded Rubyist*. We highly suggest using the index often to get help and clarification with topics. Be sure to have read at least: ch. 1-3, 6-10 BEFORE beginning any challenges this week (if you haven't started yet, try skimming some sections).
 
 Please keep track of the amount of time you spend reading this week. We will ask you to estimate it in the submission form.
 

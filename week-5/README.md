@@ -1,8 +1,8 @@
 # Week 5: Ruby Classes
 
-<!-- Week 5 challenges will be published Monday morning PST. -->
+Week 5 challenges will be published Monday morning PST.
 
-This week you will work on solidifying your understanding of creating class objects in Ruby. You will also be focusing on the most basic form of testing, [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md).
+<!-- This week you will work on solidifying your understanding of creating class objects in Ruby. You will also be focusing on the most basic form of testing, [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md).
 
 The curriculum is designed to help you with the process of thinking through complicated problems. In order to develop this skill, make sure to follow each step  in each challenge (pseudocode, initial solution, driver test code, refactoring, reflection, and review).
 
@@ -11,17 +11,22 @@ This week gets into more advanced concepts, so make sure you pair as often as yo
 You'll want to focus on reading the chapters 3 and 5 of The *Well-Grounded Rubyist* this week. You may also want to read chapter 4. We don't cover any of the topics from chapter 4 in Phase 0, but they are useful to be aware of. If you haven't read any of the chapters in the [week-3 BONUS challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/Well-Grounded-Rubyist.md), we also highly recommend those. You should also get comfortable using the table of contents and index to look up terms and concepts you need help with.
 
 ## Challenges
-1. [Die Class 2: Arbitrary Symbols](die)
-2. [Build a Simple Guessing Game](guessing-game)
-3. [Attr Challenge](attr)
-4. [Nested Data Stuctures](nested-data-structures) *Mandatory Pairing Challenge*
-5. [Bingo SOLO CHALLENGE](bingo-solo-challenge) *Read early; it's challenging!*
-6. [Validate Credit Card](validate-credit-card)
-7. [Technical Blog](technical-blog.md)
-8. [Cultural Blog](cultural-blog.md)
-9. [GPS 2.2](gps2-2) **Don't look until your GPS Session!**
-10. [Accountability Groups](accountability-group.md)
-11. [BONUS: Challenges](BONUS-challenges) *Optional*
+
+Number | Challenge Name | Est. time (hrs)**
+-------|----------------|----------
+1. | [Die Class 2: Arbitrary Symbols](die) | 1.5
+2. | [Build a Simple Guessing Game](guessing-game) | 1.5
+3. | [Attr Challenge](attr) | 1.5
+4. | [Nested Data Stuctures](nested-data-structures) *(Mandatory Pairing)* | 2
+5. | [Bingo SOLO CHALLENGE](bingo-solo-challenge) *(Read early; it's challenging!)* | 5
+6. | [Validate Credit Card](validate-credit-card) | 2.5
+7. | [Technical Blog](technical-blog.md) | 1.5
+8. | [Cultural Blog](cultural-blog.md) | 1.25
+9. | [GPS 2.2](gps2-2) **(Don't look until your GPS Session!)** | 2
+10. | [Accountability Groups](accountability-group.md) | N/A
+11. | [BONUS: Challenges](BONUS-challenges) *(Optional)* | N/A
+
+** These length estimates are calculated from past cohort averages.
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W5.** Only other DBC students can actually see your repositories because they are private.
 
@@ -52,3 +57,4 @@ Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 Once you have the entire local repository on your computer, you don't need to read the challenges on GitHub anymore (although we admit, it's prettier). You can open the entire repository in Sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us know by posting on the community. Also try to figure out a fix and submit a pull request to correct the error. It will help your markdown and git skills!
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
+ -->

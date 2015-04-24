@@ -147,3 +147,10 @@ When you get all of the solutions, paste them into your file as well. Review the
 
 ## Release 6: Commit and Push
 Push your final solution to GitHub.
+
+## Way to go! Evi and Hoobie approve.
+Yes, these are all real pets in Maria's family, spread between parents and inlaws thankfully.
+
+![Evi](../../imgs/Evi.jpg)
+
+![Hoobie](../../imgs/Hoobie.jpg)

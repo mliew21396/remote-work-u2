@@ -1,6 +1,6 @@
 [Week 5 Home](../)
 
-# U2.W5: The Bakery Challenge
+# U2.W5: The Most-Efficient Bakery Challenge
 
 **This is a Guided Pairing Session challenge for Unit 2. Please do not look at the challenge until your Guided Pairing Session.**
 
@@ -11,6 +11,8 @@
 
 ## Summary
 Your future career will require you to deal with a lot of "legacy code," i.e. code that works as intended, but is difficult to modify. Sometimes you will be given the option to start over or modify the original code. Other times you will be forced to work with legacy code due to time or budget constraints. In this challenge, you will need to refactor the existing code, while making it work the same way. The driver test code should still print "true" without being modified (apart from one test - figure out why!).
+
+This challenge was created while working at a Bakery. The code itself works in a strange way -- to maximize efficiency of the number of baked goods needed. That said, this challenge will help you solidify your Ruby fundamentals.
 
 Releases
 
@@ -65,20 +67,8 @@ What does the value represent for each key in the hash?
 - Change that line of Driver Test code so it makes sense.
 - Run the code after making the changes to ensure it still works.
 
-## Release 9: Refactor for expandability (Optional)
-(In case you didn't get enough of the delicious horrible-code)
-
-Expand the program for the customer based on their requests. Use the methodology you've been practicing.
-
-Hi! I am a small bakery owner who has a Ruby program that calculates the
-number of items I need to bake for a customer with a favorite food.
-I love the program as it is, but I want to add a couple of features:
-
-1. The owner wants to have options to include a mix of all items, rather than favorite foods.
-2. The owner wants to add the following items to the menu: pudding (feeds two people), bundt cake (feeds 4 people), and mega-cupcakes (feeds 3 people).
-
-## Release 10: Submit Feedback for your Pair
+## Release 9: Submit Feedback for your Pair
 After your pairing session is over, submit feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback/new).
 
-## Release 11: Submit your challenge!
+## Release 10: Submit your challenge!
 Push your solution to GitHub in the [my_solution.rb](my_solution.rb) file. Remember to include your pair's name!

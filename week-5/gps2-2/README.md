@@ -5,9 +5,14 @@
 **This is a Guided Pairing Session challenge for Unit 2. Please do not look at the challenge until your Guided Pairing Session.**
 
 ## Learning Competencies
-- Identify and explain what code is doing
-- Identify and rewrite repetitive code
-- Use if/else statements, string methods, while/until loops, Enumerable#each methods
+- Explain the goal of the code accurately based on driver code
+- Properly indent and comment the code
+- Describe the purpose of each line of code
+- Analyze the purpose of `has_fave`
+- Describe the benefits of a hash and refactor inefficient implementations of accessing a hash
+- Research methods and principles using Ruby Docs and other online resources
+- Explain the purpose of flow control and looping
+- Identify and refactor redundant or WET (not DRY) code
 
 ## Summary
 Your future career will require you to deal with a lot of "legacy code," i.e. code that works as intended, but is difficult to modify. Sometimes you will be given the option to start over or modify the original code. Other times you will be forced to work with legacy code due to time or budget constraints. In this challenge, you will need to refactor the existing code, while making it work the same way. The driver test code should still print "true" without being modified (apart from one test - figure out why!).

@@ -3,10 +3,15 @@
 # U2.W5: A Nested Array to Model a Bingo Board [Solo Challenge](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md)
 
 ## Learning Competencies
-- Break down problems into implementable pseudocode
-- Create, access, and traverse nested data structures
-- Explain how data structures and classes can model a real-world object
-- Explain how instance variables and methods represent the characteristics and actions of an object
+- Break down problems into implementable pseudocode that stays away from code-specific syntax
+- Implement a class based on pseudocode
+- Access coordinates in a 2d array
+- Create a method to access rows and columns
+- Use a logical method of altering data
+- Use built-in Ruby methods to simplify code when appropriate
+- Use appropriate scoping of variables
+- Refactor initial solution to make it more readable and concise
+- Reflect on the process
 
 ## Summary
 

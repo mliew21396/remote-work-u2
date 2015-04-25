@@ -5,12 +5,17 @@
 **This is a Guided Pairing Session challenge for Unit 2. Please do not look at the challenge until your Guided Pairing Session.**
 
 ## Learning Competencies
-- Break a large problem down into smaller steps
+- Outline logic to solve a problem using pseudocode
 - Implement a method based on pseudocode
 - Define a method that accepts and uses arguments
+- Use an iterator to output the correct number of asterisks on the console
+- Conform to Ruby style conventions
+- Use mathematical operators in Ruby
+- Use tests to guide development
 - Iterate over arrays
-- Apply string, array, hash, and/or enumerable methods
-- Explain the difference between `puts` and `return`
+- Explain the difference between `puts`, `p`, and `return`
+- Research and implement an `ArgumentError` (Optional)
+- Research and use a built-in Ruby method to solve the problem
 
 ## Summary
 In this challenge, you and your pair will build a `print_triangle` method that takes an integer as an argument. The integer represents the number of rows to print. The method should print a right triangle consisting of `*` characters. Each line should consist of one asterisk times the row it's on.

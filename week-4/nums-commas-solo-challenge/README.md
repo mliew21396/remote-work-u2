@@ -3,11 +3,13 @@
 # U2.W4: Separate Numbers with Commas [Solo Challenge](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md)
 
 ## Learning Competencies
-- Break a large problem down into smaller steps
+- Create pseudocode that outlines the path from input to output
 - Implement a method based on pseudocode
+- Use appropriate Ruby methods
 - Iterate through data structures and manipulate the content
-- Research and use Ruby methods
-- Use strings, integers, arrays, and/or hashes
+- Use data structures appropriately
+- Refactor code to make it more readable and concise
+- Reflect on your process
 
 ## Summary
 Write a method `separate_comma` which takes an integer as its input and returns a comma-separated integer as a string. Like this:

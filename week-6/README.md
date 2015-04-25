@@ -22,7 +22,9 @@ Number | Challenge Name | Est. time (hrs)**
 8. | [GPS 2.3](gps2-3) **(Don't look until your GPS Session!)** <br> | 1.75
 9. | [Accountability Group Check in](accountability-group.md) | N/A
 10. | Read the remainder of POODR (Ch. 5-9) *(In preparation for Phase 1)* | N/A
-11. | [BONUS Challenges](BONUS-challenges) *OPTIONAL* | N/A
+11. | [Week 6 Quiz]() **(Mandatory)**| < 1
+12. | [Sign up](https://phase0.devbootcamp.com/) for GPS 3.1 | N/A
+13. | [BONUS Challenges](BONUS-challenges) *OPTIONAL* | N/A
 
 ** These length estimates are calculated from past cohort averages.
 

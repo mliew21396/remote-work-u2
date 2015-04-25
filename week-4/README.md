@@ -6,9 +6,9 @@ This week you will be working on writing command-line programs focusing Ruby col
 
 If you haven't already purchased a copy of *The Well-Grounded Rubyist*, you'll want to do so. Take a look at [Week 3's bonus challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/Well-Grounded-Rubyist.md) for info on which chapters to read. You don't need to read every chapter thoroughly; skim where you need to. Take more time with concepts you don't feel comfortable with. DBC instructors can't emphasize enough how helpful the book is.
 
-## Challenges
+## Tasks and Challenges
 
-Number | Challenge Name | Est. time (hrs)**
+Number | Name | Est. time (hrs)**
 -------|----------------|----------
 1. | [Pad an Array](pad-array) | 2
 2. | [Calculate the Mode](calculate-mode) *(Mandatory Pairing)* | 2
@@ -19,8 +19,11 @@ Number | Challenge Name | Est. time (hrs)**
 7. | [Technical Blog](technical-blog.md) | 1.5
 8. | [Cultural Blog](cultural-blog.md) | 1.5
 9. | [GPS 2.1](gps2-1) **(Don't look until your GPS Session!)** | 1.25
-10. | [Accountability Group Check-in](accountability-group.md) | N/A
-11. | [BONUS Challenges](BONUS-challenges) *(Optional)* | N/A
+10. | [Week 4 Quiz](https://www.classmarker.com/online-test/start/?quiz=9g4553a9ca70ef65) **(Mandatory)**| < 1
+11. | [Accountability Group Check-in](accountability-group.md) | N/A
+12. | [Sign up](https://phase0.devbootcamp.com/) for GPS 2.2 | N/A
+13. | [BONUS Challenges](BONUS-challenges) *(Optional)* | N/A
+
 
 ** These length estimates are calculated from past cohort averages.
 

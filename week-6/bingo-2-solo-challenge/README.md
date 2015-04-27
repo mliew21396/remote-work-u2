@@ -3,8 +3,13 @@
 # U2.W6: Create a Bingo Scorer [SOLO CHALLENGE](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md)
 
 ## Learning Competencies
-- Create, access and traverse nested data structures
-- Implement a basic Ruby class and identify when to use instance variables
+- Create pseudocode, staying away from code-specific syntax
+- Access coordinates in a nested array
+- Use a logical method of searching for BINGO
+- Use built-in Ruby methods to simplify code when appropriate
+- Use local, instance, and/or class variables appropriately
+- Refactor original code to make it more readable and concise
+- Reflect on your learning process
 
 ## Summary
 Last week you created a class for calling and marking squares on a bingo board. Now you will write a class that will look for the presence of bingo win conditions. Use the sample boards to create tests for your methods to check for bingos. When a bingo is found, the program should print "BINGO!" to the console.

@@ -6,18 +6,26 @@ This week you will be working on writing command-line programs focusing Ruby col
 
 If you haven't already purchased a copy of *The Well-Grounded Rubyist*, you'll want to do so. Take a look at [Week 3's bonus challenge](https://github.com/Devbootcamp/phase-0-unit-1/blob/master/week-3/Well-Grounded-Rubyist.md) for info on which chapters to read. You don't need to read every chapter thoroughly; skim where you need to. Take more time with concepts you don't feel comfortable with. DBC instructors can't emphasize enough how helpful the book is.
 
-## Challenges
-1. [Pad an Array](pad-array)
-2. [Calculate the Mode](calculate-mode) *Mandatory Pairing Challenge*
-3. [Group Research Methods](group-research-methods)
-4. [Separate Numbers with Commas SOLO CHALLENGE](nums-commas-solo-challenge)
-5. [Create Accountability Groups](acct-groups)
-6. [Die Class](die-class)
-7. [Technical Blog](technical-blog.md)
-8. [Cultural Blog](cultural-blog.md)
-9. [GPS 2.1](gps2-1) **Don't look until your GPS Session!**
-10. [Accountability Group Check-in](accountability-group.md)
-11. [BONUS Challenges](BONUS-challenges) *These are optional*
+## Tasks and Challenges
+
+Number | Name | Est. time (hrs)**
+-------|----------------|----------
+1. | [Pad an Array](pad-array) | 2
+2. | [Calculate the Mode](calculate-mode) *(Mandatory Pairing)* | 2
+3. | [Group Research Methods](group-research-methods) | 2
+4. | [Separate Numbers with Commas SOLO CHALLENGE](nums-commas-solo-challenge) | 2.75
+5. | [Create Accountability Groups](acct-groups) | 2.25
+6. | [Die Class](die-class) | 1.5
+7. | [Technical Blog](technical-blog.md) | 1.5
+8. | [Cultural Blog](cultural-blog.md) | 1.5
+9. | [GPS 2.1](gps2-1) **(Don't look until your GPS Session!)** | 1.25
+10. | [Week 4 Quiz](https://www.classmarker.com/online-test/start/?quiz=9g4553a9ca70ef65) **(Mandatory)**| < 1
+11. | [Accountability Group Check-in](accountability-group.md) | N/A
+12. | [Sign up](https://phase0.devbootcamp.com/) for GPS 2.2 | N/A
+13. | [BONUS Challenges](BONUS-challenges) *(Optional)* | N/A
+
+
+** These length estimates are calculated from past cohort averages.
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W4.** Only other DBC students can actually see your repositories because they are private.
 

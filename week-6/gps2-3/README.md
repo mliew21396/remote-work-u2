@@ -4,12 +4,15 @@
 
 
 ## Learning Competencies
-- Identify and explain what code is doing
-- Create, access, and traverse nested data structures
-- Automate repetitive tasks using loops
-- Define a method's responsibility
-- Identify and rewrite repetitive code
+- Evaluate what the code does based on the driver code
+- Explain `require-relative`
+- Compare two different types of `Hash` syntax
+- Explain the type of variable and scope of `STATE_DATA`
+- Define each method's responsibility
+- Iterate through a nested hash to print a report
+- Identify the scope of instance variables
 - Explain `private` and discuss when it would be used
+- Refactor methods for DRYness
 
 ## Summary
 

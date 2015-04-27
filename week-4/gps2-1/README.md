@@ -5,12 +5,17 @@
 **This is a Guided Pairing Session challenge for Unit 2. Please do not look at the challenge until your Guided Pairing Session.**
 
 ## Learning Competencies
-- Break a large problem down into smaller steps
+- Outline logic to solve a problem using pseudocode
 - Implement a method based on pseudocode
 - Define a method that accepts and uses arguments
+- Use an iterator to output the correct number of asterisks on the console
+- Conform to Ruby style conventions
+- Use mathematical operators in Ruby
+- Use tests to guide development
 - Iterate over arrays
-- Apply string, array, hash, and/or enumerable methods
-- Explain the difference between `puts` and `return`
+- Explain the difference between `puts`, `p`, and `return`
+- Research and implement an `ArgumentError` (Optional)
+- Research and use a built-in Ruby method to solve the problem
 
 ## Summary
 In this challenge, you and your pair will build a `print_triangle` method that takes an integer as an argument. The integer represents the number of rows to print. The method should print a right triangle consisting of `*` characters. Each line should consist of one asterisk times the row it's on.
@@ -55,18 +60,23 @@ With your pair, think about ways to refactor this code. Is it readable? Would a 
 Make sure all the tests pass before moving on.
 
 ## Release 4: Returning values
-What does this method return? Explain your understanding of what `puts`, `print`, `p`, and `return` do. 
+What does this method return? Explain your understanding of what `puts`, `print`, `p`, and `return` do.
 
 ## Release 5: Add an `ArgumentError`
 Instead of printing nothing for "0" or a negative number, research and implement an `ArgumentError`.
 
-You'll need to comment out the test that checks nothing is printed for a "0" in the rspec file and uncomment the commented tests to test this.
+You'll need to comment out the test that checks nothing is printed for a "0" in the RSpec file and uncomment the commented tests to test this.
 
-## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 6: Solve the problem another way
+Go into the Ruby Docs and solve the problem again using a new method. Then go through Release 2 and 3 again.
+
+If you have more time, repeat this release and find another way to do it!
+
+## Release 7: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
 When you are finished with the challenge, reflect on the process with your pair. Write your reflection in the reflection section of the [my_solution.rb](my_solution.rb) file.
 
-## Release 7: Submit Feedback for your Pair
+## Release 8: Submit Feedback for your Pair
 After your pairing session is over, submit feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback/new).
 
 ## Release 8: Submit your challenge!

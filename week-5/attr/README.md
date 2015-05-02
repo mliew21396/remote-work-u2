@@ -87,6 +87,7 @@ end
 my_garden = Garden.new
 my_garden.add(my_tree)
 my_garden.plants.map { |plant| p plant.name } #=> ["Japanese Maple"]
+```
 
 It's time for you to practice sending data between classes (like we did above) with a small example.
 

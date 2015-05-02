@@ -20,7 +20,9 @@ Keep in mind the differences between destructive and non-destructive methods. So
 ## Releases
 
 ## Release 0: Read
-- [Ruby Docs for Newbs](http://mariabpiper.tumblr.com/post/116045895341/ruby-docs-for-newbs) for one strategy on reading the docs
+- [Ruby Docs for Newbs](http://mariabpiper.tumblr.com/post/116045895341/ruby-docs-for-newbs) for one strategy on reading the docs.
+
+- Also read Chapter 10 in the *Well-Grounded Rubyist* to learn more about Enumerables.
 
 ## Release 1: Find Your Role
 Refer to your accountability group spreadsheet to find your role.

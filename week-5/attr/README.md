@@ -45,13 +45,57 @@ Go to [release_4.rb](release_4.rb). Finish refactoring the code to make the best
 
 ## Release 5: Apply
 
-Attr methods are a great way to have classes communicate their instance variables. It's time to practice with a small example.
+Attr methods are a great way to have classes communicate data kept in instance variables. For example, if I had a class `Tree`, that had a `name` stored in an instance variable, I could do access that information using the following:
+
+```ruby
+
+class Tree
+
+  attr_reader :name
+
+  def initialize(plant_name)
+    @name = plant_name
+  end
+
+end
+
+my_tree = Tree.new("Japanese Maple")
+my_tree.name #=> "Japanese Maple"
+```
+
+We can also access this data in other classes. For example:
+
+```ruby
+class Garden
+
+  attr_reader :plants
+
+  def initialize
+    @plants = []
+  end
+
+  def add(plant)
+    @plants << plant
+  end
+
+  def plants
+    @plants
+  end
+
+end
+
+my_garden = Garden.new
+my_garden.add(my_tree)
+my_garden.plants.map { |plant| p plant.name } #=> ["Japanese Maple"]
+```
+
+It's time for you to practice sending data between classes (like we did above) with a small example.
 
 Create a class called `NameData` and a class called `Greetings`. `NameData` will have your name as an instance variable, and `Greetings` will have a method that will print a string to the console with a salutation customized to you.
 
 You want to give the `Greetings` class access to the `NameData` class methods using the attr methods. (Note: please do not use global variables or inheritance to do this, stick with applying the attr methods).
 
-Below is an illustration of this concept with two generic classes 'Emitter' and 'Reveiver'.  `Emitter` has some data we need and `Receiver` uses the data from `Emitter` and makes some modifications. 
+Below is an illustration of this concept with two generic classes 'Emitter' and 'Reveiver'.  `Emitter` has some data we need and `Receiver` uses the data from `Emitter` and makes some modifications.
 
 ```ruby
 class Emitter

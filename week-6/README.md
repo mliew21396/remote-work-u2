@@ -6,8 +6,6 @@ Last week you started creating your own objects in Ruby. This week you will be w
 
 You'll also want to read and review concepts in the *Well-Grounded Rubyist*. We highly suggest using the index often to get help and clarification with topics. Be sure to have read at least: ch. 1-3, 6-10 BEFORE beginning any challenges this week (if you haven't started yet, try skimming some sections).
 
-Please keep track of the amount of time you spend reading this week. We will ask you to estimate it in the submission form.
-
 ## Challenges
 
 Number | Challenge Name | Est. time (hrs)**
@@ -21,10 +19,9 @@ Number | Challenge Name | Est. time (hrs)**
 7. | [Cultural Blog](cultural-blog.md) | 1.5
 8. | [GPS 2.3](gps2-3) **(Don't look until your GPS Session!)** <br> | 1.75
 9. | [Accountability Group Check in](accountability-group.md) | N/A
-10. | Read the remainder of POODR (Ch. 5-9) *(In preparation for Phase 1)* | N/A
-11. | [Week 6 Quiz]() **(Mandatory)**| < 1
-12. | [Sign up](https://phase0.devbootcamp.com/) for GPS 3.1 | N/A
-13. | [BONUS Challenges](BONUS-challenges) *OPTIONAL* | N/A
+10. | [Week 6 Quiz]() **(Mandatory)**| < 1
+11. | [Sign up](https://phase0.devbootcamp.com/) for GPS 3.1 | N/A
+12. | [BONUS Challenges](BONUS-challenges) *OPTIONAL* | N/A
 
 ** These length estimates are calculated from past cohort averages.
 

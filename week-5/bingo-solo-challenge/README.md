@@ -54,16 +54,18 @@ bingo_board = [[47, 44, 71, 8, 88],
 
 Break these goals down into implementable pseudocode.
 
-## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 1: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
 Translate your pseudocode into code. The initialize method has been written for you, but you will need others to complete the challenge.
 
-## Release 2: [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
+## Release 2: Write [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
 
-This class randomly generates a board each time you create a new BingoBoard Object, so you need to think creatively about how to test your outputs. You may hard code1 the board to write tests if you need to for the initial solution. When you refactor use the random board for your tests.
+This class randomly generates a board each time you create a new BingoBoard Object, so you need to think creatively about how to test your outputs.
+
+For this section, you may find it easier to hard code the board for your tests if you need to. When you refactor, use the random board for your tests. HINT: Instead of thinking: "What exactly should this output be?", think a bit more creatively "What is the range this output should be within?", "What kind of object is this returning?", etc.
 
 
-## Release 3: [Refactored Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
+## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 Refactor your initial solution. Run the driver tests often to determine when you break something.
 
 ##Release 4: True Bingo Board (Optional)

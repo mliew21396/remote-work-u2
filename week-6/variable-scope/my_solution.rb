@@ -14,7 +14,6 @@ class GradeCalculator
   def initialize(array_of_grades)
     $grades = array_of_grades
     $number_of_grades = $grades.length
-    $challenge_grade = 'A'
   end
 
   def sum

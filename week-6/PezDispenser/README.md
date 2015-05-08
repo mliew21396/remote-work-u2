@@ -36,7 +36,17 @@ You already know you need to have a PezDispenser class by looking at the Driver 
 ## Release 4: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 Make sure your driver code runs and the output matches what you expect.
 
-Then, implement a `Pez` class so instead of simply passing in a flavor, you will pass in an object. Modify the driver code and your class appropriately to make that work. How difficult was that?
+Then, implement a `Pez` class so instead of simply passing in a flavor as a string to the `PezDispenser` class, you will pass in an array of `Pez` objects that has a flavor. What else do you need to change in the Driver code to make it return the same thing as it did before? This exercise will really help solidify attr methods...
+
+For example:
+
+```ruby
+flavors = []
+flavors.push(Pez.new("cherry")) #There is a smarter way to create a new Pez object for each flavor...it involves iteration...
+super_mario = PezDispenser.new(flavors)
+```
+
+Modify the driver code and your class appropriately to make that work. How difficult was that?
 
 ## Release 5: Write Tests
 Using your new driver code, write driver test code that returns `true` when the code runs as it should.

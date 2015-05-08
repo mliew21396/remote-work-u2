@@ -54,4 +54,4 @@ Push your solution to Github, then request feedback on Twitter using **#DBCU2W5*
 ## Release 7: Regular Expressions *Optional*
 If you are interested in learning about regular expressions in Ruby, read the Well-Grounded Rubyist, chapter 11. You can also play with regular expressions in sites like [rubular](http://rubular.com/).
 
-<iframe src="//giphy.com/embed/A6PQSZAQ0QFNu?html5=true" width="480" height="213" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+![Dr. Evil](../imgs/dr_evil.gif)

@@ -10,7 +10,7 @@
 - Refactor a method into a class structure
 
 ## Summary
-Dr. Evil traveled back in time to WWII and you, [Joan Clark](http://en.wikipedia.org/wiki/Joan_Clarke), just broke the cipher he's been using to give instructions to his secret military commanders! Now that you cracked the code, it's time to refactor it because functional is not always readable.
+Dr. Evil traveled back in time to WWII and you, [Joan Clark](http://en.wikipedia.org/wiki/Joan_Clarke), just broke the cipher he's been using to give instructions to his secret military commanders! Now that you cracked the code, it's time to refactor it since functional is not always readable.
 
 In this challenge, you'll work with a pair to refactor some existing code to make it more readable and follow Ruby best practices. Then you will compare your solution with the other solutions. This is a long method. Use your newly-developed skills with classes and driver test code to break this code into a class structure and call the methods within it.
 

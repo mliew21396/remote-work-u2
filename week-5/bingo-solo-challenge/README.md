@@ -60,10 +60,7 @@ Translate your pseudocode into code. The initialize method has been written for 
 
 ## Release 2: Write [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
 
-This class randomly generates a board each time you create a new BingoBoard Object, so you need to think creatively about how to test your outputs.
-
-For this section, you may find it easier to hard code the board for your tests if you need to. When you refactor, use the random board for your tests. HINT: Instead of thinking: "What exactly should this output be?", think a bit more creatively "What is the range this output should be within?", "What kind of object is this returning?", etc.
-
+Test your methods functionality by writing driver test code.
 
 ## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 Refactor your initial solution. Run the driver tests often to determine when you break something.

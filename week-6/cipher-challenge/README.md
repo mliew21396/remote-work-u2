@@ -49,9 +49,10 @@ Once you've created your class and methods, Edit your driver test code to work w
 Push your solution to Github, then request feedback on Twitter using **#DBCU2W5**
 
 ## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
-**Review other solutions on this challenge. This is not optional.**
+**Review 2 other solutions for this challenge. This is not optional.**
 
 ## Release 7: Regular Expressions *Optional*
 If you are interested in learning about regular expressions in Ruby, read the Well-Grounded Rubyist, chapter 11. You can also play with regular expressions in sites like [rubular](http://rubular.com/).
 
+## You're Done!
 ![Dr. Evil](../imgs/dr_evil.gif)

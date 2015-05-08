@@ -19,7 +19,7 @@ Number | Challenge Name | Est. time (hrs)**
 7. | [Cultural Blog](cultural-blog.md) | 1.5
 8. | [GPS 2.3](gps2-3) **(Don't look until your GPS Session!)** <br> | 1.75
 9. | [Accountability Group Check in](accountability-group.md) | N/A
-10. | [Week 6 Quiz]() **(Mandatory)**| < 1
+10. | [Week 6 Quiz](https://www.classmarker.com/online-test/start/?quiz=69a554d37e4a01a8) **(Mandatory)**| < 1
 11. | [Sign up](https://phase0.devbootcamp.com/) for GPS 3.1 | N/A
 12. | [BONUS Challenges](BONUS-challenges) *OPTIONAL* | N/A
 

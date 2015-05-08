@@ -95,7 +95,7 @@ Create a class called `NameData` and a class called `Greetings`. `NameData` will
 
 You want to give the `Greetings` class access to the `NameData` class methods using the attr methods. (Note: please do not use global variables or inheritance to do this, stick with applying the attr methods).
 
-Below is an illustration of this concept with two generic classes 'Emitter' and 'Reveiver'.  `Emitter` has some data we need and `Receiver` uses the data from `Emitter` and makes some modifications.
+Below is an illustration of this concept with two generic classes 'Emitter' and 'Receiver'.  `Emitter` has some data we need and `Receiver` uses the data from `Emitter` and makes some modifications.
 
 ```ruby
 class Emitter
@@ -119,7 +119,7 @@ receiver.use_data #=> 10
 
 ```
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
+## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
 **Optional but HIGHLY encouraged!**

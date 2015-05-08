@@ -22,7 +22,7 @@ Once you read these chapters, identify how the code either uses, or fails to use
 ## Release 1: Indent and debug the program
 Before you can really start debugging you'll want to indent the code properly.
 
-Run the code from the console. You should encounter 8 errors before it will run completely. Read each error carefully and fix it using the minimum amount you need and keeping with the single responsibility principle from POODR. Only one error should be fixed by adding code to the driver code. For everything else, you should only modify the classes.
+Run the code from the console. You should encounter 8 errors before it will run completely. Read each error carefully and fix it using **the minimum amount** you need and keeping with the single responsibility principle from POODR. Only one error should be fixed by adding code to the driver code. For everything else, you should only modify the classes.
 
 ## Release 2: Test!
 Write tests using [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md).
@@ -30,9 +30,11 @@ Write tests using [Driver Test Code](https://github.com/Devbootcamp/phase-0-hand
 ## Release 3: Call it again (x3)
 Interact with the code by writing at least three more different method calls. Did they return what you expected?
 
-## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
+Now it's time to refactor the code based on the principles you learned in chapter 1 and 2 of POODR. Are there any horrible violations of these principles? If so change them and add a comment that explains your reasoning. If you think they adhere to the principles, add a comment above the method that explains why you think so.
 
-## Release 5: Push your solution to GitHub
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
-**Optional but HIGHLY encouraged!**
+## Release 6: Push your solution to GitHub
+
+## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) **Required! Read and give feedback for at least 2 other solutions.**

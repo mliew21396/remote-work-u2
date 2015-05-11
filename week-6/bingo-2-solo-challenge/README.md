@@ -12,7 +12,7 @@
 - Reflect on your learning process
 
 ## Summary
-Last week you created a class for calling and marking squares on a bingo board. Now you will write a class that will look for the presence of bingo win conditions. Use the sample boards to create tests for your methods to check for bingos. When a bingo is found, the program should print "BINGO!" to the console.
+Last week you created a class for calling and marking squares on a bingo board. Now you will write a (new) class that will look for the presence of bingo win conditions. Use the sample boards to create tests for your methods to check for bingos. When a bingo is found, the program should print "BINGO!" to the console.
 
 A bingo in this exercise is a vertical horizontal or diagonal line of 5 x's.
 ```ruby

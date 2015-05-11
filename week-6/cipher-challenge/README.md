@@ -10,7 +10,7 @@
 - Refactor a method into a class structure
 
 ## Summary
-The Ministry of Defence just broke Dr. Evil's cipher he's been using to give instructions to his secret military commanders! As the best programmer on staff, your job is to refactor the code, because functional is not always readable.
+Dr. Evil traveled back in time to WWII and you, [Joan Clark](http://en.wikipedia.org/wiki/Joan_Clarke), just broke the cipher he's been using to give instructions to his secret military commanders! Now that you cracked the code, it's time to refactor it since functional is not always readable.
 
 In this challenge, you'll work with a pair to refactor some existing code to make it more readable and follow Ruby best practices. Then you will compare your solution with the other solutions. This is a long method. Use your newly-developed skills with classes and driver test code to break this code into a class structure and call the methods within it.
 
@@ -49,8 +49,10 @@ Once you've created your class and methods, Edit your driver test code to work w
 Push your solution to Github, then request feedback on Twitter using **#DBCU2W5**
 
 ## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
-**Review other solutions on this challenge. This is not optional.**
+**Review 2 other solutions for this challenge. This is not optional.**
 
 ## Release 7: Regular Expressions *Optional*
 If you are interested in learning about regular expressions in Ruby, read the Well-Grounded Rubyist, chapter 11. You can also play with regular expressions in sites like [rubular](http://rubular.com/).
 
+## You're Done!
+![Dr. Evil](../imgs/dr_evil.gif)

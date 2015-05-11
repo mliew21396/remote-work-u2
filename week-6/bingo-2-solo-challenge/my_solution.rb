@@ -57,7 +57,6 @@ end
 
 
 # DRIVER TESTS GO BELOW THIS LINE
-# create driver test code to retrieve a value at a coordinate here:
 # implement tests for each of the methods here:
 
 

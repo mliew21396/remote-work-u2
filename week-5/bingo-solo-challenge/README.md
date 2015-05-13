@@ -60,7 +60,13 @@ Translate your pseudocode into code. The initialize method has been written for 
 
 ## Release 2: Write [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
 
-Test your methods functionality by writing driver test code.
+Test your methods functionality by writing driver test code. Here are some ideas to start you off testing your code.
+
+- Does your call method return a letter and a number?
+- Does your check method replace the number with a string if the number is present?
+- Does your check method not replace anything if the number is not present?
+- Does the board display to the console correctly? You can check this using your eyes.
+
 
 ## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 Refactor your initial solution. Run the driver tests often to determine when you break something.

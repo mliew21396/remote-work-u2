@@ -41,8 +41,10 @@ Then, implement a `Pez` class so instead of simply passing in a flavor as a stri
 For example:
 
 ```ruby
-flavors = []
-flavors.push(Pez.new("cherry")) #There is a smarter way to create a new Pez object for each flavor...it involves iteration...
+possible_flavors = ["cherry", "chocolate", "cola", "grape", "lemon", "orange", "peppermint", "raspberry", "strawberry"]
+pez_pack = []
+#This is how you would push one random flavor into the pez pack. How would you push one of each flavor?
+pez_pack.push(Pez.new(flavors.shuffle)) 
 super_mario = PezDispenser.new(flavors)
 ```
 

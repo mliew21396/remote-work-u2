@@ -1,8 +1,8 @@
 # Week 6: Object-Oriented Design in Ruby
 
-Week 6 challenges will be published on Monday morning PST.
+Week 6 challenges will be published by 10:00am PST on Monday morning.
 
-Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design and reading [*Practical Object-Oriented Design in Ruby*](http://www.poodr.com/) (aka POODR) ch. 1-4 within the context of the challenges. (We asked you to purchase this book in Unit 1) The remainder of the book should be read at the end of the week in preparation for Phase 1. We don't expect you to understand and use all of the concepts listed, but we want you to know about them and be able to review in Phase 1 rather than read for the first time.
+<!-- Last week you started creating your own objects in Ruby. This week you will be working with something called Object-Oriented Design and reading [*Practical Object-Oriented Design in Ruby*](http://www.poodr.com/) (aka POODR) ch. 1-4 within the context of the challenges. (We asked you to purchase this book in Unit 1) The remainder of the book should be read at the end of the week in preparation for Phase 1. We don't expect you to understand and use all of the concepts listed, but we want you to know about them and be able to review in Phase 1 rather than read for the first time.
 
 ## Tasks and Challenges
 
@@ -54,3 +54,4 @@ Expectation | Times per Unit | Times per Week
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
+ -->

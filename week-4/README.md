@@ -17,7 +17,7 @@ Number | Name | Est. time (hrs)**
 7. | [Technical Blog](technical-blog.md) | 1.5
 8. | [Cultural Blog](cultural-blog.md) | 1.5
 9. | [GPS 2.1](gps2-1) **(Don't look until your GPS Session!)** | 1.25
-10. | [Week 4 Quiz](https://www.classmarker.com/online-test/start/?quiz=9g4553a9ca70ef65) **(Mandatory)**| < 1
+10. | [Week 4 Quiz](https://www.classmarker.com/online-test/start/?quiz=4mk5556753edd8a7) **(Mandatory)**| < 1
 11. | [Accountability Group Check-in](accountability-group.md) | N/A
 12. | [Sign up](https://phase0.devbootcamp.com/) for GPS 2.2 | N/A
 13. | [BONUS Challenges](BONUS-challenges) *(Optional)* | N/A

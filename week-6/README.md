@@ -21,7 +21,7 @@ Number | Challenge Name | Est. time (hrs)**
 11. | [Sign up](https://phase0.devbootcamp.com/) for GPS 3.1 | N/A
 12. | [BONUS Challenges](BONUS-challenges) *OPTIONAL* | N/A
 
-** These length estimates are calculated from past cohort averages.
+** These length estimates are calculated from past cohort averages and DO NOT include the reading (because this is a new part). 
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W6.** Only other DBC students can actually see your repositories because they are private.
 

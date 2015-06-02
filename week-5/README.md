@@ -18,13 +18,14 @@ Number | Name | Est. time (hrs)**
 4. | [Nested Data Stuctures](nested-data-structures) *(Mandatory Pairing)* | 2
 5. | [Bingo SOLO CHALLENGE](bingo-solo-challenge) *(Read early; it's challenging!)* | 5
 6. | [Validate Credit Card](validate-credit-card) | 2.5
-7. | [Technical Blog](technical-blog.md) | 1.5
-8. | [Cultural Blog](cultural-blog.md) | 1.25
-9. | [GPS 2.2](gps2-2) **(Don't look until your GPS Session!)** | 2
-10. | [Week 5 Quiz](https://www.classmarker.com/online-test/start/?quiz=n4j5556758be1b12) **(Mandatory)** | < 1
-11. | [Accountability Groups](accountability-group.md) | N/A
-12. | [Sign up](https://phase0.devbootcamp.com/) for GPS 2.3 | N/A
-13. | [BONUS: Challenges](BONUS-challenges) *(Optional)* | N/A
+7. | [Blog Improvement](blog-improvement.md)
+8. | [Technical Blog](technical-blog.md) | 1.5
+9. | [Cultural Blog](cultural-blog.md) | 1.25
+10.| [GPS 2.2](gps2-2) **(Don't look until your GPS Session!)** | 2
+11. | [Week 5 Quiz](https://www.classmarker.com/online-test/start/?quiz=n4j5556758be1b12) **(Mandatory)** | < 1
+12. | [Accountability Groups](accountability-group.md) | N/A
+13. | [Sign up](https://phase0.devbootcamp.com/) for GPS 2.3 | N/A
+14. | [BONUS: Challenges](BONUS-challenges) *(Optional)* | N/A
 
 ** These length estimates are calculated from past cohort averages.
 

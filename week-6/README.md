@@ -13,13 +13,14 @@ Number | Challenge Name | Est. time (hrs)**
 3. | [PezDispenser](PezDispenser) **OR** [Playlist](playlist) *(select one)* | 2
 4. | [BINGO 2- SOLO CHALLENGE](bingo-2-solo-challenge) | 3.75
 5. | [Cipher Refactoring Challenge](cipher-challenge) *(Mandatory Pairing)* | 3.25
-6. | [Technical Blog](technical-blog.md) | 1.5
-7. | [Cultural Blog](cultural-blog.md) | 1.5
-8. | [GPS 2.3](gps2-3) **(Don't look until your GPS Session!)** <br> | 1.75
-9. | [Accountability Group Check in](accountability-group.md) | N/A
-10. | [Week 6 Quiz](https://www.classmarker.com/online-test/start/?quiz=3bg555675b268223) **(Mandatory)**| < 1
-11. | [Sign up](https://phase0.devbootcamp.com/) for GPS 3.1 | N/A
-12. | [BONUS Challenges](BONUS-challenges) *OPTIONAL* | N/A
+6. | [Blog Improvement](blog-improvement.md)
+7. | [Technical Blog](technical-blog.md) | 1.5
+8. | [Cultural Blog](cultural-blog.md) | 1.5
+9. | [GPS 2.3](gps2-3) **(Don't look until your GPS Session!)** <br> | 1.75
+10. | [Accountability Group Check in](accountability-group.md) | N/A
+11. | [Week 6 Quiz](https://www.classmarker.com/online-test/start/?quiz=3bg555675b268223) **(Mandatory)**| < 1
+12. | [Sign up](https://phase0.devbootcamp.com/) for GPS 3.1 | N/A
+13. | [BONUS Challenges](BONUS-challenges) *OPTIONAL* | N/A
 
 ** These length estimates are calculated from past cohort averages and DO NOT include the reading (because this is a new part).
 

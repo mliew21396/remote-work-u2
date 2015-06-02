@@ -14,13 +14,14 @@ Number | Name | Est. time (hrs)**
 4. | [Separate Numbers with Commas SOLO CHALLENGE](nums-commas-solo-challenge) | 2.75
 5. | [Create Accountability Groups](acct-groups) | 2.25
 6. | [Die Class](die-class) | 1.5
-7. | [Technical Blog](technical-blog.md) | 1.5
-8. | [Cultural Blog](cultural-blog.md) | 1.5
-9. | [GPS 2.1](gps2-1) **(Don't look until your GPS Session!)** | 1.25
-10. | [Week 4 Quiz](https://www.classmarker.com/online-test/start/?quiz=4mk5556753edd8a7) **(Mandatory)**| < 1
-11. | [Accountability Group Check-in](accountability-group.md) | N/A
-12. | [Sign up](https://phase0.devbootcamp.com/) for GPS 2.2 | N/A
-13. | [BONUS Challenges](BONUS-challenges) *(Optional)* | N/A
+7. | [Blog Improvement](blog-improvement.md)
+8. | [Technical Blog](technical-blog.md) | 1.5
+9. | [Cultural Blog](cultural-blog.md) | 1.5
+10.| [GPS 2.1](gps2-1) **(Don't look until your GPS Session!)** | 1.25
+11. | [Week 4 Quiz](https://www.classmarker.com/online-test/start/?quiz=4mk5556753edd8a7) **(Mandatory)**| < 1
+12. | [Accountability Group Check-in](accountability-group.md) | N/A
+13. | [Sign up](https://phase0.devbootcamp.com/) for GPS 2.2 | N/A
+14. | [BONUS Challenges](BONUS-challenges) *(Optional)* | N/A
 
 
 ** These length estimates are calculated from past cohort averages.

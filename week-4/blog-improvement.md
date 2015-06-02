@@ -39,13 +39,13 @@ If you've decided to add your information to an existing page, simply add the HT
 View your page in the browser. How is your existing CSS formatting your page? Make modifications as necessary to improve the look of the page. You can go back and modify the HTML as necessary, just make sure you are relying on CSS to format the page.
 
 ## Release 3: Add a Link
-Now that you have the page on your site, make sure people can find it from the home page!
+If you created a new page, make sure people can find it from the home page!
 
 ## Release 4: Update your site
 In week 3, you created a maintenance schedule for your site. Now is your time to work on those planned changes you wanted to create this week.
 
 ## Release 5: Commit, Push, and create a Pull Request!
-Now that you've made all of your changes, commit them, and create a pull request to your repository. Merge your Pull Request to make it part of your site!
+Now that you've made all of your changes, commit them, and create a pull request to your repository. Merge your pull request to make it part of your site!
 
 If you want to ask for feedback, please post on Twitter using the **#DBCU2W4** hashtag.
 

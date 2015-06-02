@@ -36,7 +36,7 @@ You will want to run and modify all files from your local repository on your com
 
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
-- The week's work is due each Sunday by 11:59pm.
+- The week's work is due Monday by 10:00am PST.
 
 **If you do not finish by the deadline:**
 - Complete the Unit 2 extension request. (You only get one extension for Unit 2)

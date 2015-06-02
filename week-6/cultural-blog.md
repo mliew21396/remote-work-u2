@@ -10,8 +10,6 @@
 This week you will look into a new topic called stereotype threat. DBC is an amazing place, but it's also easy
 to suffer from impostor syndrome or stereotype threat depending on your background. It's a good idea to learn a bit about these concepts to prepare yourself for the possibility. Remember to time-box about an hour for each blog post.
 
-For some people, particularly those in marginalized groups, this prompt may seem to easy. Sharing your experiences can help others gain perspective. That said, only share what you feel comfortable sharing.
-
 ## Release 0: Copy the Template
 
 In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `c6-stereotype-threat.html`.
@@ -30,9 +28,15 @@ Claude M. Steele has spent his life researching minority under-achievement and d
 
 ## Release 2: Blog it!
 
-In your post, consider whether you can identify times when you have been impacted by it. If you have, how did it affect your achievement? What questions did you ask yourself? Did you feel it physically? If you don't think you've ever felt it, can you imagine how it would feel to? If you thought others were suffering from it, what could you do to help others in that situation? Can you identify ways to change your behavior or the environment you're in to make it more welcoming and reduce the impact of stereotype threat?
+In your post, discuss what stereotype threat is and consider whether you can identify times when you have been impacted by it. If you don't feel comfortable sharing your own personal experiences, try to come up with examples of ways situations that may trigger stereotype threat outside of the examples you researched.
 
-Go into as much depth as feels comfortable for you.
+Consider how did it affected your achievement or how it could impact others achievement (if you are not sharing personal experiences)? What questions did you ask yourself? Did you feel it physically?
+
+If you don't think you've ever felt it, can you imagine how it would feel to? If you thought others were suffering from it, what could you do to help others in that situation? Can you identify ways to change your behavior or the environment you're in to make it more welcoming and reduce the impact of stereotype threat?
+
+Go into as much depth as feels comfortable for you. Again, if you're not comfortable sharing your own experiences, please apply what you've learned by coming up with some situations where others might feel it.
+
+If you would prefer to answer different questions entirely, please feel free to do so within the context of stereotype threat.
 
 ## Release 3: Publish
 Link to your blog on the blog/index.html of your site and push your changes.

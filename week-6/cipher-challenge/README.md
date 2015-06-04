@@ -21,7 +21,7 @@ See what the expected output is.
 Identify what each line of code is doing. It's located in the [my_solution.rb](my_solution.rb) file.
 
 Write comments next to or above each line with an explanation.
-Really focus on breaking each step down. You want to understand every line (except for 69-70). You do not need to understand each part of these lines because they use regular expressions that look for one or more of any digit. We aren't asking you to learn regular expressions in Phase 0, so you don't need to refactor them.
+Really focus on breaking each step down. You want to understand every line.
 
 ## Release 2: Write Tests
 Use [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md). What will always be the same using this cipher? What changes? Write driver test code based on what you discover.
@@ -37,7 +37,6 @@ Use [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/mast
   You might think about methods to:
   - Shift letters from one to another based on a shift that is defined when the method is called. (i.e. `letter_convertor(4)`)
   - A method to convert punctuation
-  - A method to exaggerate numbers
   - A method to combine outputs from the above methods and "join" a sentence.
 
 
@@ -50,9 +49,6 @@ Push your solution to Github, then request feedback on Twitter using **#DBCU2W5*
 
 ## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
 **Review 2 other solutions for this challenge. This is not optional.**
-
-## Release 7: Regular Expressions *Optional*
-If you are interested in learning about regular expressions in Ruby, read the Well-Grounded Rubyist, chapter 11. You can also play with regular expressions in sites like [rubular](http://rubular.com/).
 
 ## You're Done!
 ![Dr. Evil](../imgs/dr_evil.gif)

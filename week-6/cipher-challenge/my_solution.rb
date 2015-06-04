@@ -59,11 +59,7 @@ def dr_evils_cipher(coded_message)
     end
   end
   decoded_sentence = decoded_sentence.join("")
-
-  if decoded_sentence.match(/\d+/) #This is looking for any digits using a regular expression. You can copy this logic in your refactored version since we don't expect you to use regular expressions in Phase 0.
-    decoded_sentence.gsub!(/\d+/) { |num| num.to_i / 100 } #He's been known to exaggerate...
-  end
-  return decoded_sentence # What is this returning?
+  #What is this method returning?
 end
 
 # Your Refactored Solution

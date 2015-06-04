@@ -41,7 +41,6 @@ def dr_evils_cipher(coded_message)
     found_match = false  # Why would this be assigned to false from the outset? What happens when it's true?
     cipher.each_key do |y| # What is #each_key doing here?
       if x == y  # What is this comparing? Where is it getting x? Where is it getting y? What are those variables really?
-        puts "I am comparing x and y. X is #{x} and Y is #{y}."
         decoded_sentence << cipher[y]
         found_match = true
         break  # Why is it breaking here?

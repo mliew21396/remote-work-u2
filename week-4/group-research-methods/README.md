@@ -120,7 +120,7 @@ Create a `my_array_splitting_method` that will split the original array into two
 For example:
 ```ruby
 my_array_splitting_method(i_want_pets)
-#=> [3, 2],["I", "want", "pets", "but", "only", "have"]]
+#=> [[3, 2],["I", "want", "pets", "but", "only", "have"]]
 ```
 
 Then create a `my_hash_splitting_method` that will separate the hash into two arrays based on the value. It should return two arrays, the first which includes all pets who are four years of age or younger and the second that includes all other pets.T his should not alter the original data structure.

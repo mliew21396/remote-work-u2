@@ -28,9 +28,9 @@ Claude M. Steele has spent his life researching minority under-achievement and d
 
 ## Release 2: Blog it!
 
-In your post, discuss what stereotype threat is and consider whether you can identify times when you have been impacted by it. If you don't feel comfortable sharing your own personal experiences, try to come up with examples of ways situations that may trigger stereotype threat outside of the examples you researched.
+In your post, discuss what stereotype threat is and consider whether you can identify times when you have been impacted by it. If you don't feel comfortable sharing your own personal experiences, try to think of situations that may trigger stereotype threat outside of the examples you researched.
 
-Consider how did it affected your achievement or how it could impact others achievement (if you are not sharing personal experiences)? What questions did you ask yourself? Did you feel it physically?
+Consider how affected your achievement or how it could impact someone else's achievement (if you are not sharing personal experiences)?
 
 If you don't think you've ever felt it, can you imagine how it would feel to? If you thought others were suffering from it, what could you do to help others in that situation? Can you identify ways to change your behavior or the environment you're in to make it more welcoming and reduce the impact of stereotype threat?
 

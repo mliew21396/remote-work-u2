@@ -10,6 +10,12 @@
 ## Summary
 The tech industry is likely new to many of you, so it's a good idea to know about the various issues facing the industry. In this blog post, you'll be researching a problem in the tech industry and writing a post about what you learned.
 
+Some sample topics:
+- Diversity in Tech
+- Designing for accessibility
+- Online security
+- Another topic you find on your own!
+
 Please time-box your blog assignment to an hour (max 1.5 hours).
 
 ## Release 0: New file

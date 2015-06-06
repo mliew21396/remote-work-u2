@@ -12,7 +12,7 @@
 
 In this challenge, you are going to make a method that takes an array of names (you'll want to make a list from your Cohort page in Socrates) and outputs a list of accountability groups. You should try to get everyone into an accountability group of 4, but it's your decision how to deal with cohorts not easily divisible by four. Make sure to check out the Ruby docs to see if there are any built-in methods that can help you.
 
-This is a creative challenge and you can make it as easy or difficult as you would like. Decide what an MVP (Minimum Viable Product) will look like and what the output will be. In Release 2 (optional) you can decide whether you want to add complexity.
+This is a creative challenge and you can make it as easy or difficult as you would like. Decide what an MVP (Minimum Viable Product) will look like and what the output should be. In Release 2 (optional) you can decide whether you want to add complexity.
 
 ## Release 0: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 

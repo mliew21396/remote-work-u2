@@ -4,6 +4,8 @@ This week you will be working on writing command-line programs focusing Ruby col
 
 **Follow each step we ask you (in order): write pseudocode, initial solution, refactoring, reflection.** If you want guidance on how to complete these steps, reference the links provided. Each step is mandatory, so do not skip any section. If you have questions about any instructions, ask us.
 
+Some of these challenges will have RSpec like week 3, so be sure to run the spec files if the challenge has one!
+
 ## Tasks and Challenges
 
 Number | Name | Est. time (hrs)**

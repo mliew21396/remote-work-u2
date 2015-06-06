@@ -27,6 +27,8 @@ You have some RSpec for this. It's saved in your `my_solutions` directory. If yo
 
 Also make sure you complete each challenge component. You will receive feedback on this challenge, and they will review each release.
 
+Focus on positive integers for now.
+
 ## Release 0: Read
 Before starting, be sure you can use different flow-control techniques. Get a better grasp of them by reading Ch. 6 in the *Well-Grounded Rubyist*.
 

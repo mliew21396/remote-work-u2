@@ -4,11 +4,11 @@
 
 ## Learning Competencies
 - Use HTML tags to present content on a website
-- Position HTML elements using CSS padding, borders, and margins
+- Format HTML elements using the CSS padding, borders, and margin properties
 - Use CSS to add and format colors, fonts, icons, images, etc.
 
 ## Summary:
-Now that you've built your website and taken a little break with Ruby, it's important to review HTML and CSS so you can maintain your skills. We've integrated mini-challenges so you can continually practice and add to your website each week.
+Now that you've built your website and taken a little break from Ruby, it's important to review HTML and CSS so you can maintain your skills. We've integrated mini-challenges so you can continually practice and add to your website each week.
 
 In this challenge, you will be adding your contact information to your website. This page will help others learn how to contact you.
 
@@ -16,7 +16,7 @@ You'll want to consider including the following:
 - Email address
 - Twitter handle
 - Facebook Profile
-- Linked In Profile
+- LinkedIn Profile
 - GitHub
 - Quora Account (if you use it)
 - Any other social media or way to contact you.

@@ -4,13 +4,15 @@
 
 ## Learning Competencies
 - Use HTML tags to present content on a website
-- Position HTML elements using CSS padding, borders, and margins
+- Format HTML elements using the CSS padding, borders, and margin properties
 - Use CSS to add and format colors, fonts, icons, images, etc.
 
 ## Summary:
 It's important to maintain your HTML and CSS skills, so we've integrated mini-challenges so you can continually practice and add to your website each week.
 
-In this challenge, you will be adding your resume to your website. This page will be aimed at showing your employers your education history, work history, and skills.
+In this challenge, you will be adding a resume to your website. This page will be aimed at showing your employers your education history, work history, and skills.
+
+This will not be the actual resume shown to employers. You will work on your resume during Career week, so this is more about how you might think of displaying it. Use a generic resume or create a template based on someone else's. This challenge is ultimately about formatting HTML and modifying it with CSS, so the actual content is not that important at the moment.
 
 ## Releases:
 

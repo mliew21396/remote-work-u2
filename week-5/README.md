@@ -1,8 +1,8 @@
 # Week 5: Ruby Classes
 
-<!-- Week 5 challenges will be published by 10:00am PST Monday morning. -->
+Week 5 challenges will be published by 10:00am PST Monday morning.
 
-This week you will work on solidifying your understanding of creating class objects in Ruby. You will also be focusing on the most basic form of testing, [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md).
+<!-- This week you will work on solidifying your understanding of creating class objects in Ruby. You will also be focusing on the most basic form of testing, [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md).
 
 The curriculum is designed to help you with the process of thinking through complicated problems. In order to develop this skill, make sure to follow each step  in each challenge (pseudocode, initial solution, driver test code, refactoring, reflection, and review).
 
@@ -18,13 +18,14 @@ Number | Name | Est. time (hrs)**
 4. | [Nested Data Stuctures](nested-data-structures) *(Mandatory Pairing)* | 2
 5. | [Bingo SOLO CHALLENGE](bingo-solo-challenge) *(Read early; it's challenging!)* | 5
 6. | [Validate Credit Card](validate-credit-card) | 2.5
-7. | [Technical Blog](technical-blog.md) | 1.5
-8. | [Cultural Blog](cultural-blog.md) | 1.25
-9. | [GPS 2.2](gps2-2) **(Don't look until your GPS Session!)** | 2
-10. | [Week 5 Quiz](https://www.classmarker.com/online-test/start/?quiz=n4j5556758be1b12) **(Mandatory)** | < 1
-11. | [Accountability Groups](accountability-group.md) | N/A
-12. | [Sign up](https://phase0.devbootcamp.com/) for GPS 2.3 | N/A
-13. | [BONUS: Challenges](BONUS-challenges) *(Optional)* | N/A
+7. | [Blog Improvement](blog-improvement.md)
+8. | [Technical Blog](technical-blog.md) | 1.5
+9. | [Cultural Blog](cultural-blog.md) | 1.25
+10.| [GPS 2.2](gps2-2) **(Don't look until your GPS Session!)** | 2
+11. | [Week 5 Quiz](https://www.classmarker.com/online-test/start/?quiz=n4j5556758be1b12) **(Mandatory)** | < 1
+12. | [Accountability Groups](accountability-group.md) | N/A
+13. | [Sign up](https://phase0.devbootcamp.com/) for GPS 2.3 | N/A
+14. | [BONUS: Challenges](BONUS-challenges) *(Optional)* | N/A
 
 ** These length estimates are calculated from past cohort averages.
 
@@ -57,3 +58,4 @@ Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 Once you have the entire local repository on your computer, you don't need to read the challenges on GitHub anymore (although we admit, it's prettier). You can open the entire repository in Sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us know by posting on the community. Also try to figure out a fix and submit a pull request to correct the error. It will help your markdown and git skills!
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
+ -->

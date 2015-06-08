@@ -75,10 +75,14 @@ To solidify your understanding of destructive methods, read ch. 7.3 in the *Well
 
 ## Release 2: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
+Keep your initial solution basic. There is no need to use a ton of fancy built-in Ruby methods in your initial solutions.
+
 ## Release 3: Run the tests
 Once your code passes the tests, move on to refactoring.
 
 ## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
+Now go into the Ruby Docs to see if there are any enumerable methods you can simplify your code with. Also refactor for readability, and remember, one liners aren't necessarily the most efficient or "best" code.
+
 Make sure your code still passes the tests!
 
 ## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)

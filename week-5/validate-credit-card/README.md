@@ -9,15 +9,7 @@
 
 
 ## Summary
-Given a credit card number we should be able to validate whether it is valid based on the [Luhn algorithm](http://en.wikipedia.org/wiki/Luhn_algorithm).
-
-While the word [algorithm](http://en.wikipedia.org/wiki/Algorithm) sounds scary you can just think of it as a series of steps you use to solve a specific problem.  An example algorithm:
-
->1. Heat water until boiling
->2. Add pasta
->3. If pasta is cooked, strain
-
-If the above steps are followed we get cooked pasta!
+Given a credit card number we should be able to validate whether it is valid. (It's based on the [Luhn algorithm](http://en.wikipedia.org/wiki/Luhn_algorithm), but I wouldn't suggest going to this unless you're really interested) The algorithm we're asking you to use is below.
 
 For this challenge, you will need to break down the algorithm into the following steps. You will probably want to break these down into individual methods.
 

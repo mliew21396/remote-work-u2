@@ -1,8 +1,8 @@
 # Week 5: Ruby Classes
 
-Week 5 challenges will be published by 10:00am PST Monday morning.
+<!-- Week 5 challenges will be published by 10:00am PST Monday morning. -->
 
-<!-- This week you will work on solidifying your understanding of creating class objects in Ruby. You will also be focusing on the most basic form of testing, [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md).
+This week you will work on solidifying your understanding of creating class objects in Ruby. You will also be focusing on the most basic form of testing, [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md).
 
 The curriculum is designed to help you with the process of thinking through complicated problems. In order to develop this skill, make sure to follow each step  in each challenge (pseudocode, initial solution, driver test code, refactoring, reflection, and review).
 
@@ -58,4 +58,3 @@ Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 Once you have the entire local repository on your computer, you don't need to read the challenges on GitHub anymore (although we admit, it's prettier). You can open the entire repository in Sublime and read the challenges in their original markdown. It will also help you find any link issues, since you can see where they are pointing. If you do find broken links, please let us know by posting on the community. Also try to figure out a fix and submit a pull request to correct the error. It will help your markdown and git skills!
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
- -->

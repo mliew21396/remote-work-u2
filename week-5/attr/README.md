@@ -78,24 +78,16 @@ class Garden
     @plants << plant
   end
 
-  def plants
-    @plants
-  end
-
 end
 
 my_garden = Garden.new
+my_tree = Tree.new("Japanese Maple")
 my_garden.add(my_tree)
-my_garden.plants.map { |plant| p plant.name } #=> ["Japanese Maple"]
+my_garden.plants.each { |plant| puts plant.name } #=> "Japanese Maple"
 ```
 
-It's time for you to practice sending data between classes (like we did above) with a small example.
 
-Create a class called `NameData` and a class called `Greetings`. `NameData` will have your name as an instance variable, and `Greetings` will have a method that will print a string to the console with a salutation customized to you.
-
-You want to give the `Greetings` class access to the `NameData` class methods using the attr methods. (Note: please do not use global variables or inheritance to do this, stick with applying the attr methods).
-
-Below is an illustration of this concept with two generic classes 'Emitter' and 'Receiver'.  `Emitter` has some data we need and `Receiver` uses the data from `Emitter` and makes some modifications.
+Until now, you have probably only created classes inside driver code. It is important to know that you are able to create instances of a class inside another class. The following example demonstrates creating the `Emitter` class inside the `Receiver` class. This gives `Receiver` access to the data inside `important_method`.
 
 ```ruby
 class Emitter
@@ -118,6 +110,21 @@ receiver = Receiver.new
 receiver.use_data #=> 10
 
 ```
+
+It's time for you to practice sending data between classes (like we did above) with a small example.
+
+You will have 2 classes, `NameData` and `Greetings`. `NameData` will initialize a `@name` variable with your name. `Greetings` will initialize an instance of `NameData` and include a method to display a salutation to the console.
+
+
+It should look something like this:
+
+```ruby
+greet = Greetings.new
+greet.hello # puts "Hello Student! How wonderful to see you today."
+```
+
+
+**Note:** please do not use global variables or inheritance to do this, stick with applying the attr_ methods.
 
 ## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 

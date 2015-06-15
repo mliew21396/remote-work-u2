@@ -17,7 +17,7 @@
 ## Summary
 Your future career will require you to deal with a lot of "legacy code," i.e. code that works, but is difficult to modify. Sometimes you will be given the option to start over or modify the original code. Other times you will be forced to work with legacy code due to time or budget constraints. In this challenge, you will need to refactor the existing code, while making it work the same way. The driver test code should still print "true" without being modified (apart from one test - figure out why!).
 
-This challenge was created while working at a Bakery. The code itself works in a strange way -- to maximize efficiency. The Bakery makes exactly enough food for each person to have a single serving, regardless of what their favorite food is. That said, this challenge will help you solidify your Ruby fundamentals.
+This challenge was created while working at a Bakery. The code itself works in a strange way -- to maximize efficiency. The Bakery makes exactly enough food for each person to have a single serving, taking their favorite food into account first, but then filling out the rest of the order with other foods because there can't be any leftovers.  That said, this challenge has been designed to help you solidify your Ruby fundamentals.
 
 You'll want to work through each release as stated. It breaks up the flow of the challenge, but each section is tied to a learning competency.
 

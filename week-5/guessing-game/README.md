@@ -18,6 +18,8 @@ Define an instance method `GuessingGame#guess` which takes an integer called `gu
 
 Define an instance method `GuessingGame#solved?` which returns `true` if the most recent `guess` was correct and `false` otherwise.
 
+In this case, we're asking you to use symbols for `:low`, `:high`, and `:correct`. This is partly due to the way strings and symbols are stored in memory. If you're interested in more information, look it up!
+
 For example:
 
 ```ruby

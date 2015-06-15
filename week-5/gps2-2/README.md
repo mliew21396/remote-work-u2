@@ -8,26 +8,30 @@
 - Explain the goal of the code accurately based on driver code
 - Properly indent and comment the code
 - Describe the purpose of each line of code
-- Analyze the purpose of `has_fave`
+- Analyze the purpose of variables
 - Describe the benefits of a hash and refactor inefficient implementations of accessing a hash
 - Research methods and principles using Ruby Docs and other online resources
 - Explain the purpose of flow control and looping
 - Identify and refactor redundant or WET (not DRY) code
 
 ## Summary
-Your future career will require you to deal with a lot of "legacy code," i.e. code that works as intended, but is difficult to modify. Sometimes you will be given the option to start over or modify the original code. Other times you will be forced to work with legacy code due to time or budget constraints. In this challenge, you will need to refactor the existing code, while making it work the same way. The driver test code should still print "true" without being modified (apart from one test - figure out why!).
+Your future career will require you to deal with a lot of "legacy code," i.e. code that works, but is difficult to modify. Sometimes you will be given the option to start over or modify the original code. Other times you will be forced to work with legacy code due to time or budget constraints. In this challenge, you will need to refactor the existing code, while making it work the same way. The driver test code should still print "true" without being modified (apart from one test - figure out why!).
 
-This challenge was created while working at a Bakery. The code itself works in a strange way -- to maximize efficiency of the number of baked goods needed. That said, this challenge will help you solidify your Ruby fundamentals.
+This challenge was created while working at a Bakery. The code itself works in a strange way -- to maximize efficiency. The Bakery makes exactly enough food for each person to have a single serving, regardless of what their favorite food is. That said, this challenge will help you solidify your Ruby fundamentals.
 
-Releases
+You'll want to work through each release as stated. It breaks up the flow of the challenge, but each section is tied to a learning competency.
+
+## Releases
 
 ## Release 0: Run the code
 Whenever you get a set of code, you want to run it to make sure it works. Run the [my_solution.rb](my_solution.rb) file in your terminal before making any changes.
 
+You'll see that one test returns `false`, which indicates the code isn't working 100% as intended. Don't worry about this for now.
+
 ## Release 1: Identify the Purpose
 Based on the test code at the bottom, what is the code doing (in general)? Identify the inputs and outputs. What do the tests output and why?
 
-What does the value represent for each key in the hash?
+What does the value represent for each key in the hash? (HINT: use the summary and line 11 to help).
 
 ## Release 2: Setting up Variables
 - Look at the "Release 2" chunk of code. What is it doing? What information does each variable hold?
@@ -36,7 +40,7 @@ What does the value represent for each key in the hash?
 ## Release 3: Hashes
 - Indent the "Release 3" chunk properly.
 - Then read through and discuss what it's doing. Write that in a comment below "Release 3."
-- Consider, is this a good way to do this? Why or why not?
+- Consider, is this code efficient? Why or why not?
 - Refactor the code as necessary.
 - Run the code after making changes to check it still works!
 
@@ -67,9 +71,7 @@ What does the value represent for each key in the hash?
 ## Release 8: Why is it all so terrible?!?! (Optional)
 - You should already know what this chunk of code does, so write that in a comment below "Release 8."
 - What do you think about the way the code works from releases 5 - 8? Does it make sense to you? Is there a better way to do this?
-- Look at the last line of Driver Test Code. As you can see, the code isn't even working correctly!
 - Refactor the code so that the method will give "cake" if they ask for it. You can decide how to implement this.
-- Change that line of Driver Test code so it makes sense.
 - Run the code after making the changes to ensure it still works.
 
 ## Release 9: Submit Feedback for your Pair

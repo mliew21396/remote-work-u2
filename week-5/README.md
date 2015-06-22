@@ -15,7 +15,7 @@ Number | Name | Est. time (hrs)**
 1. | [Die Class 2: Arbitrary Symbols](die) | 1.5
 2. | [Build a Simple Guessing Game](guessing-game) | 1.5
 3. | [Attr Challenge](attr) | 1.5
-4. | [Nested Data Stuctures](nested-data-structures) *(Mandatory Pairing)* | 2
+4. | [Nested Data Structures](nested-data-structures) *(Mandatory Pairing)* | 2
 5. | [Bingo SOLO CHALLENGE](bingo-solo-challenge) *(Read early; it's challenging!)* | 5
 6. | [Validate Credit Card](validate-credit-card) | 2.5
 7. | [Blog Improvement](blog-improvement.md)

@@ -31,6 +31,9 @@ Number | Name | Est. time (hrs)**
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU2W5.** Only other DBC students can actually see your repositories because they are private.
 
+## Video Resources
+- [Nested Data Structures](https://talks.devbootcamp.com/nested-data-structures-1)
+
 ## Fetch DBC's Changes
 ####It's time to fetch changes from DevBootcamp's phase-0-unit-2 master repo.
 Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md)!

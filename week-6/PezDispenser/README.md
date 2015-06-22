@@ -36,7 +36,9 @@ You already know you need to have a PezDispenser class by looking at the Driver 
 ## Release 4: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 Make sure your driver code runs and the output matches what you expect.
 
-Then, implement a `Pez` class so instead of simply passing in a flavor as a string to the `PezDispenser` class, you will pass in an array of `Pez` objects that has a flavor. What else do you need to change in the Driver code to make it return the same thing as it did before? This exercise will really help solidify attr methods...
+Then, implement a `Pez` class, which will represent a single pez. You will want to initialize a flavor when you create a `Pez` object. Then, instead of simply passing in a flavor as a string to the `PezDispenser` class, you will pass in an array of `Pez` objects.
+
+Consider: what else do you need to change in the Driver code to make it return the same thing as it did before? This exercise will really help solidify attr methods...
 
 For example:
 
@@ -44,7 +46,7 @@ For example:
 possible_flavors = ["cherry", "chocolate", "cola", "grape", "lemon", "orange", "peppermint", "raspberry", "strawberry"]
 pez_pack = []
 #This is how you would push one random flavor into the pez pack. How would you push one of each flavor?
-pez_pack.push(Pez.new(flavors.shuffle)) 
+pez_pack.push(Pez.new(flavors.shuffle))
 super_mario = PezDispenser.new(flavors)
 ```
 

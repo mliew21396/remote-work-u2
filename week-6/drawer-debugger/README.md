@@ -27,6 +27,8 @@ Run the code from the console. You should encounter 8 errors before it will run 
 ## Release 2: Test!
 Write tests using [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md).
 
+Test that your assumptions are correct. If you are adding something to the drawer, for example, it might be a good test to make sure the number of spoons is what you expect.
+
 ## Release 3: Call it again (x3)
 Interact with the code by writing at least three more different method calls. Did they return what you expected?
 

@@ -16,7 +16,7 @@
 
 ## Summary
 
-The C.D.C. (Centers for Disease Control) is concerned about a recent form of deadly influenza. They've implemented the following program to predict the effect of the virus by state. Eventually they want to predict the spread of the virus, which is why that data is included.
+The C.D.C. (Centers for Disease Control) is concerned about a recent form of deadly influenza. They've implemented the following program to predict the effect of the virus by state.
 
 The initial program is not very D.R.Y., but the program designer went on vacation and your boss needs the model to work efficiently so they can present their findings to Congress. You've been brought in to make the code more efficient and expandable for later features such as incorporating demographic data.
 
@@ -35,10 +35,12 @@ Take a look at the `state_data` file. What is going on with this hash? What does
 Comment each method (above the method) and define its responsibility.
 
 ## Release 4: Implement a new feature!
-Create a report for all 50 states, not just the 4 listed. Is there a D.R.Y. way of doing this? Does this belong in the class or outside of it? Why?
+Right now this is only running a report for 4 states, and it's not incredibly dry.
+
+Create a report for all 50 states in a D.R.Y. way. Does this belong in the class or outside of it? Why?
 
 ## Release 5: Refactor `virus_effects`
-First, ONLY look at the `virus_effects` method. (Do not look at `predicted deaths` or `speed_of_spread` themselves.) It's a short but deceptive method...that isn't quite D.R.Y. Consider the scope of instance variables...
+First, ONLY look at the `virus_effects` method. (Do not look at `predicted deaths` or `speed_of_spread` themselves.) It's a short but deceptive method that isn't quite D.R.Y. Consider the scope of instance variables to determine what could be refactored. Once you figure it out, you'll need to edit the `predicted_deaths` and `speed_of_spread` methods.
 
 ## Release 6: Private
 What is the purpose of "private"? What happens if you move it above `virus_effects`?

@@ -27,7 +27,7 @@ Keep in mind the differences between destructive and non-destructive methods. So
 ## Release 1: Find Your Role
 Refer to your accountability group spreadsheet to find your role.
 
-Each person has a challenge to solve. This does not need to be done in any order.
+Each person has one challenge to solve. This does not need to be done in any order.
 
 If you have fewer than five accountability group members, only do as many of the challenges as you have people. Your goal is to learn how to use existing methods and teach others, not to learn specific methods. If you only have three people, only do the first three challenges.
 
@@ -36,7 +36,7 @@ That said, doing only your own release is the minimum. If you have time after fi
 Use the [Ruby Docs](http://ruby-doc.org/) find methods you can use
 on arrays and a hashes, and use them to complete each goal.
 
-Once you complete your challenge, Identify and describe the Ruby method you implemented. Teach your accountability group how to use the methods.
+Once you complete your challenge, identify and describe the Ruby method you implemented. Teach your accountability group how to use the methods.
 
 Each person will be working with the following `Array` and `Hash` (These will be permanently modified by some methods, and not by others):
 
@@ -145,7 +145,7 @@ Use the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/
 What did you learn about researching and explaining your research to others?
 
 ## Release 5: Update your solution
-When you get all of the solutions, paste them into your file as well. Review the solutions they created. Which existing methods did they use? Try to use them based on the instructions your group-mate included.
+When you get all of the solutions from your group, paste them into your file so you have examples of how to use them. Review the solutions they created. Which existing methods did they use? Try to use them based on the instructions your group-mate included.
 
 ## Release 6: Commit and Push
 Push your final solution to GitHub.

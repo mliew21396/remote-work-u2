@@ -1,6 +1,6 @@
 # U2.W4: Research Methods
 
-# I spent [] hours on this challenge.
+# I spent 2 hours on this challenge.
 
 i_want_pets = ["I", "want", 3, "pets", "but", "only", "have", 2]
 my_family_pets_ages = {"Evi" => 6, "Ditto" => 3, "Hoobie" => 3, "George" => 12, "Bogart" => 4, "Poly" => 4, "Annabelle" => 0}
@@ -51,11 +51,19 @@ end
 
 # Person 4
 def my_array_deletion_method!(source, thing_to_delete)
-  source.dup # This line is here to make sure all tests initially fail. Delete it when you begin coding.
+  source.reject!{ |e|
+    if e.to_s.include?(thing_to_delete)
+      e
+    end  }
 end
+# puts my_array_deletion_method!(["kdk",1,"kd","sdf"],"1")
+
 
 def my_hash_deletion_method!(source, thing_to_delete)
-  source.dup # This line is here to make sure all tests initially fail. Delete it when you begin coding.
+  source.reject!{ |k,v|
+    if k.to_s.include?(thing_to_delete)
+      k
+    end  }
 end
 
 # Identify and describe the Ruby method(s) you implemented.

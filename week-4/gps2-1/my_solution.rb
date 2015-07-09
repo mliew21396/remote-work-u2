@@ -42,7 +42,15 @@ end
 
 
 print_triangle(5)
-
-
+#Refactored solution
+def print_triangle(rows)
+  if rows <= 0
+    raise ArgumentError.new("Only non-negative numbers are allowed")
+  else
+    rows.times {|x| puts "*" * (x+1)}
+  end
+end
+#Reflection
+# This gps went really smoothly. We went with Tanya's idea at first and it worked. We then were able to refactor the .times method so it was cleaner and not on so many lines. I haven't used this method that often so it was nice to see it used. For the alternative solution we used my idea of while looping with a counter. We didn't have any issues with the concepts or exercises. We got overly complicated at times digging into refactoring, but i think it was for the best in terms of experience. This was a fun challenge.
 
 

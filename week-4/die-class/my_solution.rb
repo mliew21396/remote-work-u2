@@ -2,7 +2,7 @@
 
 # I worked on this challenge with Laura.
 
-# I spent .5 hours on this challenge.
+# I spent 1 hours on this challenge.
 
 # 0. Pseudocode
 

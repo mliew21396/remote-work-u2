@@ -16,7 +16,7 @@ Number | Name | Est. time (hrs)**
 4. | [Separate Numbers with Commas SOLO CHALLENGE](nums-commas-solo-challenge) | 2.75
 5. | [Create Accountability Groups](acct-groups) | 2.25
 6. | [Die Class](die-class) | 1.5
-7. | [Blog Improvement](blog-improvement.md)
+7. | [Blog Improvement](blog-improvement.md) | N/A
 8. | [Technical Blog](technical-blog.md) | 1.5
 9. | [Cultural Blog](cultural-blog.md) | 1.5
 10.| [GPS 2.1](gps2-1) **(Don't look until your GPS Session!)** | 1.25

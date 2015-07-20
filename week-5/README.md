@@ -18,7 +18,7 @@ Number | Name | Est. time (hrs)**
 4. | [Nested Data Structures](nested-data-structures) *(Mandatory Pairing)* | 2
 5. | [Bingo SOLO CHALLENGE](bingo-solo-challenge) *(Read early; it's challenging!)* | 5
 6. | [Validate Credit Card](validate-credit-card) | 2.5
-7. | [Blog Improvement](blog-improvement.md)
+7. | [Blog Improvement](blog-improvement.md) | N/A
 8. | [Technical Blog](technical-blog.md) | 1.5
 9. | [Cultural Blog](cultural-blog.md) | 1.25
 10.| [GPS 2.2](gps2-2) **(Don't look until your GPS Session!)** | 2

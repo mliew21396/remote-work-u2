@@ -1,6 +1,6 @@
 # U2.W6: Create a Bingo Scorer (SOLO CHALLENGE)
 
-# I spent [#] hours on this challenge.
+# I spent 3.5 hours on this challenge.
 
 # Pseudocode
 # Initial thoughts: there are two ways to do this, check each of the four win conditions separately or start with the first nested array's index and go through each value one by one then if 'x' is there, check below, and to the right(diagonals only ever occur twice so they can be separate; this is more expansive and works off board.length).
@@ -376,3 +376,6 @@ obj11.bingocheck
 obj12 = BingoScorer_Optional.new(outside_corners_b)
 obj12.bingocheck
 # Reflection
+# I liked this solo challenge. There were multiple ways I could solve this, but decided to do the harder route and try to make my solution flexible for boards with different board lengths. The solution I ran with was slightly different from my pseudocode as I started running through my loops with different methods, but it all came together in the end. I was surprised that my vertical solution was harder than I envisioned but was able to work through it.
+# As for the optional challenges, I realized they only exist for odd numbered side lengths of the board. I had to hard code my solution. I created a different class that had the squares hard coded into my methods. Wasn't flexible like I wanted but I dont' think I had any other choice.
+# Overall I like how this challenge forced me to thinking in deep logic methods(method loops within method loops) and I feel I became stronger in my logic calculations. I look forward to the next solo challenge and hope it's even more challenging.

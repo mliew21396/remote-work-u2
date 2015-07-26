@@ -1,7 +1,7 @@
 # U2.W6: Cipher Challenge
 
-# I worked on this challenge [by myself, with:]
-# I spent [#] hours on this challenge.
+# I worked on this challenge with David.
+# I spent 1 hours on this challenge.
 
 # 1. Solution
 # Write your comments on what each thing is doing.
@@ -242,3 +242,4 @@ p obj4.decode
 
 # Reflection
 # Keep your reflection limited to 10-15 minutes!
+# I liked how this challenge really dived into understanding OOD, especially how classes/methods work between each other. Coming into this challenge, I was very hesitant with my knowledge even though I did all the readings thoroughly. This was a sorta trial by fire, but David and I were able to work through it. I enjoyed this.

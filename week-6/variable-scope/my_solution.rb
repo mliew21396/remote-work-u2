@@ -61,3 +61,4 @@ p grade.return_global_array
 
 # Reflection
 # Exercise 0: It seems with the require at the top is a method, so that's why everything is accessible except the local variable.
+# Though this challenge was pretty straightforward, I felt it was a nice intro into the scope of variables. I always feel repeition is necessary so it was nice to reenforce the material with this challenge.

@@ -159,4 +159,4 @@ STATE_DATA.each_key{|key|
 #population density is number of people per square mile as of 2012
 #this data is updated every year with estimates from a 10 year census
 
-
+#This challenge was good. It made me thing in an abstract way. I didn't have a partner, but James was helpful when I hit snags. I liked how I learned about the private/public concepts and drilled through different loopint techniques.

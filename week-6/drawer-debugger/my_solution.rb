@@ -1,7 +1,7 @@
 # U2.W6: Drawer Debugger
 
 # I worked on this challenge [by myself, with: ].
-# I spent [#] hours on this challenge.
+# I spent 1 hours on this challenge.
 
 # Original Code
 
@@ -122,3 +122,4 @@ puts silverware_drawer.contents.include?(spoon) == false
 
 
 # Reflection
+# This challenge was alright. It was fun going through the error logs one by one solving them. This was a decent challenge but it was a little rough finding what exactly needs to be done.

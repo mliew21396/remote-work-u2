@@ -10,18 +10,18 @@
 # Release 1
 
 class GradeCalculator
-  $array_of_all_grades = []
+  @@array_of_all_grades = []
   def initialize(array_of_grades)
-    $grades = array_of_grades
-    $number_of_grades = $grades.length
+    @grades = array_of_grades
+    @number_of_grades = @grades.length
   end
 
   def sum
-    $grades.inject{|mean, grade| mean + grade}
+    @grades.inject{|mean, grade| mean + grade}
   end
 
   def mean
-    sum / $number_of_grades
+    sum / @number_of_grades
   end
 
   def calculate_grade
@@ -42,11 +42,11 @@ class GradeCalculator
   end
 
   def add_grades
-    $array_of_all_grades << calculate_grade
+    @@array_of_all_grades << calculate_grade
   end
 
   def return_global_array
-    return $array_of_all_grades
+    return @@array_of_all_grades
   end
 end
 
@@ -60,3 +60,4 @@ p grade.return_global_array
 
 
 # Reflection
+# Exercise 0: It seems with the require at the top is a method, so that's why everything is accessible except the local variable.
